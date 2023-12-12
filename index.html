@@ -1,0 +1,220 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="description" content="">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Final Project - Aida, Niki, Sydney</title>
+
+		<!-- Load CSS libraries -->
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/4.0.20/fullpage.min.css" integrity="sha512-otONSJGv1l0LjJXcgyqi2MeKXtnthkiXAleeQjFJOKYcVD5u+mOuPb7xCnlsb74Ld+N0ONbP7KYRmW2/OWrvaA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+		<link rel="stylesheet" href="css/style.css">
+
+		<!-- GOOGLE FONTS -->
+		<link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,400italic,300italic' rel='stylesheet' type='text/css'>
+	</head>
+
+	<body>
+
+	<div id="fullPage">
+		<div class="section s1">
+			<div class="content-container">
+				<h1> The Global Education Puzzle: </h1>
+				<h1> Unpacking Out-of-School Rates and Pandemic Disruptions </h1>
+				<h2> Aida York, Niki Ekstrom, Sydney Levy </h2>
+			</div>
+			<div class="instruction-container">
+				<p class="instruction-text">Use down arrow key to scroll to the next page</p>
+			</div>
+		</div>
+
+		<div class="section s9">
+			<p> As of March 2021, 168 million children globally were <span class="emphasis">out of school</span> for almost a full year
+				due to the Covid-19 pandemic. </p>
+			<p> Throughout the pandemic, schools responded in a number of different ways: <br> some <span class="emphasis">shutting down entirely</span>,
+				while others switched to <span class="emphasis">hybrid learning</span>,
+				and yet others <span class="emphasis">remained entirely open</span>. </p>
+		</div>
+
+		<div class="section s10">
+			<h1> COVID-19's Effect on School Closures </h1>
+			<h6> Click Begin Timelapse to show school closure development over time. Drag to select a time period to update the area charts.</h6>
+			<div class="row" id = "lineRow">
+				<div class = "col-md-8">
+					<button id="drawLinesButton">Begin Timelapse</button>
+					<div id="lineChartCovid"></div>
+				</div>
+				<div class = "col-md-4">
+					<div id="area-chart1"  style="height: 38vh; width: 80%;">
+					</div>
+					<div id="area-chart2"  style="height: 38vh; width: 80%;">
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="section s2">
+			<p> However, many children around the world faced issues <span class="emphasis">accessing education</span> even before the pandemic. </p>
+		</div>
+
+		<div class="section s3">
+			<p> UNESCO defines a country's <span class="emphasis">out-of-school rate</span> as: </p>
+			<span class="emphasis"><p> the proportion of children in the official age
+				range for the given level of education <br> who are not enrolled in pre-primary, primary,
+				secondary or higher levels of education
+			</p ></span>
+			<br><br>
+			<p>	Out of school rates vary widely across the globe. Explore the map on the next page to find the variation in out-of-school rates across regions. </p>
+
+		</div>
+
+		<div class="section s4">
+			<div class="row">
+			<h1> Out of School Rates Around the Globe </h1>
+			<h6> Click on each country to see their trend </h6>
+			</div>
+			<div class="row">
+				<div id="mapDiv" style="height: 70vh; width: 100%;"></div>
+				<p class ="note">* Countries in white are missing out of school rates</p>
+			</div>
+		</div>
+
+		<div class="section s5">
+			<p> The globe above highlights that <span class="emphasis">Sub-Saharan Africa</span> has the highest
+				out-of-school rates. </p>
+			<p> However, <span class="emphasis">region</span> alone does not tell the full story. </p>
+			<p> Use the visual below to explore other factors impacting a country's out-of-school rates. </p>
+		</div>
+
+
+		<div class="section s6">
+			<h1> Factors Impacting Out of School Rates</h1>
+			<div style="display: flex; justify-content: center; margin-bottom: 20px;">
+				<button onclick="toggleButton('allCountries')" id="allCountries" >All Countries</button>
+				<button onclick="toggleButton('countriesByRegion')" id="countriesByRegion">By Region</button>
+				<button onclick="toggleButton('countriesByDevStatus')" id="countriesByDevStatus">By Development Status</button>
+				<button onclick="toggleButton('countriesByGender')" id="countriesByGender">By Gender Inequality</button>
+				<button onclick="toggleButton('countriesByUrban')" id="countriesByUrban">By Urban Inequality</button>
+			</div>
+			<div id="bubbleDiv" style="height: 78vh; width: 100%;"></div>
+
+		</div>
+
+		<div class="section s7">
+			<p> Even within a region or development status, out-of-school rates can vary depending on the <span class="emphasis">characteristics of each student</span>. </p>
+			<p> These characteristics can include: gender and urban residency. </p>
+		</div>
+
+		<div class="section s8">
+			<h1> Demographic Makeup of Regional Out of School Rates </h1>
+			<div class="row">
+				<select class="form-group" id="metric" onchange="categoryChange()">
+					<option value="Gender">Female vs. Male</option>
+					<option value="Residency">Urban vs. Rural</option>
+				</select>
+			</div>
+			<div class="row">
+				<div id="chartContainer" style="position: relative;">
+					<div class ="col-12">
+						<div id="barPlot" style="height: 71vh; width: 95%; float: left;"></div>
+					</div>
+
+					<div class ="col-2">
+
+						<div id="factGenerator" style="position: absolute; top: 0; left: 60%; width: 35%;">
+							<button onclick="nextFact()" class = "fact">Did You Know?</button>
+							<div id="factTextDiv">
+							<p id="factText" > </p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+		<div class="section s11">
+			<h1> So What Can Be Done? </h1> <br>
+			<ul>
+				<li>In addition to funding new schools and teachers to keep up with population growth, any aid to address out of school rates must focus on the <span class="emphasis">causes that keep vulnerable children out of school</span>.</li>
+				<li>According to UNICEF, these causes include: pervasive levels of <span class="emphasis">poverty</span>, protracted <span class="emphasis">conflicts</span>, and complex <span class="emphasis">humanitarian emergencies</span>.</li>
+				<li>Investments should focus on regions such as the Middle East and North Africa, which have faced high out-of-school rates due to frequent wars.</li>
+				<li>Additionally, high levels of poverty in Sub-Saharan Africa and South Asia would make these regions prime targets for aid.</li>
+			</ul>
+		</div>
+		<div class="section s12">
+			<h1> Sources </h1>
+			<ul>
+				<h7> Datasets Used </h7>
+				<li><a href="https://www.kaggle.com/datasets/komalkhetlani/out-of-school-rates-global-data">Kaggle Dataset</a></li>
+				<li><a href="https://covid19.uis.unesco.org/global-monitoring-school-closures-covid19/">UNESCO COVID-19 School Closures</a></li>
+				<h7> Article Sources </h7>
+				<li><a href="https://www.unicef.org/press-releases/schools-more-168-million-children-globally-have-been-completely-closed">UNICEF Press Release</a></li>
+				<li><a href="https://www.unicef.org/turkiye/en/node/1856">UNICEF Little Progress in Out of School Rates</a></li>
+				<li><a href="https://ourworldindata.org/children-not-in-school">Our World in Data Facts</a></li>
+				<li><a href="https://borgenproject.org/mobile-schools-in-mongolia/l">Mongolia Mobile Schools</a></li>
+				<h7> Visualization Coding Sources </h7>
+				<li><a href="https://observablehq.com/@d3/bubble-chart/2">Static Bubble Chart</a></li>
+				<li><a href="https://vallandingham.me/bubble_charts_with_d3v4.html">Bubble Chart Animation</a></li>
+				<h7> Acknowledgements </h7>
+				<li><p>We would like to thank Professor Pfister and Professor Beyer for all the information they have taught us throughout the semester</p></li>
+				<li><p> We also greatly appreciate all the feedback and suggestions we got from our teaching fellow Diana Feng</p></li>
+				<li><p> Finally, we want to cite that we used ChatGPT for debugging purposes during our project</p></li>
+
+			</ul>
+		</div>
+
+	</div>
+
+	<!-- embedding JS libraries -->
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
+
+	<!-- d3 -->
+	<script src="https://d3js.org/d3.v7.min.js"></script>
+	<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+	<script src="https://d3js.org/topojson.v2.min.js"></script>
+	<script src="https://d3js.org/d3-geo.v1.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/d3-array@3"></script>
+	<script src="https://cdn.jsdelivr.net/npm/d3-geo@3"></script>
+	<script src="https://cdn.jsdelivr.net/npm/d3-geo-projection@4"></script>
+
+
+	<!-- own js files -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/4.0.20/fullpage.min.js" integrity="sha512-LGiXf+jHGTHcIybSsOWO3I/in+OObCkcEsWIZ7IyhzfD6RzD5qDUw2CK+JveuI7zTSEcDG//bIOvOpAJW2BWsg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+	<script>
+		new fullpage('#fullPage', {
+			autoScrolling: true,
+			navigation: true,
+			scrollable: false,
+		});
+
+	</script>
+	<script>
+		let activeButton = 'allCountries';
+		document.getElementById('allCountries').style.backgroundColor = '#6f7378';
+
+		function toggleButton(clickedButton) {
+			if (activeButton !== clickedButton) {
+				document.getElementById(activeButton).style.backgroundColor = '';
+				document.getElementById(clickedButton).style.backgroundColor = '#6f7378';
+				activeButton = clickedButton;
+			}
+		}
+	</script>
+	<script> let selectedCategory =  document.getElementById('metric').value;
+	function categoryChange() {
+		selectedCategory =  document.getElementById('metric').value;
+		console.log(selectedCategory)
+		mybarPlot.updateVis();
+
+	}
+	</script>
+	<script src="js/bubbleChart.js"></script>
+	<script src="js/globe.js"></script>
+	<script src="js/linePlot.js"></script>
+	<script src="js/areaChart.js"></script>
+	<script src="js/barPlot.js"></script>
+	<script src="js/main.js"></script>
+	</body>
+</html>
