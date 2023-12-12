@@ -1,0 +1,4382 @@
+name,country,level,sex,year,value,lower,upper
+Aruba,ABW,all,total,2000,0.06,0.02,0.09
+Afghanistan,AFG,all,total,2000,0.58,0.49,0.68
+Angola,AGO,all,total,2000,0.62,0.56,0.69
+Albania,ALB,all,total,2000,0.19,0.15,0.22
+Andorra,AND,all,total,2000,0.18,0.15,0.22
+United Arab Emirates,ARE,all,total,2000,0.17,0.13,0.2
+Argentina,ARG,all,total,2000,0.06,0.05,0.06
+Armenia,ARM,all,total,2000,0.1,0.06,0.14
+Antigua/Barbuda,ATG,all,total,2000,0.35,0.21,0.5
+Australia,AUS,all,total,2000,0.04,0.0,0.07
+Austria,AUT,all,total,2000,0.05,0.02,0.07
+Azerbaijan,AZE,all,total,2000,0.07,0.01,0.14
+Burundi,BDI,all,total,2000,0.69,0.66,0.73
+Belgium,BEL,all,total,2000,0.0,0.0,0.01
+Benin,BEN,all,total,2000,0.46,0.41,0.51
+Burkina Faso,BFA,all,total,2000,0.77,0.73,0.82
+Bangladesh,BGD,all,total,2000,0.31,0.27,0.34
+Bulgaria,BGR,all,total,2000,0.06,0.04,0.08
+Bahrain,BHR,all,total,2000,0.11,0.07,0.14
+Bahamas,BHS,all,total,2000,0.15,0.08,0.21
+Bosnia and Herz.,BIH,all,total,2000,0.09,0.0,0.19
+Belarus,BLR,all,total,2000,0.01,0.0,0.02
+Belize,BLZ,all,total,2000,0.15,0.11,0.19
+Bolivia,BOL,all,total,2000,0.1,0.09,0.11
+Brazil,BRA,all,total,2000,0.08,0.07,0.09
+Barbados,BRB,all,total,2000,0.03,0.01,0.06
+Brunei Daruss.,BRN,all,total,2000,0.04,0.0,0.08
+Bhutan,BTN,all,total,2000,0.47,0.43,0.51
+Botswana,BWA,all,total,2000,0.13,0.1,0.16
+Central African Rep.,CAF,all,total,2000,0.72,0.64,0.79
+Canada,CAN,all,total,2000,0.03,0.0,0.12
+Switzerland,CHE,all,total,2000,0.07,0.05,0.09
+Chile,CHL,all,total,2000,0.07,0.03,0.1
+China,CHN,all,total,2000,0.16,0.07,0.24
+Cote d'Ivoire,CIV,all,total,2000,0.63,0.58,0.67
+Cameroon,CMR,all,total,2000,0.5,0.45,0.56
+Dem. Rep. Congo,COD,all,total,2000,0.39,0.18,0.61
+Congo,COG,all,total,2000,0.71,0.67,0.76
+Colombia,COL,all,total,2000,0.15,0.12,0.17
+Comoros,COM,all,total,2000,0.27,0.05,0.49
+Cabo Verde,CPV,all,total,2000,0.18,0.13,0.22
+Costa Rica,CRI,all,total,2000,0.12,0.1,0.14
+Cuba,CUB,all,total,2000,0.09,0.05,0.13
+Cyprus,CYP,all,total,2000,0.05,0.02,0.08
+Czechia,CZE,all,total,2000,0.02,0.0,0.03
+Germany,DEU,all,total,2000,0.02,0.0,0.08
+Djibouti,DJI,all,total,2000,0.76,0.69,0.83
+Denmark,DNK,all,total,2000,0.04,0.02,0.06
+Dominican Rep.,DOM,all,total,2000,0.2,0.19,0.22
+Algeria,DZA,all,total,2000,0.18,0.13,0.24
+Ecuador,ECU,all,total,2000,0.24,0.21,0.27
+Egypt,EGY,all,total,2000,0.23,0.19,0.27
+Eritrea,ERI,all,total,2000,0.46,0.41,0.5
+Spain,ESP,all,total,2000,0.05,0.03,0.06
+Estonia,EST,all,total,2000,0.02,0.0,0.05
+Ethiopia,ETH,all,total,2000,0.65,0.63,0.68
+Finland,FIN,all,total,2000,0.02,0.01,0.04
+Fiji,FJI,all,total,2000,0.08,0.05,0.11
+France,FRA,all,total,2000,0.05,0.03,0.08
+"Micronesia, F. S.",FSM,all,total,2000,0.27,0.0,0.56
+United Kingdom,GBR,all,total,2000,0.04,0.02,0.06
+Georgia,GEO,all,total,2000,0.07,0.0,0.16
+Ghana,GHA,all,total,2000,0.52,0.5,0.54
+Guinea,GIN,all,total,2000,0.58,0.52,0.64
+Gambia,GMB,all,total,2000,0.51,0.46,0.56
+Guinea-Bissau,GNB,all,total,2000,0.53,0.44,0.62
+Equat. Guinea,GNQ,all,total,2000,0.43,0.4,0.46
+Greece,GRC,all,total,2000,0.16,0.12,0.2
+Grenada,GRD,all,total,2000,0.06,0.03,0.1
+Guatemala,GTM,all,total,2000,0.33,0.3,0.36
+Guyana,GUY,all,total,2000,0.23,0.16,0.3
+"Hong Kong, China",HKG,all,total,2000,0.15,0.1,0.2
+Honduras,HND,all,total,2000,0.32,0.27,0.37
+Croatia,HRV,all,total,2000,0.05,0.0,0.09
+Haiti,HTI,all,total,2000,0.22,0.19,0.24
+Hungary,HUN,all,total,2000,0.07,0.05,0.09
+Indonesia,IDN,all,total,2000,0.23,0.18,0.28
+India,IND,all,total,2000,0.47,0.42,0.52
+Ireland,IRL,all,total,2000,0.02,0.0,0.05
+Iran,IRN,all,total,2000,0.11,0.05,0.17
+Iraq,IRQ,all,total,2000,0.35,0.31,0.4
+Iceland,ISL,all,total,2000,0.06,0.04,0.08
+Israel,ISR,all,total,2000,0.0,0.0,0.0
+Italy,ITA,all,total,2000,0.06,0.03,0.08
+Jamaica,JAM,all,total,2000,0.13,0.1,0.17
+Jordan,JOR,all,total,2000,0.13,0.09,0.17
+Japan,JPN,all,total,2000,0.01,0.0,0.04
+Kazakhstan,KAZ,all,total,2000,0.03,0.0,0.06
+Kenya,KEN,all,total,2000,0.3,0.26,0.34
+Kyrgyzstan,KGZ,all,total,2000,0.11,0.04,0.17
+Cambodia,KHM,all,total,2000,0.37,0.35,0.4
+Kiribati,KIR,all,total,2000,0.07,0.0,0.19
+South Korea,KOR,all,total,2000,0.03,0.0,0.06
+Kuwait,KWT,all,total,2000,0.1,0.06,0.14
+Laos,LAO,all,total,2000,0.38,0.32,0.44
+Lebanon,LBN,all,total,2000,0.41,0.36,0.45
+Liberia,LBR,all,total,2000,0.3,0.17,0.42
+Saint Lucia,LCA,all,total,2000,0.17,0.12,0.21
+Liechtenstein,LIE,all,total,2000,0.03,0.02,0.05
+Sri Lanka,LKA,all,total,2000,0.12,0.1,0.15
+Lesotho,LSO,all,total,2000,0.24,0.19,0.29
+Lithuania,LTU,all,total,2000,0.02,0.0,0.03
+Luxembourg,LUX,all,total,2000,0.08,0.05,0.11
+Latvia,LVA,all,total,2000,0.04,0.02,0.06
+"Macao, China",MAC,all,total,2000,0.16,0.11,0.21
+Morocco,MAR,all,total,2000,0.35,0.29,0.4
+Rep. Moldova,MDA,all,total,2000,0.2,0.13,0.26
+Madagascar,MDG,all,total,2000,0.36,0.32,0.41
+Maldives,MDV,all,total,2000,0.09,0.06,0.12
+Mexico,MEX,all,total,2000,0.18,0.17,0.19
+Macedonia,MKD,all,total,2000,0.15,0.09,0.22
+Mali,MLI,all,total,2000,0.62,0.56,0.67
+Malta,MLT,all,total,2000,0.06,0.03,0.09
+Myanmar,MMR,all,total,2000,0.36,0.3,0.41
+Montenegro,MNE,all,total,2000,0.02,0.0,0.07
+Mongolia,MNG,all,total,2000,0.13,0.09,0.17
+Mozambique,MOZ,all,total,2000,0.5,0.47,0.53
+Mauritania,MRT,all,total,2000,0.55,0.5,0.59
+Mauritius,MUS,all,total,2000,0.18,0.16,0.2
+Malawi,MWI,all,total,2000,0.32,0.28,0.36
+Malaysia,MYS,all,total,2000,0.09,0.07,0.12
+Namibia,NAM,all,total,2000,0.15,0.11,0.18
+Niger,NER,all,total,2000,0.81,0.77,0.85
+Nigeria,NGA,all,total,2000,0.35,0.21,0.48
+Nicaragua,NIC,all,total,2000,0.24,0.2,0.28
+Netherlands,NLD,all,total,2000,0.03,0.01,0.05
+Norway,NOR,all,total,2000,0.03,0.01,0.04
+Nepal,NPL,all,total,2000,0.57,0.52,0.62
+New Zealand,NZL,all,total,2000,0.07,0.02,0.11
+Oman,OMN,all,total,2000,0.26,0.21,0.3
+Pakistan,PAK,all,total,2000,0.71,0.65,0.76
+Panama,PAN,all,total,2000,0.1,0.08,0.13
+Peru,PER,all,total,2000,0.08,0.05,0.11
+Philippines,PHL,all,total,2000,0.17,0.15,0.19
+Papua New Guinea,PNG,all,total,2000,0.47,0.33,0.61
+Poland,POL,all,total,2000,0.04,0.02,0.06
+Portugal,PRT,all,total,2000,0.05,0.03,0.07
+Paraguay,PRY,all,total,2000,0.14,0.11,0.18
+Palestine,PSE,all,total,2000,0.19,0.15,0.24
+Qatar,QAT,all,total,2000,0.19,0.15,0.24
+Romania,ROU,all,total,2000,0.13,0.1,0.16
+Rwanda,RWA,all,total,2000,0.43,0.38,0.48
+Saudi Arabia,SAU,all,total,2000,0.4,0.34,0.45
+Sudan,SDN,all,total,2000,0.78,0.72,0.83
+Senegal,SEN,all,total,2000,0.58,0.54,0.62
+Singapore,SGP,all,total,2000,0.0,0.0,0.02
+Solomon Is.,SLB,all,total,2000,0.25,0.09,0.41
+Sierra Leone,SLE,all,total,2000,0.44,0.36,0.53
+El Salvador,SLV,all,total,2000,0.13,0.06,0.2
+S. Sudan,SSD,all,total,2000,0.67,0.59,0.76
+S. Tome/Principe,STP,all,total,2000,0.37,0.32,0.42
+Suriname,SUR,all,total,2000,0.41,0.32,0.5
+Slovakia,SVK,all,total,2000,0.06,0.03,0.09
+Slovenia,SVN,all,total,2000,0.04,0.02,0.07
+Sweden,SWE,all,total,2000,0.01,0.0,0.03
+eSwatini,SWZ,all,total,2000,0.26,0.22,0.29
+Seychelles,SYC,all,total,2000,0.18,0.14,0.21
+Syria,SYR,all,total,2000,0.27,0.22,0.31
+Chad,TCD,all,total,2000,0.64,0.6,0.69
+Togo,TGO,all,total,2000,0.41,0.36,0.45
+Thailand,THA,all,total,2000,0.14,0.1,0.18
+Tajikistan,TJK,all,total,2000,0.14,0.1,0.18
+Timor-Leste,TLS,all,total,2000,0.56,0.4,0.71
+Tonga,TON,all,total,2000,0.12,0.05,0.18
+Trinidad/Tobago,TTO,all,total,2000,0.09,0.07,0.1
+Tunisia,TUN,all,total,2000,0.15,0.11,0.19
+Turkey,TUR,all,total,2000,0.22,0.12,0.32
+Tanzania,TZA,all,total,2000,0.48,0.43,0.52
+Uganda,UGA,all,total,2000,0.24,0.2,0.28
+Ukraine,UKR,all,total,2000,0.05,0.02,0.08
+Uruguay,URY,all,total,2000,0.05,0.03,0.07
+United States of America,USA,all,total,2000,0.05,0.04,0.05
+Uzbekistan,UZB,all,total,2000,0.18,0.09,0.27
+St Vincent/Grenad.,VCT,all,total,2000,0.08,0.05,0.12
+Venezuela,VEN,all,total,2000,0.16,0.12,0.19
+Vietnam,VNM,all,total,2000,0.35,0.3,0.4
+Vanuatu,VUT,all,total,2000,0.45,0.36,0.55
+Samoa,WSM,all,total,2000,0.09,0.0,0.2
+Yemen,YEM,all,total,2000,0.4,0.33,0.46
+South Africa,ZAF,all,total,2000,0.16,0.14,0.18
+Zambia,ZMB,all,total,2000,0.35,0.32,0.39
+Zimbabwe,ZWE,all,total,2000,0.33,0.27,0.39
+Aruba,ABW,all,total,2001,0.06,0.03,0.08
+Afghanistan,AFG,all,total,2001,0.54,0.46,0.62
+Angola,AGO,all,total,2001,0.59,0.54,0.65
+Albania,ALB,all,total,2001,0.18,0.16,0.2
+Andorra,AND,all,total,2001,0.17,0.15,0.19
+United Arab Emirates,ARE,all,total,2001,0.18,0.15,0.21
+Argentina,ARG,all,total,2001,0.06,0.05,0.06
+Armenia,ARM,all,total,2001,0.1,0.07,0.13
+Antigua/Barbuda,ATG,all,total,2001,0.32,0.2,0.44
+Australia,AUS,all,total,2001,0.04,0.01,0.06
+Austria,AUT,all,total,2001,0.04,0.03,0.06
+Azerbaijan,AZE,all,total,2001,0.07,0.02,0.13
+Burundi,BDI,all,total,2001,0.67,0.63,0.7
+Belgium,BEL,all,total,2001,0.0,0.0,0.01
+Benin,BEN,all,total,2001,0.44,0.4,0.48
+Burkina Faso,BFA,all,total,2001,0.76,0.72,0.8
+Bangladesh,BGD,all,total,2001,0.32,0.29,0.34
+Bulgaria,BGR,all,total,2001,0.06,0.05,0.07
+Bahrain,BHR,all,total,2001,0.11,0.08,0.14
+Bahamas,BHS,all,total,2001,0.13,0.09,0.18
+Bosnia and Herz.,BIH,all,total,2001,0.09,0.01,0.16
+Belarus,BLR,all,total,2001,0.01,0.0,0.02
+Belize,BLZ,all,total,2001,0.15,0.12,0.17
+Bolivia,BOL,all,total,2001,0.09,0.08,0.1
+Brazil,BRA,all,total,2001,0.08,0.07,0.08
+Barbados,BRB,all,total,2001,0.03,0.02,0.05
+Brunei Daruss.,BRN,all,total,2001,0.04,0.01,0.08
+Bhutan,BTN,all,total,2001,0.45,0.42,0.48
+Botswana,BWA,all,total,2001,0.12,0.1,0.15
+Central African Rep.,CAF,all,total,2001,0.7,0.64,0.76
+Canada,CAN,all,total,2001,0.03,0.0,0.11
+Switzerland,CHE,all,total,2001,0.07,0.06,0.09
+Chile,CHL,all,total,2001,0.06,0.04,0.09
+China,CHN,all,total,2001,0.15,0.07,0.23
+Côte d'Ivoire,CIV,all,total,2001,0.62,0.58,0.65
+Cameroon,CMR,all,total,2001,0.47,0.42,0.52
+Dem. Rep. Congo,COD,all,total,2001,0.38,0.18,0.58
+Congo,COG,all,total,2001,0.68,0.64,0.71
+Colombia,COL,all,total,2001,0.14,0.12,0.16
+Comoros,COM,all,total,2001,0.27,0.07,0.47
+Cabo Verde,CPV,all,total,2001,0.17,0.13,0.2
+Costa Rica,CRI,all,total,2001,0.12,0.11,0.14
+Cuba,CUB,all,total,2001,0.09,0.06,0.11
+Cyprus,CYP,all,total,2001,0.05,0.03,0.07
+Czechia,CZE,all,total,2001,0.01,0.0,0.03
+Germany,DEU,all,total,2001,0.02,0.0,0.08
+Djibouti,DJI,all,total,2001,0.75,0.69,0.81
+Denmark,DNK,all,total,2001,0.04,0.02,0.05
+Dominican Rep.,DOM,all,total,2001,0.2,0.19,0.22
+Algeria,DZA,all,total,2001,0.17,0.13,0.22
+Ecuador,ECU,all,total,2001,0.24,0.21,0.26
+Egypt,EGY,all,total,2001,0.23,0.2,0.26
+Eritrea,ERI,all,total,2001,0.44,0.41,0.48
+Spain,ESP,all,total,2001,0.05,0.04,0.05
+Estonia,EST,all,total,2001,0.03,0.01,0.04
+Ethiopia,ETH,all,total,2001,0.63,0.61,0.65
+Finland,FIN,all,total,2001,0.02,0.01,0.04
+Fiji,FJI,all,total,2001,0.08,0.06,0.1
+France,FRA,all,total,2001,0.05,0.03,0.07
+"Micronesia, F. S.",FSM,all,total,2001,0.27,0.0,0.53
+United Kingdom,GBR,all,total,2001,0.04,0.03,0.05
+Georgia,GEO,all,total,2001,0.07,0.01,0.14
+Ghana,GHA,all,total,2001,0.49,0.47,0.51
+Guinea,GIN,all,total,2001,0.56,0.52,0.61
+Gambia,GMB,all,total,2001,0.5,0.46,0.54
+Guinea-Bissau,GNB,all,total,2001,0.52,0.44,0.6
+Equat. Guinea,GNQ,all,total,2001,0.42,0.39,0.45
+Greece,GRC,all,total,2001,0.14,0.11,0.16
+Grenada,GRD,all,total,2001,0.06,0.03,0.09
+Guatemala,GTM,all,total,2001,0.31,0.29,0.34
+Guyana,GUY,all,total,2001,0.22,0.17,0.28
+"Hong Kong, China",HKG,all,total,2001,0.14,0.11,0.18
+Honduras,HND,all,total,2001,0.31,0.27,0.34
+Croatia,HRV,all,total,2001,0.05,0.01,0.08
+Haiti,HTI,all,total,2001,0.21,0.19,0.23
+Hungary,HUN,all,total,2001,0.06,0.05,0.07
+Indonesia,IDN,all,total,2001,0.23,0.19,0.26
+India,IND,all,total,2001,0.44,0.4,0.48
+Ireland,IRL,all,total,2001,0.02,0.01,0.04
+Iran,IRN,all,total,2001,0.11,0.06,0.15
+Iraq,IRQ,all,total,2001,0.34,0.31,0.38
+Iceland,ISL,all,total,2001,0.06,0.05,0.08
+Israel,ISR,all,total,2001,0.0,0.0,0.0
+Italy,ITA,all,total,2001,0.06,0.04,0.07
+Jamaica,JAM,all,total,2001,0.13,0.1,0.15
+Jordan,JOR,all,total,2001,0.13,0.1,0.16
+Japan,JPN,all,total,2001,0.01,0.0,0.03
+Kazakhstan,KAZ,all,total,2001,0.02,0.0,0.05
+Kenya,KEN,all,total,2001,0.28,0.25,0.31
+Kyrgyzstan,KGZ,all,total,2001,0.11,0.05,0.16
+Cambodia,KHM,all,total,2001,0.36,0.34,0.37
+Kiribati,KIR,all,total,2001,0.08,0.0,0.18
+South Korea,KOR,all,total,2001,0.03,0.0,0.06
+Kuwait,KWT,all,total,2001,0.1,0.07,0.12
+Laos,LAO,all,total,2001,0.37,0.32,0.41
+Lebanon,LBN,all,total,2001,0.39,0.36,0.43
+Liberia,LBR,all,total,2001,0.29,0.18,0.39
+Saint Lucia,LCA,all,total,2001,0.16,0.13,0.19
+Liechtenstein,LIE,all,total,2001,0.03,0.02,0.05
+Sri Lanka,LKA,all,total,2001,0.12,0.1,0.14
+Lesotho,LSO,all,total,2001,0.23,0.19,0.26
+Lithuania,LTU,all,total,2001,0.02,0.0,0.03
+Luxembourg,LUX,all,total,2001,0.08,0.06,0.1
+Latvia,LVA,all,total,2001,0.04,0.02,0.05
+"Macao, China",MAC,all,total,2001,0.16,0.12,0.19
+Morocco,MAR,all,total,2001,0.33,0.3,0.37
+Rep. Moldova,MDA,all,total,2001,0.19,0.14,0.24
+Madagascar,MDG,all,total,2001,0.36,0.32,0.39
+Maldives,MDV,all,total,2001,0.09,0.07,0.11
+Mexico,MEX,all,total,2001,0.17,0.16,0.18
+Macedonia,MKD,all,total,2001,0.15,0.1,0.2
+Mali,MLI,all,total,2001,0.6,0.56,0.64
+Malta,MLT,all,total,2001,0.06,0.04,0.08
+Myanmar,MMR,all,total,2001,0.36,0.32,0.39
+Montenegro,MNE,all,total,2001,0.02,0.0,0.06
+Mongolia,MNG,all,total,2001,0.12,0.09,0.15
+Mozambique,MOZ,all,total,2001,0.46,0.44,0.49
+Mauritania,MRT,all,total,2001,0.52,0.49,0.56
+Mauritius,MUS,all,total,2001,0.16,0.14,0.17
+Malawi,MWI,all,total,2001,0.32,0.29,0.35
+Malaysia,MYS,all,total,2001,0.1,0.08,0.12
+Namibia,NAM,all,total,2001,0.15,0.12,0.17
+Niger,NER,all,total,2001,0.79,0.76,0.83
+Nigeria,NGA,all,total,2001,0.33,0.21,0.46
+Nicaragua,NIC,all,total,2001,0.23,0.21,0.26
+Netherlands,NLD,all,total,2001,0.03,0.01,0.04
+Norway,NOR,all,total,2001,0.03,0.01,0.04
+Nepal,NPL,all,total,2001,0.55,0.5,0.59
+New Zealand,NZL,all,total,2001,0.06,0.03,0.09
+Oman,OMN,all,total,2001,0.24,0.2,0.27
+Pakistan,PAK,all,total,2001,0.68,0.64,0.72
+Panama,PAN,all,total,2001,0.1,0.08,0.12
+Peru,PER,all,total,2001,0.08,0.06,0.1
+Philippines,PHL,all,total,2001,0.16,0.15,0.18
+Papua New Guinea,PNG,all,total,2001,0.47,0.35,0.6
+Poland,POL,all,total,2001,0.04,0.02,0.06
+Portugal,PRT,all,total,2001,0.05,0.04,0.07
+Paraguay,PRY,all,total,2001,0.15,0.13,0.17
+Palestine,PSE,all,total,2001,0.18,0.15,0.21
+Qatar,QAT,all,total,2001,0.18,0.15,0.21
+Romania,ROU,all,total,2001,0.14,0.12,0.16
+Rwanda,RWA,all,total,2001,0.41,0.36,0.45
+Saudi Arabia,SAU,all,total,2001,0.36,0.31,0.4
+Sudan,SDN,all,total,2001,0.74,0.69,0.8
+Senegal,SEN,all,total,2001,0.57,0.54,0.6
+Singapore,SGP,all,total,2001,0.0,0.0,0.02
+Solomon Is.,SLB,all,total,2001,0.24,0.1,0.38
+Sierra Leone,SLE,all,total,2001,0.44,0.36,0.51
+El Salvador,SLV,all,total,2001,0.13,0.07,0.19
+S. Sudan,SSD,all,total,2001,0.66,0.57,0.75
+S. Tome/Principe,STP,all,total,2001,0.35,0.31,0.39
+Suriname,SUR,all,total,2001,0.39,0.33,0.46
+Slovakia,SVK,all,total,2001,0.06,0.04,0.08
+Slovenia,SVN,all,total,2001,0.04,0.03,0.06
+Sweden,SWE,all,total,2001,0.01,0.0,0.02
+eSwatini,SWZ,all,total,2001,0.24,0.21,0.27
+Seychelles,SYC,all,total,2001,0.17,0.14,0.19
+Syria,SYR,all,total,2001,0.26,0.23,0.29
+Chad,TCD,all,total,2001,0.63,0.59,0.66
+Togo,TGO,all,total,2001,0.39,0.36,0.43
+Thailand,THA,all,total,2001,0.14,0.1,0.17
+Tajikistan,TJK,all,total,2001,0.14,0.11,0.17
+Timor-Leste,TLS,all,total,2001,0.53,0.4,0.66
+Tonga,TON,all,total,2001,0.12,0.07,0.18
+Trinidad/Tobago,TTO,all,total,2001,0.09,0.07,0.1
+Tunisia,TUN,all,total,2001,0.15,0.12,0.18
+Turkey,TUR,all,total,2001,0.21,0.12,0.3
+Tanzania,TZA,all,total,2001,0.45,0.41,0.49
+Uganda,UGA,all,total,2001,0.23,0.2,0.26
+Ukraine,UKR,all,total,2001,0.05,0.02,0.07
+Uruguay,URY,all,total,2001,0.05,0.04,0.07
+United States of America,USA,all,total,2001,0.05,0.04,0.06
+Uzbekistan,UZB,all,total,2001,0.16,0.08,0.23
+St Vincent/Grenad.,VCT,all,total,2001,0.08,0.06,0.11
+Venezuela,VEN,all,total,2001,0.15,0.13,0.18
+Vietnam,VNM,all,total,2001,0.31,0.27,0.36
+Vanuatu,VUT,all,total,2001,0.42,0.34,0.5
+Samoa,WSM,all,total,2001,0.09,0.0,0.18
+Yemen,YEM,all,total,2001,0.39,0.33,0.44
+South Africa,ZAF,all,total,2001,0.16,0.14,0.18
+Zambia,ZMB,all,total,2001,0.33,0.31,0.36
+Zimbabwe,ZWE,all,total,2001,0.32,0.27,0.37
+Aruba,ABW,all,total,2002,0.06,0.04,0.08
+Afghanistan,AFG,all,total,2002,0.5,0.43,0.57
+Angola,AGO,all,total,2002,0.56,0.52,0.61
+Albania,ALB,all,total,2002,0.17,0.16,0.19
+Andorra,AND,all,total,2002,0.16,0.15,0.17
+United Arab Emirates,ARE,all,total,2002,0.2,0.18,0.21
+Argentina,ARG,all,total,2002,0.06,0.05,0.06
+Armenia,ARM,all,total,2002,0.1,0.07,0.13
+Antigua/Barbuda,ATG,all,total,2002,0.29,0.18,0.39
+Australia,AUS,all,total,2002,0.03,0.01,0.05
+Austria,AUT,all,total,2002,0.04,0.03,0.05
+Azerbaijan,AZE,all,total,2002,0.07,0.03,0.12
+Burundi,BDI,all,total,2002,0.63,0.61,0.66
+Belgium,BEL,all,total,2002,0.0,0.0,0.01
+Benin,BEN,all,total,2002,0.42,0.4,0.45
+Burkina Faso,BFA,all,total,2002,0.74,0.71,0.78
+Bangladesh,BGD,all,total,2002,0.32,0.3,0.34
+Bulgaria,BGR,all,total,2002,0.06,0.05,0.07
+Bahrain,BHR,all,total,2002,0.11,0.09,0.13
+Bahamas,BHS,all,total,2002,0.12,0.09,0.16
+Bosnia and Herz.,BIH,all,total,2002,0.08,0.01,0.15
+Belarus,BLR,all,total,2002,0.01,0.0,0.02
+Belize,BLZ,all,total,2002,0.14,0.12,0.16
+Bolivia,BOL,all,total,2002,0.08,0.07,0.09
+Brazil,BRA,all,total,2002,0.07,0.06,0.08
+Barbados,BRB,all,total,2002,0.04,0.02,0.05
+Brunei Daruss.,BRN,all,total,2002,0.04,0.02,0.07
+Bhutan,BTN,all,total,2002,0.42,0.4,0.45
+Botswana,BWA,all,total,2002,0.12,0.09,0.14
+Central African Rep.,CAF,all,total,2002,0.69,0.64,0.74
+Canada,CAN,all,total,2002,0.03,0.0,0.11
+Switzerland,CHE,all,total,2002,0.07,0.06,0.08
+Chile,CHL,all,total,2002,0.06,0.05,0.08
+China,CHN,all,total,2002,0.13,0.06,0.21
+Côte d'Ivoire,CIV,all,total,2002,0.61,0.58,0.64
+Cameroon,CMR,all,total,2002,0.44,0.39,0.48
+Dem. Rep. Congo,COD,all,total,2002,0.36,0.18,0.54
+Congo,COG,all,total,2002,0.64,0.61,0.67
+Colombia,COL,all,total,2002,0.13,0.11,0.14
+Comoros,COM,all,total,2002,0.26,0.09,0.44
+Cabo Verde,CPV,all,total,2002,0.16,0.13,0.18
+Costa Rica,CRI,all,total,2002,0.12,0.11,0.14
+Cuba,CUB,all,total,2002,0.09,0.07,0.1
+Cyprus,CYP,all,total,2002,0.05,0.03,0.06
+Czechia,CZE,all,total,2002,0.01,0.01,0.02
+Germany,DEU,all,total,2002,0.02,0.0,0.07
+Djibouti,DJI,all,total,2002,0.73,0.68,0.78
+Denmark,DNK,all,total,2002,0.04,0.03,0.05
+Dominican Rep.,DOM,all,total,2002,0.2,0.19,0.21
+Algeria,DZA,all,total,2002,0.17,0.14,0.2
+Ecuador,ECU,all,total,2002,0.23,0.21,0.25
+Egypt,EGY,all,total,2002,0.23,0.21,0.25
+Eritrea,ERI,all,total,2002,0.43,0.4,0.46
+Spain,ESP,all,total,2002,0.04,0.04,0.05
+Estonia,EST,all,total,2002,0.03,0.01,0.04
+Ethiopia,ETH,all,total,2002,0.6,0.58,0.62
+Finland,FIN,all,total,2002,0.02,0.02,0.03
+Fiji,FJI,all,total,2002,0.08,0.06,0.09
+France,FRA,all,total,2002,0.04,0.03,0.06
+"Micronesia, F. S.",FSM,all,total,2002,0.26,0.02,0.51
+United Kingdom,GBR,all,total,2002,0.03,0.03,0.04
+Georgia,GEO,all,total,2002,0.07,0.02,0.12
+Ghana,GHA,all,total,2002,0.45,0.43,0.47
+Guinea,GIN,all,total,2002,0.55,0.51,0.58
+Gambia,GMB,all,total,2002,0.48,0.45,0.52
+Guinea-Bissau,GNB,all,total,2002,0.51,0.44,0.57
+Equat. Guinea,GNQ,all,total,2002,0.41,0.38,0.44
+Greece,GRC,all,total,2002,0.12,0.1,0.13
+Grenada,GRD,all,total,2002,0.06,0.04,0.08
+Guatemala,GTM,all,total,2002,0.3,0.28,0.32
+Guyana,GUY,all,total,2002,0.21,0.17,0.26
+"Hong Kong, China",HKG,all,total,2002,0.13,0.11,0.15
+Honduras,HND,all,total,2002,0.3,0.27,0.32
+Croatia,HRV,all,total,2002,0.05,0.02,0.08
+Haiti,HTI,all,total,2002,0.2,0.19,0.22
+Hungary,HUN,all,total,2002,0.05,0.04,0.06
+Indonesia,IDN,all,total,2002,0.22,0.2,0.25
+India,IND,all,total,2002,0.42,0.38,0.45
+Ireland,IRL,all,total,2002,0.02,0.01,0.03
+Iran,IRN,all,total,2002,0.11,0.07,0.14
+Iraq,IRQ,all,total,2002,0.33,0.31,0.36
+Iceland,ISL,all,total,2002,0.06,0.06,0.07
+Israel,ISR,all,total,2002,0.0,0.0,0.0
+Italy,ITA,all,total,2002,0.05,0.04,0.06
+Jamaica,JAM,all,total,2002,0.12,0.09,0.14
+Jordan,JOR,all,total,2002,0.13,0.11,0.15
+Japan,JPN,all,total,2002,0.01,0.0,0.03
+Kazakhstan,KAZ,all,total,2002,0.02,0.0,0.04
+Kenya,KEN,all,total,2002,0.27,0.24,0.29
+Kyrgyzstan,KGZ,all,total,2002,0.1,0.06,0.15
+Cambodia,KHM,all,total,2002,0.34,0.32,0.35
+Kiribati,KIR,all,total,2002,0.08,0.0,0.17
+South Korea,KOR,all,total,2002,0.03,0.01,0.05
+Kuwait,KWT,all,total,2002,0.09,0.07,0.11
+Laos,LAO,all,total,2002,0.35,0.32,0.38
+Lebanon,LBN,all,total,2002,0.38,0.36,0.41
+Liberia,LBR,all,total,2002,0.28,0.19,0.36
+Saint Lucia,LCA,all,total,2002,0.15,0.13,0.17
+Liechtenstein,LIE,all,total,2002,0.04,0.03,0.05
+Sri Lanka,LKA,all,total,2002,0.12,0.11,0.14
+Lesotho,LSO,all,total,2002,0.21,0.18,0.24
+Lithuania,LTU,all,total,2002,0.01,0.01,0.02
+Luxembourg,LUX,all,total,2002,0.08,0.07,0.09
+Latvia,LVA,all,total,2002,0.04,0.03,0.05
+"Macao, China",MAC,all,total,2002,0.16,0.13,0.18
+Morocco,MAR,all,total,2002,0.32,0.3,0.35
+Rep. Moldova,MDA,all,total,2002,0.18,0.14,0.22
+Madagascar,MDG,all,total,2002,0.35,0.32,0.38
+Maldives,MDV,all,total,2002,0.1,0.08,0.12
+Mexico,MEX,all,total,2002,0.16,0.15,0.17
+Macedonia,MKD,all,total,2002,0.15,0.11,0.18
+Mali,MLI,all,total,2002,0.59,0.56,0.63
+Malta,MLT,all,total,2002,0.06,0.05,0.07
+Myanmar,MMR,all,total,2002,0.35,0.33,0.38
+Montenegro,MNE,all,total,2002,0.02,0.0,0.05
+Mongolia,MNG,all,total,2002,0.12,0.09,0.14
+Mozambique,MOZ,all,total,2002,0.43,0.41,0.46
+Mauritania,MRT,all,total,2002,0.5,0.48,0.53
+Mauritius,MUS,all,total,2002,0.14,0.13,0.15
+Malawi,MWI,all,total,2002,0.31,0.28,0.33
+Malaysia,MYS,all,total,2002,0.1,0.09,0.12
+Namibia,NAM,all,total,2002,0.15,0.12,0.17
+Niger,NER,all,total,2002,0.78,0.75,0.81
+Nigeria,NGA,all,total,2002,0.32,0.21,0.43
+Nicaragua,NIC,all,total,2002,0.23,0.21,0.25
+Netherlands,NLD,all,total,2002,0.03,0.02,0.03
+Norway,NOR,all,total,2002,0.03,0.02,0.03
+Nepal,NPL,all,total,2002,0.53,0.49,0.57
+New Zealand,NZL,all,total,2002,0.05,0.03,0.08
+Oman,OMN,all,total,2002,0.22,0.2,0.24
+Pakistan,PAK,all,total,2002,0.65,0.62,0.68
+Panama,PAN,all,total,2002,0.1,0.09,0.12
+Peru,PER,all,total,2002,0.08,0.06,0.09
+Philippines,PHL,all,total,2002,0.16,0.14,0.17
+Papua New Guinea,PNG,all,total,2002,0.48,0.35,0.6
+Poland,POL,all,total,2002,0.04,0.03,0.05
+Portugal,PRT,all,total,2002,0.06,0.05,0.06
+Paraguay,PRY,all,total,2002,0.15,0.14,0.17
+Palestine,PSE,all,total,2002,0.17,0.15,0.19
+Qatar,QAT,all,total,2002,0.17,0.14,0.19
+Romania,ROU,all,total,2002,0.14,0.13,0.16
+Rwanda,RWA,all,total,2002,0.38,0.34,0.42
+Saudi Arabia,SAU,all,total,2002,0.31,0.28,0.34
+Sudan,SDN,all,total,2002,0.71,0.65,0.77
+Senegal,SEN,all,total,2002,0.57,0.54,0.59
+Singapore,SGP,all,total,2002,0.0,0.0,0.02
+Solomon Is.,SLB,all,total,2002,0.23,0.11,0.35
+Sierra Leone,SLE,all,total,2002,0.43,0.37,0.49
+El Salvador,SLV,all,total,2002,0.12,0.08,0.17
+S. Sudan,SSD,all,total,2002,0.65,0.56,0.73
+S. Tome/Principe,STP,all,total,2002,0.33,0.3,0.36
+Suriname,SUR,all,total,2002,0.38,0.32,0.43
+Slovakia,SVK,all,total,2002,0.05,0.04,0.07
+Slovenia,SVN,all,total,2002,0.04,0.03,0.05
+Sweden,SWE,all,total,2002,0.01,0.01,0.02
+eSwatini,SWZ,all,total,2002,0.22,0.19,0.25
+Seychelles,SYC,all,total,2002,0.16,0.14,0.18
+Syria,SYR,all,total,2002,0.26,0.24,0.28
+Chad,TCD,all,total,2002,0.61,0.58,0.64
+Togo,TGO,all,total,2002,0.38,0.35,0.4
+Thailand,THA,all,total,2002,0.14,0.11,0.17
+Tajikistan,TJK,all,total,2002,0.14,0.12,0.17
+Timor-Leste,TLS,all,total,2002,0.5,0.39,0.61
+Tonga,TON,all,total,2002,0.13,0.08,0.17
+Trinidad/Tobago,TTO,all,total,2002,0.09,0.08,0.1
+Tunisia,TUN,all,total,2002,0.15,0.13,0.17
+Turkey,TUR,all,total,2002,0.2,0.13,0.27
+Tanzania,TZA,all,total,2002,0.42,0.39,0.45
+Uganda,UGA,all,total,2002,0.22,0.19,0.24
+Ukraine,UKR,all,total,2002,0.04,0.02,0.06
+Uruguay,URY,all,total,2002,0.06,0.05,0.07
+United States of America,USA,all,total,2002,0.05,0.05,0.06
+Uzbekistan,UZB,all,total,2002,0.14,0.08,0.21
+St Vincent/Grenad.,VCT,all,total,2002,0.08,0.06,0.09
+Venezuela,VEN,all,total,2002,0.15,0.13,0.17
+Vietnam,VNM,all,total,2002,0.28,0.25,0.31
+Vanuatu,VUT,all,total,2002,0.39,0.33,0.45
+Samoa,WSM,all,total,2002,0.09,0.0,0.17
+Yemen,YEM,all,total,2002,0.38,0.34,0.42
+South Africa,ZAF,all,total,2002,0.16,0.14,0.18
+Zambia,ZMB,all,total,2002,0.32,0.29,0.34
+Zimbabwe,ZWE,all,total,2002,0.31,0.27,0.35
+Aruba,ABW,all,total,2003,0.05,0.04,0.07
+Afghanistan,AFG,all,total,2003,0.46,0.4,0.52
+Angola,AGO,all,total,2003,0.53,0.48,0.57
+Albania,ALB,all,total,2003,0.17,0.16,0.17
+Andorra,AND,all,total,2003,0.14,0.14,0.15
+United Arab Emirates,ARE,all,total,2003,0.21,0.19,0.22
+Argentina,ARG,all,total,2003,0.06,0.05,0.06
+Armenia,ARM,all,total,2003,0.11,0.08,0.13
+Antigua/Barbuda,ATG,all,total,2003,0.25,0.17,0.33
+Australia,AUS,all,total,2003,0.03,0.02,0.05
+Austria,AUT,all,total,2003,0.03,0.03,0.04
+Azerbaijan,AZE,all,total,2003,0.07,0.04,0.11
+Burundi,BDI,all,total,2003,0.6,0.57,0.62
+Belgium,BEL,all,total,2003,0.0,0.0,0.01
+Benin,BEN,all,total,2003,0.41,0.38,0.43
+Burkina Faso,BFA,all,total,2003,0.72,0.7,0.75
+Bangladesh,BGD,all,total,2003,0.33,0.31,0.34
+Bulgaria,BGR,all,total,2003,0.08,0.07,0.08
+Bahrain,BHR,all,total,2003,0.11,0.1,0.13
+Bahamas,BHS,all,total,2003,0.12,0.09,0.14
+Bosnia and Herz.,BIH,all,total,2003,0.08,0.02,0.14
+Belarus,BLR,all,total,2003,0.01,0.0,0.02
+Belize,BLZ,all,total,2003,0.14,0.12,0.15
+Bolivia,BOL,all,total,2003,0.07,0.07,0.08
+Brazil,BRA,all,total,2003,0.06,0.06,0.07
+Barbados,BRB,all,total,2003,0.04,0.03,0.06
+Brunei Daruss.,BRN,all,total,2003,0.04,0.02,0.07
+Bhutan,BTN,all,total,2003,0.39,0.37,0.41
+Botswana,BWA,all,total,2003,0.11,0.08,0.13
+Central African Rep.,CAF,all,total,2003,0.67,0.63,0.71
+Canada,CAN,all,total,2003,0.03,0.0,0.1
+Switzerland,CHE,all,total,2003,0.07,0.07,0.08
+Chile,CHL,all,total,2003,0.06,0.05,0.07
+China,CHN,all,total,2003,0.12,0.04,0.2
+Côte d'Ivoire,CIV,all,total,2003,0.6,0.58,0.63
+Cameroon,CMR,all,total,2003,0.41,0.37,0.45
+Dem. Rep. Congo,COD,all,total,2003,0.34,0.17,0.51
+Congo,COG,all,total,2003,0.6,0.58,0.63
+Colombia,COL,all,total,2003,0.12,0.1,0.13
+Comoros,COM,all,total,2003,0.26,0.11,0.42
+Cabo Verde,CPV,all,total,2003,0.15,0.13,0.17
+Costa Rica,CRI,all,total,2003,0.12,0.11,0.13
+Cuba,CUB,all,total,2003,0.08,0.07,0.1
+Cyprus,CYP,all,total,2003,0.05,0.03,0.06
+Czechia,CZE,all,total,2003,0.01,0.01,0.02
+Germany,DEU,all,total,2003,0.02,0.0,0.07
+Djibouti,DJI,all,total,2003,0.72,0.68,0.76
+Denmark,DNK,all,total,2003,0.04,0.03,0.04
+Dominican Rep.,DOM,all,total,2003,0.2,0.19,0.21
+Algeria,DZA,all,total,2003,0.16,0.14,0.18
+Ecuador,ECU,all,total,2003,0.22,0.21,0.23
+Egypt,EGY,all,total,2003,0.23,0.22,0.25
+Eritrea,ERI,all,total,2003,0.41,0.38,0.43
+Spain,ESP,all,total,2003,0.03,0.03,0.04
+Estonia,EST,all,total,2003,0.03,0.02,0.03
+Ethiopia,ETH,all,total,2003,0.57,0.55,0.59
+Finland,FIN,all,total,2003,0.02,0.02,0.03
+Fiji,FJI,all,total,2003,0.07,0.06,0.08
+France,FRA,all,total,2003,0.04,0.03,0.05
+"Micronesia, F. S.",FSM,all,total,2003,0.26,0.04,0.48
+United Kingdom,GBR,all,total,2003,0.03,0.02,0.03
+Georgia,GEO,all,total,2003,0.07,0.03,0.11
+Ghana,GHA,all,total,2003,0.42,0.4,0.44
+Guinea,GIN,all,total,2003,0.53,0.5,0.56
+Gambia,GMB,all,total,2003,0.47,0.44,0.5
+Guinea-Bissau,GNB,all,total,2003,0.49,0.43,0.55
+Equat. Guinea,GNQ,all,total,2003,0.41,0.38,0.44
+Greece,GRC,all,total,2003,0.1,0.09,0.11
+Grenada,GRD,all,total,2003,0.06,0.05,0.08
+Guatemala,GTM,all,total,2003,0.28,0.26,0.29
+Guyana,GUY,all,total,2003,0.21,0.18,0.24
+"Hong Kong, China",HKG,all,total,2003,0.12,0.11,0.14
+Honduras,HND,all,total,2003,0.25,0.23,0.27
+Croatia,HRV,all,total,2003,0.05,0.03,0.07
+Haiti,HTI,all,total,2003,0.19,0.18,0.21
+Hungary,HUN,all,total,2003,0.05,0.04,0.06
+Indonesia,IDN,all,total,2003,0.22,0.2,0.24
+India,IND,all,total,2003,0.39,0.36,0.42
+Ireland,IRL,all,total,2003,0.02,0.02,0.02
+Iran,IRN,all,total,2003,0.11,0.08,0.13
+Iraq,IRQ,all,total,2003,0.33,0.31,0.35
+Iceland,ISL,all,total,2003,0.07,0.06,0.07
+Israel,ISR,all,total,2003,0.0,0.0,0.0
+Italy,ITA,all,total,2003,0.05,0.04,0.05
+Jamaica,JAM,all,total,2003,0.11,0.1,0.13
+Jordan,JOR,all,total,2003,0.13,0.12,0.15
+Japan,JPN,all,total,2003,0.01,0.0,0.02
+Kazakhstan,KAZ,all,total,2003,0.02,0.01,0.03
+Kenya,KEN,all,total,2003,0.25,0.23,0.27
+Kyrgyzstan,KGZ,all,total,2003,0.1,0.07,0.13
+Cambodia,KHM,all,total,2003,0.32,0.3,0.33
+Kiribati,KIR,all,total,2003,0.08,0.0,0.16
+South Korea,KOR,all,total,2003,0.03,0.01,0.04
+Kuwait,KWT,all,total,2003,0.08,0.07,0.09
+Laos,LAO,all,total,2003,0.34,0.31,0.36
+Lebanon,LBN,all,total,2003,0.37,0.35,0.39
+Liberia,LBR,all,total,2003,0.27,0.2,0.34
+Saint Lucia,LCA,all,total,2003,0.14,0.13,0.16
+Liechtenstein,LIE,all,total,2003,0.04,0.03,0.05
+Sri Lanka,LKA,all,total,2003,0.13,0.11,0.14
+Lesotho,LSO,all,total,2003,0.2,0.17,0.22
+Lithuania,LTU,all,total,2003,0.01,0.01,0.02
+Luxembourg,LUX,all,total,2003,0.08,0.08,0.09
+Latvia,LVA,all,total,2003,0.04,0.03,0.04
+"Macao, China",MAC,all,total,2003,0.15,0.13,0.17
+Morocco,MAR,all,total,2003,0.31,0.29,0.33
+Rep. Moldova,MDA,all,total,2003,0.17,0.14,0.2
+Madagascar,MDG,all,total,2003,0.34,0.31,0.36
+Maldives,MDV,all,total,2003,0.11,0.09,0.12
+Mexico,MEX,all,total,2003,0.15,0.15,0.16
+Macedonia,MKD,all,total,2003,0.14,0.12,0.16
+Mali,MLI,all,total,2003,0.58,0.55,0.6
+Malta,MLT,all,total,2003,0.06,0.05,0.06
+Myanmar,MMR,all,total,2003,0.35,0.33,0.37
+Montenegro,MNE,all,total,2003,0.02,0.0,0.05
+Mongolia,MNG,all,total,2003,0.11,0.09,0.13
+Mozambique,MOZ,all,total,2003,0.41,0.39,0.43
+Mauritania,MRT,all,total,2003,0.48,0.46,0.51
+Mauritius,MUS,all,total,2003,0.13,0.11,0.14
+Malawi,MWI,all,total,2003,0.29,0.28,0.31
+Malaysia,MYS,all,total,2003,0.11,0.1,0.12
+Namibia,NAM,all,total,2003,0.15,0.13,0.17
+Niger,NER,all,total,2003,0.77,0.74,0.79
+Nigeria,NGA,all,total,2003,0.31,0.2,0.42
+Nicaragua,NIC,all,total,2003,0.22,0.2,0.23
+Netherlands,NLD,all,total,2003,0.02,0.02,0.03
+Norway,NOR,all,total,2003,0.03,0.02,0.03
+Nepal,NPL,all,total,2003,0.51,0.47,0.55
+New Zealand,NZL,all,total,2003,0.05,0.03,0.07
+Oman,OMN,all,total,2003,0.2,0.19,0.22
+Pakistan,PAK,all,total,2003,0.62,0.59,0.64
+Panama,PAN,all,total,2003,0.11,0.1,0.12
+Peru,PER,all,total,2003,0.08,0.06,0.09
+Philippines,PHL,all,total,2003,0.15,0.14,0.17
+Papua New Guinea,PNG,all,total,2003,0.47,0.36,0.59
+Poland,POL,all,total,2003,0.04,0.04,0.05
+Portugal,PRT,all,total,2003,0.06,0.05,0.06
+Paraguay,PRY,all,total,2003,0.16,0.15,0.17
+Palestine,PSE,all,total,2003,0.16,0.15,0.17
+Qatar,QAT,all,total,2003,0.15,0.14,0.17
+Romania,ROU,all,total,2003,0.15,0.14,0.16
+Rwanda,RWA,all,total,2003,0.35,0.32,0.39
+Saudi Arabia,SAU,all,total,2003,0.26,0.24,0.28
+Sudan,SDN,all,total,2003,0.67,0.62,0.73
+Senegal,SEN,all,total,2003,0.56,0.54,0.57
+Singapore,SGP,all,total,2003,0.0,0.0,0.01
+Solomon Is.,SLB,all,total,2003,0.22,0.12,0.32
+Sierra Leone,SLE,all,total,2003,0.42,0.37,0.47
+El Salvador,SLV,all,total,2003,0.12,0.09,0.15
+S. Sudan,SSD,all,total,2003,0.63,0.55,0.72
+S. Tome/Principe,STP,all,total,2003,0.31,0.28,0.33
+Suriname,SUR,all,total,2003,0.35,0.32,0.39
+Slovakia,SVK,all,total,2003,0.05,0.04,0.06
+Slovenia,SVN,all,total,2003,0.04,0.04,0.05
+Sweden,SWE,all,total,2003,0.01,0.01,0.02
+eSwatini,SWZ,all,total,2003,0.21,0.18,0.23
+Seychelles,SYC,all,total,2003,0.14,0.13,0.16
+Syria,SYR,all,total,2003,0.25,0.24,0.26
+Chad,TCD,all,total,2003,0.59,0.56,0.62
+Togo,TGO,all,total,2003,0.36,0.34,0.38
+Thailand,THA,all,total,2003,0.14,0.12,0.16
+Tajikistan,TJK,all,total,2003,0.15,0.12,0.17
+Timor-Leste,TLS,all,total,2003,0.47,0.38,0.57
+Tonga,TON,all,total,2003,0.13,0.09,0.17
+Trinidad/Tobago,TTO,all,total,2003,0.08,0.07,0.1
+Tunisia,TUN,all,total,2003,0.15,0.14,0.17
+Turkey,TUR,all,total,2003,0.19,0.13,0.25
+Tanzania,TZA,all,total,2003,0.39,0.37,0.42
+Uganda,UGA,all,total,2003,0.21,0.19,0.23
+Ukraine,UKR,all,total,2003,0.03,0.02,0.05
+Uruguay,URY,all,total,2003,0.06,0.05,0.07
+United States of America,USA,all,total,2003,0.05,0.05,0.06
+Uzbekistan,UZB,all,total,2003,0.13,0.08,0.18
+St Vincent/Grenad.,VCT,all,total,2003,0.07,0.06,0.08
+Venezuela,VEN,all,total,2003,0.15,0.13,0.16
+Vietnam,VNM,all,total,2003,0.25,0.22,0.28
+Vanuatu,VUT,all,total,2003,0.36,0.31,0.41
+Samoa,WSM,all,total,2003,0.08,0.01,0.16
+Yemen,YEM,all,total,2003,0.38,0.35,0.4
+South Africa,ZAF,all,total,2003,0.16,0.14,0.18
+Zambia,ZMB,all,total,2003,0.29,0.27,0.31
+Zimbabwe,ZWE,all,total,2003,0.3,0.27,0.34
+Aruba,ABW,all,total,2004,0.05,0.04,0.06
+Afghanistan,AFG,all,total,2004,0.43,0.38,0.48
+Angola,AGO,all,total,2004,0.49,0.45,0.53
+Albania,ALB,all,total,2004,0.16,0.15,0.17
+Andorra,AND,all,total,2004,0.13,0.13,0.14
+United Arab Emirates,ARE,all,total,2004,0.22,0.21,0.23
+Argentina,ARG,all,total,2004,0.06,0.05,0.06
+Armenia,ARM,all,total,2004,0.11,0.09,0.14
+Antigua/Barbuda,ATG,all,total,2004,0.23,0.17,0.28
+Australia,AUS,all,total,2004,0.03,0.02,0.05
+Austria,AUT,all,total,2004,0.03,0.03,0.04
+Azerbaijan,AZE,all,total,2004,0.07,0.05,0.1
+Burundi,BDI,all,total,2004,0.56,0.54,0.58
+Belgium,BEL,all,total,2004,0.0,0.0,0.01
+Benin,BEN,all,total,2004,0.39,0.37,0.41
+Burkina Faso,BFA,all,total,2004,0.71,0.68,0.73
+Bangladesh,BGD,all,total,2004,0.33,0.32,0.34
+Bulgaria,BGR,all,total,2004,0.07,0.07,0.08
+Bahrain,BHR,all,total,2004,0.11,0.1,0.12
+Bahamas,BHS,all,total,2004,0.11,0.09,0.13
+Bosnia and Herz.,BIH,all,total,2004,0.09,0.04,0.14
+Belarus,BLR,all,total,2004,0.01,0.0,0.01
+Belize,BLZ,all,total,2004,0.13,0.12,0.14
+Bolivia,BOL,all,total,2004,0.07,0.06,0.08
+Brazil,BRA,all,total,2004,0.06,0.05,0.07
+Barbados,BRB,all,total,2004,0.05,0.03,0.06
+Brunei Daruss.,BRN,all,total,2004,0.04,0.03,0.06
+Bhutan,BTN,all,total,2004,0.36,0.34,0.39
+Botswana,BWA,all,total,2004,0.1,0.08,0.13
+Central African Rep.,CAF,all,total,2004,0.65,0.62,0.69
+Canada,CAN,all,total,2004,0.03,0.0,0.09
+Switzerland,CHE,all,total,2004,0.07,0.07,0.08
+Chile,CHL,all,total,2004,0.06,0.05,0.07
+China,CHN,all,total,2004,0.11,0.03,0.18
+Côte d'Ivoire,CIV,all,total,2004,0.6,0.58,0.63
+Cameroon,CMR,all,total,2004,0.38,0.34,0.42
+Dem. Rep. Congo,COD,all,total,2004,0.32,0.16,0.48
+Congo,COG,all,total,2004,0.57,0.54,0.59
+Colombia,COL,all,total,2004,0.11,0.1,0.12
+Comoros,COM,all,total,2004,0.26,0.12,0.4
+Cabo Verde,CPV,all,total,2004,0.14,0.12,0.16
+Costa Rica,CRI,all,total,2004,0.12,0.11,0.13
+Cuba,CUB,all,total,2004,0.08,0.07,0.09
+Cyprus,CYP,all,total,2004,0.04,0.03,0.05
+Czechia,CZE,all,total,2004,0.02,0.01,0.02
+Germany,DEU,all,total,2004,0.02,0.0,0.06
+Djibouti,DJI,all,total,2004,0.7,0.67,0.74
+Denmark,DNK,all,total,2004,0.04,0.04,0.05
+Dominican Rep.,DOM,all,total,2004,0.19,0.18,0.21
+Algeria,DZA,all,total,2004,0.16,0.14,0.17
+Ecuador,ECU,all,total,2004,0.21,0.2,0.22
+Egypt,EGY,all,total,2004,0.23,0.22,0.25
+Eritrea,ERI,all,total,2004,0.42,0.4,0.44
+Spain,ESP,all,total,2004,0.03,0.03,0.04
+Estonia,EST,all,total,2004,0.03,0.02,0.03
+Ethiopia,ETH,all,total,2004,0.54,0.52,0.55
+Finland,FIN,all,total,2004,0.02,0.02,0.03
+Fiji,FJI,all,total,2004,0.07,0.06,0.08
+France,FRA,all,total,2004,0.04,0.03,0.04
+"Micronesia, F. S.",FSM,all,total,2004,0.26,0.05,0.46
+United Kingdom,GBR,all,total,2004,0.03,0.02,0.03
+Georgia,GEO,all,total,2004,0.07,0.04,0.1
+Ghana,GHA,all,total,2004,0.39,0.36,0.41
+Guinea,GIN,all,total,2004,0.52,0.5,0.54
+Gambia,GMB,all,total,2004,0.46,0.43,0.48
+Guinea-Bissau,GNB,all,total,2004,0.47,0.41,0.53
+Equat. Guinea,GNQ,all,total,2004,0.41,0.38,0.45
+Greece,GRC,all,total,2004,0.08,0.07,0.09
+Grenada,GRD,all,total,2004,0.06,0.05,0.08
+Guatemala,GTM,all,total,2004,0.26,0.24,0.27
+Guyana,GUY,all,total,2004,0.2,0.18,0.22
+"Hong Kong, China",HKG,all,total,2004,0.11,0.1,0.13
+Honduras,HND,all,total,2004,0.24,0.23,0.26
+Croatia,HRV,all,total,2004,0.05,0.04,0.06
+Haiti,HTI,all,total,2004,0.18,0.17,0.19
+Hungary,HUN,all,total,2004,0.05,0.04,0.05
+Indonesia,IDN,all,total,2004,0.22,0.21,0.23
+India,IND,all,total,2004,0.37,0.33,0.4
+Ireland,IRL,all,total,2004,0.02,0.01,0.02
+Iran,IRN,all,total,2004,0.11,0.09,0.12
+Iraq,IRQ,all,total,2004,0.32,0.31,0.34
+Iceland,ISL,all,total,2004,0.07,0.06,0.07
+Israel,ISR,all,total,2004,0.0,0.0,0.0
+Italy,ITA,all,total,2004,0.05,0.04,0.05
+Jamaica,JAM,all,total,2004,0.11,0.1,0.13
+Jordan,JOR,all,total,2004,0.14,0.13,0.15
+Japan,JPN,all,total,2004,0.01,0.0,0.02
+Kazakhstan,KAZ,all,total,2004,0.02,0.01,0.03
+Kenya,KEN,all,total,2004,0.24,0.22,0.26
+Kyrgyzstan,KGZ,all,total,2004,0.1,0.08,0.13
+Cambodia,KHM,all,total,2004,0.3,0.29,0.31
+Kiribati,KIR,all,total,2004,0.09,0.01,0.16
+South Korea,KOR,all,total,2004,0.03,0.01,0.04
+Kuwait,KWT,all,total,2004,0.07,0.06,0.08
+Laos,LAO,all,total,2004,0.33,0.31,0.35
+Lebanon,LBN,all,total,2004,0.36,0.35,0.37
+Liberia,LBR,all,total,2004,0.26,0.21,0.32
+Saint Lucia,LCA,all,total,2004,0.13,0.12,0.14
+Liechtenstein,LIE,all,total,2004,0.04,0.04,0.05
+Sri Lanka,LKA,all,total,2004,0.13,0.12,0.14
+Lesotho,LSO,all,total,2004,0.19,0.17,0.2
+Lithuania,LTU,all,total,2004,0.01,0.01,0.01
+Luxembourg,LUX,all,total,2004,0.09,0.08,0.09
+Latvia,LVA,all,total,2004,0.03,0.03,0.04
+"Macao, China",MAC,all,total,2004,0.15,0.14,0.17
+Morocco,MAR,all,total,2004,0.3,0.28,0.31
+Rep. Moldova,MDA,all,total,2004,0.17,0.15,0.19
+Madagascar,MDG,all,total,2004,0.33,0.31,0.35
+Maldives,MDV,all,total,2004,0.11,0.1,0.13
+Mexico,MEX,all,total,2004,0.15,0.14,0.15
+Macedonia,MKD,all,total,2004,0.14,0.12,0.15
+Mali,MLI,all,total,2004,0.56,0.53,0.59
+Malta,MLT,all,total,2004,0.06,0.05,0.06
+Myanmar,MMR,all,total,2004,0.34,0.33,0.36
+Montenegro,MNE,all,total,2004,0.02,0.0,0.04
+Mongolia,MNG,all,total,2004,0.1,0.09,0.12
+Mozambique,MOZ,all,total,2004,0.38,0.36,0.4
+Mauritania,MRT,all,total,2004,0.47,0.45,0.49
+Mauritius,MUS,all,total,2004,0.11,0.1,0.13
+Malawi,MWI,all,total,2004,0.28,0.26,0.29
+Malaysia,MYS,all,total,2004,0.11,0.1,0.12
+Namibia,NAM,all,total,2004,0.14,0.13,0.16
+Niger,NER,all,total,2004,0.75,0.73,0.78
+Nigeria,NGA,all,total,2004,0.3,0.2,0.41
+Nicaragua,NIC,all,total,2004,0.21,0.2,0.22
+Netherlands,NLD,all,total,2004,0.02,0.01,0.02
+Norway,NOR,all,total,2004,0.02,0.02,0.03
+Nepal,NPL,all,total,2004,0.49,0.45,0.52
+New Zealand,NZL,all,total,2004,0.04,0.02,0.06
+Oman,OMN,all,total,2004,0.19,0.18,0.2
+Pakistan,PAK,all,total,2004,0.59,0.57,0.61
+Panama,PAN,all,total,2004,0.12,0.11,0.13
+Peru,PER,all,total,2004,0.08,0.07,0.09
+Philippines,PHL,all,total,2004,0.15,0.14,0.16
+Papua New Guinea,PNG,all,total,2004,0.47,0.36,0.57
+Poland,POL,all,total,2004,0.04,0.04,0.05
+Portugal,PRT,all,total,2004,0.06,0.05,0.06
+Paraguay,PRY,all,total,2004,0.16,0.15,0.17
+Palestine,PSE,all,total,2004,0.15,0.14,0.17
+Qatar,QAT,all,total,2004,0.14,0.13,0.15
+Romania,ROU,all,total,2004,0.16,0.15,0.17
+Rwanda,RWA,all,total,2004,0.33,0.3,0.36
+Saudi Arabia,SAU,all,total,2004,0.22,0.21,0.23
+Sudan,SDN,all,total,2004,0.64,0.58,0.69
+Senegal,SEN,all,total,2004,0.53,0.51,0.54
+Singapore,SGP,all,total,2004,0.0,0.0,0.01
+Solomon Is.,SLB,all,total,2004,0.21,0.12,0.3
+Sierra Leone,SLE,all,total,2004,0.41,0.38,0.45
+El Salvador,SLV,all,total,2004,0.12,0.09,0.14
+S. Sudan,SSD,all,total,2004,0.62,0.55,0.7
+S. Tome/Principe,STP,all,total,2004,0.28,0.26,0.3
+Suriname,SUR,all,total,2004,0.33,0.3,0.36
+Slovakia,SVK,all,total,2004,0.04,0.04,0.05
+Slovenia,SVN,all,total,2004,0.04,0.04,0.05
+Sweden,SWE,all,total,2004,0.01,0.01,0.02
+eSwatini,SWZ,all,total,2004,0.19,0.17,0.21
+Seychelles,SYC,all,total,2004,0.13,0.12,0.14
+Syria,SYR,all,total,2004,0.24,0.23,0.25
+Chad,TCD,all,total,2004,0.58,0.55,0.61
+Togo,TGO,all,total,2004,0.34,0.32,0.36
+Thailand,THA,all,total,2004,0.14,0.13,0.16
+Tajikistan,TJK,all,total,2004,0.15,0.13,0.17
+Timor-Leste,TLS,all,total,2004,0.44,0.37,0.51
+Tonga,TON,all,total,2004,0.13,0.1,0.17
+Trinidad/Tobago,TTO,all,total,2004,0.08,0.07,0.09
+Tunisia,TUN,all,total,2004,0.15,0.14,0.16
+Turkey,TUR,all,total,2004,0.18,0.13,0.23
+Tanzania,TZA,all,total,2004,0.37,0.35,0.39
+Uganda,UGA,all,total,2004,0.21,0.19,0.23
+Ukraine,UKR,all,total,2004,0.03,0.02,0.04
+Uruguay,URY,all,total,2004,0.07,0.06,0.08
+United States of America,USA,all,total,2004,0.05,0.05,0.05
+Uzbekistan,UZB,all,total,2004,0.12,0.08,0.15
+St Vincent/Grenad.,VCT,all,total,2004,0.06,0.06,0.07
+Venezuela,VEN,all,total,2004,0.14,0.13,0.15
+Vietnam,VNM,all,total,2004,0.23,0.2,0.25
+Vanuatu,VUT,all,total,2004,0.33,0.29,0.37
+Samoa,WSM,all,total,2004,0.08,0.02,0.14
+Yemen,YEM,all,total,2004,0.37,0.35,0.39
+South Africa,ZAF,all,total,2004,0.15,0.14,0.17
+Zambia,ZMB,all,total,2004,0.27,0.25,0.29
+Zimbabwe,ZWE,all,total,2004,0.29,0.26,0.32
+Aruba,ABW,all,total,2005,0.05,0.04,0.06
+Afghanistan,AFG,all,total,2005,0.4,0.37,0.44
+Angola,AGO,all,total,2005,0.45,0.42,0.49
+Albania,ALB,all,total,2005,0.15,0.13,0.16
+Andorra,AND,all,total,2005,0.13,0.12,0.13
+United Arab Emirates,ARE,all,total,2005,0.23,0.22,0.24
+Argentina,ARG,all,total,2005,0.06,0.05,0.07
+Armenia,ARM,all,total,2005,0.12,0.1,0.14
+Antigua/Barbuda,ATG,all,total,2005,0.2,0.16,0.24
+Australia,AUS,all,total,2005,0.03,0.02,0.04
+Austria,AUT,all,total,2005,0.03,0.03,0.03
+Azerbaijan,AZE,all,total,2005,0.07,0.05,0.09
+Burundi,BDI,all,total,2005,0.51,0.5,0.53
+Belgium,BEL,all,total,2005,0.01,0.0,0.01
+Benin,BEN,all,total,2005,0.37,0.35,0.39
+Burkina Faso,BFA,all,total,2005,0.68,0.66,0.7
+Bangladesh,BGD,all,total,2005,0.33,0.32,0.34
+Bulgaria,BGR,all,total,2005,0.07,0.07,0.08
+Bahrain,BHR,all,total,2005,0.11,0.1,0.12
+Bahamas,BHS,all,total,2005,0.11,0.09,0.12
+Bosnia and Herz.,BIH,all,total,2005,0.09,0.05,0.14
+Belarus,BLR,all,total,2005,0.01,0.0,0.01
+Belize,BLZ,all,total,2005,0.13,0.12,0.14
+Bolivia,BOL,all,total,2005,0.07,0.06,0.08
+Brazil,BRA,all,total,2005,0.06,0.05,0.07
+Barbados,BRB,all,total,2005,0.05,0.04,0.06
+Brunei Daruss.,BRN,all,total,2005,0.04,0.04,0.05
+Bhutan,BTN,all,total,2005,0.34,0.32,0.36
+Botswana,BWA,all,total,2005,0.1,0.08,0.13
+Central African Rep.,CAF,all,total,2005,0.63,0.61,0.66
+Canada,CAN,all,total,2005,0.03,0.0,0.09
+Switzerland,CHE,all,total,2005,0.07,0.07,0.07
+Chile,CHL,all,total,2005,0.06,0.05,0.07
+China,CHN,all,total,2005,0.1,0.03,0.17
+Côte d'Ivoire,CIV,all,total,2005,0.6,0.58,0.62
+Cameroon,CMR,all,total,2005,0.36,0.32,0.39
+Dem. Rep. Congo,COD,all,total,2005,0.31,0.16,0.46
+Congo,COG,all,total,2005,0.53,0.51,0.55
+Colombia,COL,all,total,2005,0.1,0.09,0.11
+Comoros,COM,all,total,2005,0.26,0.14,0.38
+Cabo Verde,CPV,all,total,2005,0.13,0.12,0.15
+Costa Rica,CRI,all,total,2005,0.11,0.1,0.12
+Cuba,CUB,all,total,2005,0.06,0.06,0.07
+Cyprus,CYP,all,total,2005,0.04,0.04,0.05
+Czechia,CZE,all,total,2005,0.02,0.01,0.02
+Germany,DEU,all,total,2005,0.02,0.0,0.05
+Djibouti,DJI,all,total,2005,0.69,0.66,0.71
+Denmark,DNK,all,total,2005,0.04,0.04,0.05
+Dominican Rep.,DOM,all,total,2005,0.19,0.18,0.2
+Algeria,DZA,all,total,2005,0.15,0.14,0.16
+Ecuador,ECU,all,total,2005,0.19,0.18,0.21
+Egypt,EGY,all,total,2005,0.27,0.25,0.28
+Eritrea,ERI,all,total,2005,0.4,0.39,0.42
+Spain,ESP,all,total,2005,0.03,0.03,0.03
+Estonia,EST,all,total,2005,0.03,0.02,0.03
+Ethiopia,ETH,all,total,2005,0.5,0.49,0.52
+Finland,FIN,all,total,2005,0.03,0.02,0.03
+Fiji,FJI,all,total,2005,0.07,0.06,0.09
+France,FRA,all,total,2005,0.03,0.03,0.04
+"Micronesia, F. S.",FSM,all,total,2005,0.25,0.07,0.44
+United Kingdom,GBR,all,total,2005,0.03,0.02,0.03
+Georgia,GEO,all,total,2005,0.07,0.05,0.09
+Ghana,GHA,all,total,2005,0.36,0.34,0.38
+Guinea,GIN,all,total,2005,0.51,0.49,0.52
+Gambia,GMB,all,total,2005,0.45,0.42,0.47
+Guinea-Bissau,GNB,all,total,2005,0.45,0.4,0.5
+Equat. Guinea,GNQ,all,total,2005,0.43,0.39,0.46
+Greece,GRC,all,total,2005,0.07,0.06,0.07
+Grenada,GRD,all,total,2005,0.06,0.05,0.08
+Guatemala,GTM,all,total,2005,0.24,0.23,0.26
+Guyana,GUY,all,total,2005,0.19,0.17,0.21
+"Hong Kong, China",HKG,all,total,2005,0.1,0.09,0.12
+Honduras,HND,all,total,2005,0.23,0.22,0.25
+Croatia,HRV,all,total,2005,0.04,0.04,0.05
+Haiti,HTI,all,total,2005,0.16,0.15,0.17
+Hungary,HUN,all,total,2005,0.04,0.04,0.05
+Indonesia,IDN,all,total,2005,0.21,0.2,0.22
+India,IND,all,total,2005,0.34,0.31,0.38
+Ireland,IRL,all,total,2005,0.02,0.01,0.02
+Iran,IRN,all,total,2005,0.11,0.09,0.12
+Iraq,IRQ,all,total,2005,0.32,0.31,0.33
+Iceland,ISL,all,total,2005,0.07,0.06,0.07
+Israel,ISR,all,total,2005,0.0,0.0,0.0
+Italy,ITA,all,total,2005,0.04,0.04,0.04
+Jamaica,JAM,all,total,2005,0.11,0.1,0.13
+Jordan,JOR,all,total,2005,0.15,0.14,0.16
+Japan,JPN,all,total,2005,0.01,0.0,0.02
+Kazakhstan,KAZ,all,total,2005,0.02,0.01,0.02
+Kenya,KEN,all,total,2005,0.22,0.21,0.24
+Kyrgyzstan,KGZ,all,total,2005,0.1,0.09,0.12
+Cambodia,KHM,all,total,2005,0.28,0.27,0.3
+Kiribati,KIR,all,total,2005,0.09,0.02,0.16
+South Korea,KOR,all,total,2005,0.03,0.02,0.04
+Kuwait,KWT,all,total,2005,0.07,0.06,0.08
+Laos,LAO,all,total,2005,0.32,0.3,0.33
+Lebanon,LBN,all,total,2005,0.35,0.34,0.36
+Liberia,LBR,all,total,2005,0.26,0.21,0.3
+Saint Lucia,LCA,all,total,2005,0.12,0.11,0.13
+Liechtenstein,LIE,all,total,2005,0.05,0.04,0.05
+Sri Lanka,LKA,all,total,2005,0.12,0.11,0.14
+Lesotho,LSO,all,total,2005,0.18,0.16,0.19
+Lithuania,LTU,all,total,2005,0.01,0.0,0.01
+Luxembourg,LUX,all,total,2005,0.09,0.08,0.09
+Latvia,LVA,all,total,2005,0.03,0.03,0.03
+"Macao, China",MAC,all,total,2005,0.15,0.14,0.16
+Morocco,MAR,all,total,2005,0.28,0.27,0.29
+Rep. Moldova,MDA,all,total,2005,0.16,0.15,0.18
+Madagascar,MDG,all,total,2005,0.31,0.29,0.33
+Maldives,MDV,all,total,2005,0.12,0.11,0.13
+Mexico,MEX,all,total,2005,0.14,0.14,0.15
+Macedonia,MKD,all,total,2005,0.13,0.12,0.14
+Mali,MLI,all,total,2005,0.54,0.52,0.57
+Malta,MLT,all,total,2005,0.06,0.05,0.06
+Myanmar,MMR,all,total,2005,0.34,0.33,0.35
+Montenegro,MNE,all,total,2005,0.01,0.0,0.04
+Mongolia,MNG,all,total,2005,0.09,0.08,0.1
+Mozambique,MOZ,all,total,2005,0.36,0.34,0.38
+Mauritania,MRT,all,total,2005,0.45,0.43,0.47
+Mauritius,MUS,all,total,2005,0.1,0.09,0.12
+Malawi,MWI,all,total,2005,0.26,0.25,0.28
+Malaysia,MYS,all,total,2005,0.12,0.11,0.13
+Namibia,NAM,all,total,2005,0.14,0.12,0.16
+Niger,NER,all,total,2005,0.74,0.72,0.76
+Nigeria,NGA,all,total,2005,0.29,0.19,0.4
+Nicaragua,NIC,all,total,2005,0.2,0.19,0.21
+Netherlands,NLD,all,total,2005,0.02,0.01,0.02
+Norway,NOR,all,total,2005,0.02,0.02,0.03
+Nepal,NPL,all,total,2005,0.46,0.43,0.49
+New Zealand,NZL,all,total,2005,0.04,0.02,0.05
+Oman,OMN,all,total,2005,0.17,0.16,0.18
+Pakistan,PAK,all,total,2005,0.56,0.55,0.58
+Panama,PAN,all,total,2005,0.13,0.12,0.14
+Peru,PER,all,total,2005,0.08,0.07,0.09
+Philippines,PHL,all,total,2005,0.14,0.13,0.16
+Papua New Guinea,PNG,all,total,2005,0.46,0.36,0.55
+Poland,POL,all,total,2005,0.04,0.03,0.04
+Portugal,PRT,all,total,2005,0.05,0.05,0.05
+Paraguay,PRY,all,total,2005,0.16,0.15,0.17
+Palestine,PSE,all,total,2005,0.15,0.14,0.16
+Qatar,QAT,all,total,2005,0.13,0.12,0.14
+Romania,ROU,all,total,2005,0.17,0.16,0.17
+Rwanda,RWA,all,total,2005,0.3,0.27,0.33
+Saudi Arabia,SAU,all,total,2005,0.19,0.18,0.2
+Sudan,SDN,all,total,2005,0.6,0.55,0.65
+Senegal,SEN,all,total,2005,0.51,0.5,0.53
+Singapore,SGP,all,total,2005,0.0,0.0,0.01
+Solomon Is.,SLB,all,total,2005,0.2,0.13,0.27
+Sierra Leone,SLE,all,total,2005,0.41,0.38,0.44
+El Salvador,SLV,all,total,2005,0.12,0.1,0.13
+S. Sudan,SSD,all,total,2005,0.62,0.54,0.69
+S. Tome/Principe,STP,all,total,2005,0.26,0.24,0.28
+Suriname,SUR,all,total,2005,0.33,0.3,0.35
+Slovakia,SVK,all,total,2005,0.04,0.04,0.05
+Slovenia,SVN,all,total,2005,0.04,0.04,0.04
+Sweden,SWE,all,total,2005,0.01,0.01,0.02
+eSwatini,SWZ,all,total,2005,0.18,0.15,0.2
+Seychelles,SYC,all,total,2005,0.12,0.1,0.13
+Syria,SYR,all,total,2005,0.23,0.23,0.24
+Chad,TCD,all,total,2005,0.56,0.53,0.59
+Togo,TGO,all,total,2005,0.33,0.31,0.34
+Thailand,THA,all,total,2005,0.14,0.13,0.15
+Tajikistan,TJK,all,total,2005,0.15,0.13,0.16
+Timor-Leste,TLS,all,total,2005,0.4,0.35,0.46
+Tonga,TON,all,total,2005,0.13,0.1,0.16
+Trinidad/Tobago,TTO,all,total,2005,0.08,0.07,0.09
+Tunisia,TUN,all,total,2005,0.15,0.14,0.16
+Turkey,TUR,all,total,2005,0.17,0.13,0.21
+Tanzania,TZA,all,total,2005,0.35,0.33,0.37
+Uganda,UGA,all,total,2005,0.21,0.19,0.22
+Ukraine,UKR,all,total,2005,0.03,0.02,0.04
+Uruguay,URY,all,total,2005,0.07,0.06,0.08
+United States of America,USA,all,total,2005,0.05,0.04,0.05
+Uzbekistan,UZB,all,total,2005,0.14,0.11,0.17
+St Vincent/Grenad.,VCT,all,total,2005,0.06,0.05,0.06
+Venezuela,VEN,all,total,2005,0.13,0.12,0.14
+Vietnam,VNM,all,total,2005,0.2,0.19,0.22
+Vanuatu,VUT,all,total,2005,0.3,0.27,0.33
+Samoa,WSM,all,total,2005,0.08,0.03,0.13
+Yemen,YEM,all,total,2005,0.37,0.36,0.39
+South Africa,ZAF,all,total,2005,0.15,0.14,0.17
+Zambia,ZMB,all,total,2005,0.25,0.24,0.27
+Zimbabwe,ZWE,all,total,2005,0.28,0.25,0.31
+Aruba,ABW,all,total,2006,0.05,0.04,0.05
+Afghanistan,AFG,all,total,2006,0.38,0.34,0.41
+Angola,AGO,all,total,2006,0.42,0.38,0.45
+Albania,ALB,all,total,2006,0.14,0.12,0.15
+Andorra,AND,all,total,2006,0.13,0.13,0.14
+United Arab Emirates,ARE,all,total,2006,0.26,0.25,0.27
+Argentina,ARG,all,total,2006,0.06,0.05,0.06
+Armenia,ARM,all,total,2006,0.14,0.12,0.15
+Antigua/Barbuda,ATG,all,total,2006,0.17,0.14,0.2
+Australia,AUS,all,total,2006,0.03,0.02,0.04
+Austria,AUT,all,total,2006,0.03,0.03,0.03
+Azerbaijan,AZE,all,total,2006,0.07,0.06,0.09
+Burundi,BDI,all,total,2006,0.47,0.46,0.49
+Belgium,BEL,all,total,2006,0.01,0.0,0.01
+Benin,BEN,all,total,2006,0.34,0.32,0.36
+Burkina Faso,BFA,all,total,2006,0.66,0.64,0.68
+Bangladesh,BGD,all,total,2006,0.33,0.32,0.34
+Bulgaria,BGR,all,total,2006,0.07,0.07,0.08
+Bahrain,BHR,all,total,2006,0.11,0.11,0.12
+Bahamas,BHS,all,total,2006,0.1,0.09,0.11
+Bosnia and Herz.,BIH,all,total,2006,0.09,0.06,0.13
+Belarus,BLR,all,total,2006,0.01,0.0,0.01
+Belize,BLZ,all,total,2006,0.13,0.12,0.14
+Bolivia,BOL,all,total,2006,0.07,0.06,0.08
+Brazil,BRA,all,total,2006,0.06,0.05,0.07
+Barbados,BRB,all,total,2006,0.05,0.04,0.06
+Brunei Daruss.,BRN,all,total,2006,0.05,0.04,0.05
+Bhutan,BTN,all,total,2006,0.31,0.29,0.33
+Botswana,BWA,all,total,2006,0.1,0.08,0.13
+Central African Rep.,CAF,all,total,2006,0.61,0.59,0.64
+Canada,CAN,all,total,2006,0.03,0.0,0.08
+Switzerland,CHE,all,total,2006,0.07,0.07,0.07
+Chile,CHL,all,total,2006,0.06,0.05,0.07
+China,CHN,all,total,2006,0.09,0.02,0.17
+Côte d'Ivoire,CIV,all,total,2006,0.6,0.57,0.62
+Cameroon,CMR,all,total,2006,0.33,0.3,0.37
+Dem. Rep. Congo,COD,all,total,2006,0.29,0.15,0.43
+Congo,COG,all,total,2006,0.49,0.47,0.52
+Colombia,COL,all,total,2006,0.09,0.09,0.1
+Comoros,COM,all,total,2006,0.27,0.17,0.37
+Cabo Verde,CPV,all,total,2006,0.13,0.11,0.14
+Costa Rica,CRI,all,total,2006,0.1,0.09,0.11
+Cuba,CUB,all,total,2006,0.05,0.04,0.06
+Cyprus,CYP,all,total,2006,0.04,0.04,0.05
+Czechia,CZE,all,total,2006,0.02,0.01,0.02
+Germany,DEU,all,total,2006,0.02,0.0,0.05
+Djibouti,DJI,all,total,2006,0.67,0.65,0.7
+Denmark,DNK,all,total,2006,0.04,0.04,0.05
+Dominican Rep.,DOM,all,total,2006,0.18,0.17,0.19
+Algeria,DZA,all,total,2006,0.14,0.13,0.15
+Ecuador,ECU,all,total,2006,0.18,0.17,0.19
+Egypt,EGY,all,total,2006,0.26,0.25,0.27
+Eritrea,ERI,all,total,2006,0.39,0.37,0.41
+Spain,ESP,all,total,2006,0.03,0.03,0.03
+Estonia,EST,all,total,2006,0.02,0.02,0.03
+Ethiopia,ETH,all,total,2006,0.47,0.46,0.49
+Finland,FIN,all,total,2006,0.03,0.02,0.03
+Fiji,FJI,all,total,2006,0.08,0.06,0.09
+France,FRA,all,total,2006,0.03,0.03,0.04
+"Micronesia, F. S.",FSM,all,total,2006,0.25,0.09,0.41
+United Kingdom,GBR,all,total,2006,0.03,0.03,0.03
+Georgia,GEO,all,total,2006,0.06,0.05,0.08
+Ghana,GHA,all,total,2006,0.33,0.31,0.35
+Guinea,GIN,all,total,2006,0.5,0.48,0.51
+Gambia,GMB,all,total,2006,0.44,0.42,0.46
+Guinea-Bissau,GNB,all,total,2006,0.43,0.38,0.48
+Equat. Guinea,GNQ,all,total,2006,0.45,0.42,0.48
+Greece,GRC,all,total,2006,0.06,0.06,0.07
+Grenada,GRD,all,total,2006,0.06,0.05,0.07
+Guatemala,GTM,all,total,2006,0.23,0.22,0.24
+Guyana,GUY,all,total,2006,0.18,0.17,0.19
+"Hong Kong, China",HKG,all,total,2006,0.1,0.09,0.11
+Honduras,HND,all,total,2006,0.22,0.21,0.23
+Croatia,HRV,all,total,2006,0.04,0.03,0.05
+Haiti,HTI,all,total,2006,0.15,0.14,0.16
+Hungary,HUN,all,total,2006,0.04,0.04,0.04
+Indonesia,IDN,all,total,2006,0.2,0.19,0.21
+India,IND,all,total,2006,0.32,0.29,0.35
+Ireland,IRL,all,total,2006,0.01,0.01,0.02
+Iran,IRN,all,total,2006,0.11,0.1,0.13
+Iraq,IRQ,all,total,2006,0.32,0.31,0.33
+Iceland,ISL,all,total,2006,0.07,0.06,0.07
+Israel,ISR,all,total,2006,0.0,0.0,0.0
+Italy,ITA,all,total,2006,0.04,0.04,0.04
+Jamaica,JAM,all,total,2006,0.11,0.1,0.13
+Jordan,JOR,all,total,2006,0.16,0.15,0.17
+Japan,JPN,all,total,2006,0.01,0.0,0.02
+Kazakhstan,KAZ,all,total,2006,0.01,0.01,0.02
+Kenya,KEN,all,total,2006,0.21,0.19,0.22
+Kyrgyzstan,KGZ,all,total,2006,0.11,0.09,0.12
+Cambodia,KHM,all,total,2006,0.27,0.26,0.28
+Kiribati,KIR,all,total,2006,0.09,0.03,0.15
+South Korea,KOR,all,total,2006,0.03,0.02,0.04
+Kuwait,KWT,all,total,2006,0.08,0.07,0.09
+Laos,LAO,all,total,2006,0.3,0.29,0.32
+Lebanon,LBN,all,total,2006,0.34,0.33,0.35
+Liberia,LBR,all,total,2006,0.25,0.22,0.29
+Saint Lucia,LCA,all,total,2006,0.11,0.1,0.11
+Liechtenstein,LIE,all,total,2006,0.05,0.04,0.05
+Sri Lanka,LKA,all,total,2006,0.12,0.11,0.13
+Lesotho,LSO,all,total,2006,0.17,0.15,0.19
+Lithuania,LTU,all,total,2006,0.0,0.0,0.01
+Luxembourg,LUX,all,total,2006,0.08,0.08,0.09
+Latvia,LVA,all,total,2006,0.03,0.03,0.03
+"Macao, China",MAC,all,total,2006,0.15,0.13,0.16
+Morocco,MAR,all,total,2006,0.27,0.26,0.28
+Rep. Moldova,MDA,all,total,2006,0.15,0.15,0.16
+Madagascar,MDG,all,total,2006,0.29,0.28,0.31
+Maldives,MDV,all,total,2006,0.13,0.12,0.14
+Mexico,MEX,all,total,2006,0.14,0.13,0.15
+Macedonia,MKD,all,total,2006,0.13,0.11,0.14
+Mali,MLI,all,total,2006,0.53,0.51,0.55
+Malta,MLT,all,total,2006,0.06,0.05,0.07
+Myanmar,MMR,all,total,2006,0.33,0.32,0.34
+Montenegro,MNE,all,total,2006,0.01,0.0,0.04
+Mongolia,MNG,all,total,2006,0.08,0.07,0.09
+Mozambique,MOZ,all,total,2006,0.34,0.32,0.35
+Mauritania,MRT,all,total,2006,0.44,0.42,0.46
+Mauritius,MUS,all,total,2006,0.1,0.08,0.11
+Malawi,MWI,all,total,2006,0.25,0.24,0.26
+Malaysia,MYS,all,total,2006,0.13,0.11,0.14
+Namibia,NAM,all,total,2006,0.13,0.11,0.15
+Niger,NER,all,total,2006,0.73,0.71,0.75
+Nigeria,NGA,all,total,2006,0.29,0.18,0.39
+Nicaragua,NIC,all,total,2006,0.13,0.12,0.14
+Netherlands,NLD,all,total,2006,0.01,0.01,0.02
+Norway,NOR,all,total,2006,0.02,0.02,0.03
+Nepal,NPL,all,total,2006,0.43,0.4,0.45
+New Zealand,NZL,all,total,2006,0.03,0.02,0.05
+Oman,OMN,all,total,2006,0.15,0.14,0.16
+Pakistan,PAK,all,total,2006,0.53,0.52,0.55
+Panama,PAN,all,total,2006,0.13,0.13,0.14
+Peru,PER,all,total,2006,0.08,0.07,0.08
+Philippines,PHL,all,total,2006,0.13,0.12,0.15
+Papua New Guinea,PNG,all,total,2006,0.45,0.36,0.53
+Poland,POL,all,total,2006,0.04,0.03,0.04
+Portugal,PRT,all,total,2006,0.04,0.04,0.05
+Paraguay,PRY,all,total,2006,0.16,0.15,0.17
+Palestine,PSE,all,total,2006,0.15,0.14,0.16
+Qatar,QAT,all,total,2006,0.15,0.14,0.15
+Romania,ROU,all,total,2006,0.17,0.16,0.17
+Rwanda,RWA,all,total,2006,0.28,0.25,0.31
+Saudi Arabia,SAU,all,total,2006,0.16,0.15,0.17
+Sudan,SDN,all,total,2006,0.57,0.52,0.61
+Senegal,SEN,all,total,2006,0.5,0.48,0.51
+Singapore,SGP,all,total,2006,0.0,0.0,0.01
+Solomon Is.,SLB,all,total,2006,0.19,0.13,0.25
+Sierra Leone,SLE,all,total,2006,0.4,0.38,0.43
+El Salvador,SLV,all,total,2006,0.12,0.11,0.13
+S. Sudan,SSD,all,total,2006,0.61,0.54,0.68
+S. Tome/Principe,STP,all,total,2006,0.2,0.18,0.22
+Suriname,SUR,all,total,2006,0.3,0.29,0.32
+Slovakia,SVK,all,total,2006,0.04,0.04,0.05
+Slovenia,SVN,all,total,2006,0.04,0.03,0.04
+Sweden,SWE,all,total,2006,0.01,0.01,0.02
+eSwatini,SWZ,all,total,2006,0.16,0.14,0.18
+Seychelles,SYC,all,total,2006,0.11,0.1,0.12
+Syria,SYR,all,total,2006,0.23,0.22,0.23
+Chad,TCD,all,total,2006,0.55,0.52,0.57
+Togo,TGO,all,total,2006,0.31,0.29,0.33
+Thailand,THA,all,total,2006,0.14,0.13,0.15
+Tajikistan,TJK,all,total,2006,0.14,0.13,0.15
+Timor-Leste,TLS,all,total,2006,0.36,0.33,0.4
+Tonga,TON,all,total,2006,0.13,0.11,0.16
+Trinidad/Tobago,TTO,all,total,2006,0.07,0.06,0.08
+Tunisia,TUN,all,total,2006,0.15,0.14,0.16
+Turkey,TUR,all,total,2006,0.15,0.13,0.18
+Tanzania,TZA,all,total,2006,0.33,0.31,0.35
+Uganda,UGA,all,total,2006,0.2,0.18,0.22
+Ukraine,UKR,all,total,2006,0.03,0.02,0.04
+Uruguay,URY,all,total,2006,0.08,0.07,0.09
+United States of America,USA,all,total,2006,0.05,0.04,0.05
+Uzbekistan,UZB,all,total,2006,0.13,0.1,0.15
+St Vincent/Grenad.,VCT,all,total,2006,0.05,0.04,0.05
+Venezuela,VEN,all,total,2006,0.12,0.11,0.13
+Vietnam,VNM,all,total,2006,0.19,0.18,0.2
+Vanuatu,VUT,all,total,2006,0.27,0.25,0.3
+Samoa,WSM,all,total,2006,0.08,0.04,0.12
+Yemen,YEM,all,total,2006,0.37,0.36,0.39
+South Africa,ZAF,all,total,2006,0.15,0.13,0.16
+Zambia,ZMB,all,total,2006,0.24,0.22,0.26
+Zimbabwe,ZWE,all,total,2006,0.27,0.24,0.3
+Aruba,ABW,all,total,2007,0.04,0.03,0.05
+Afghanistan,AFG,all,total,2007,0.35,0.32,0.38
+Angola,AGO,all,total,2007,0.41,0.39,0.44
+Albania,ALB,all,total,2007,0.13,0.12,0.14
+Andorra,AND,all,total,2007,0.15,0.14,0.15
+United Arab Emirates,ARE,all,total,2007,0.28,0.27,0.29
+Argentina,ARG,all,total,2007,0.05,0.05,0.06
+Armenia,ARM,all,total,2007,0.15,0.14,0.17
+Antigua/Barbuda,ATG,all,total,2007,0.14,0.12,0.16
+Australia,AUS,all,total,2007,0.03,0.02,0.04
+Austria,AUT,all,total,2007,0.03,0.03,0.04
+Azerbaijan,AZE,all,total,2007,0.07,0.06,0.09
+Burundi,BDI,all,total,2007,0.43,0.42,0.45
+Belgium,BEL,all,total,2007,0.01,0.0,0.01
+Benin,BEN,all,total,2007,0.32,0.3,0.34
+Burkina Faso,BFA,all,total,2007,0.63,0.61,0.65
+Bangladesh,BGD,all,total,2007,0.32,0.31,0.34
+Bulgaria,BGR,all,total,2007,0.07,0.07,0.08
+Bahrain,BHR,all,total,2007,0.12,0.11,0.13
+Bahamas,BHS,all,total,2007,0.1,0.09,0.11
+Bosnia and Herz.,BIH,all,total,2007,0.09,0.06,0.12
+Belarus,BLR,all,total,2007,0.01,0.0,0.01
+Belize,BLZ,all,total,2007,0.13,0.12,0.14
+Bolivia,BOL,all,total,2007,0.08,0.07,0.08
+Brazil,BRA,all,total,2007,0.06,0.05,0.07
+Barbados,BRB,all,total,2007,0.05,0.04,0.06
+Brunei Daruss.,BRN,all,total,2007,0.05,0.04,0.06
+Bhutan,BTN,all,total,2007,0.28,0.26,0.3
+Botswana,BWA,all,total,2007,0.1,0.08,0.13
+Central African Rep.,CAF,all,total,2007,0.59,0.57,0.61
+Canada,CAN,all,total,2007,0.03,0.0,0.08
+Switzerland,CHE,all,total,2007,0.07,0.07,0.07
+Chile,CHL,all,total,2007,0.06,0.05,0.07
+China,CHN,all,total,2007,0.09,0.02,0.16
+Côte d'Ivoire,CIV,all,total,2007,0.59,0.57,0.62
+Cameroon,CMR,all,total,2007,0.32,0.29,0.35
+Dem. Rep. Congo,COD,all,total,2007,0.28,0.14,0.41
+Congo,COG,all,total,2007,0.45,0.43,0.48
+Colombia,COL,all,total,2007,0.09,0.08,0.1
+Comoros,COM,all,total,2007,0.27,0.19,0.36
+Cabo Verde,CPV,all,total,2007,0.12,0.11,0.14
+Costa Rica,CRI,all,total,2007,0.09,0.08,0.1
+Cuba,CUB,all,total,2007,0.04,0.03,0.05
+Cyprus,CYP,all,total,2007,0.04,0.04,0.05
+Czechia,CZE,all,total,2007,0.02,0.01,0.02
+Germany,DEU,all,total,2007,0.02,0.0,0.04
+Djibouti,DJI,all,total,2007,0.66,0.64,0.67
+Denmark,DNK,all,total,2007,0.04,0.04,0.05
+Dominican Rep.,DOM,all,total,2007,0.16,0.15,0.17
+Algeria,DZA,all,total,2007,0.18,0.17,0.19
+Ecuador,ECU,all,total,2007,0.16,0.15,0.17
+Egypt,EGY,all,total,2007,0.26,0.25,0.27
+Eritrea,ERI,all,total,2007,0.38,0.37,0.4
+Spain,ESP,all,total,2007,0.03,0.03,0.03
+Estonia,EST,all,total,2007,0.02,0.02,0.03
+Ethiopia,ETH,all,total,2007,0.45,0.43,0.46
+Finland,FIN,all,total,2007,0.03,0.02,0.03
+Fiji,FJI,all,total,2007,0.08,0.07,0.09
+France,FRA,all,total,2007,0.03,0.03,0.03
+"Micronesia, F. S.",FSM,all,total,2007,0.25,0.11,0.38
+United Kingdom,GBR,all,total,2007,0.03,0.03,0.04
+Georgia,GEO,all,total,2007,0.06,0.05,0.07
+Ghana,GHA,all,total,2007,0.31,0.29,0.33
+Guinea,GIN,all,total,2007,0.48,0.47,0.5
+Gambia,GMB,all,total,2007,0.44,0.42,0.46
+Guinea-Bissau,GNB,all,total,2007,0.41,0.36,0.46
+Equat. Guinea,GNQ,all,total,2007,0.48,0.44,0.51
+Greece,GRC,all,total,2007,0.06,0.05,0.06
+Grenada,GRD,all,total,2007,0.05,0.04,0.06
+Guatemala,GTM,all,total,2007,0.22,0.21,0.23
+Guyana,GUY,all,total,2007,0.16,0.15,0.17
+"Hong Kong, China",HKG,all,total,2007,0.09,0.08,0.1
+Honduras,HND,all,total,2007,0.21,0.2,0.22
+Croatia,HRV,all,total,2007,0.04,0.03,0.04
+Haiti,HTI,all,total,2007,0.14,0.13,0.16
+Hungary,HUN,all,total,2007,0.04,0.03,0.04
+Indonesia,IDN,all,total,2007,0.18,0.17,0.19
+India,IND,all,total,2007,0.3,0.26,0.33
+Ireland,IRL,all,total,2007,0.01,0.01,0.01
+Iran,IRN,all,total,2007,0.12,0.11,0.14
+Iraq,IRQ,all,total,2007,0.32,0.31,0.33
+Iceland,ISL,all,total,2007,0.07,0.06,0.07
+Israel,ISR,all,total,2007,0.0,0.0,0.0
+Italy,ITA,all,total,2007,0.04,0.04,0.04
+Jamaica,JAM,all,total,2007,0.11,0.1,0.13
+Jordan,JOR,all,total,2007,0.17,0.16,0.18
+Japan,JPN,all,total,2007,0.01,0.0,0.02
+Kazakhstan,KAZ,all,total,2007,0.01,0.01,0.02
+Kenya,KEN,all,total,2007,0.19,0.17,0.21
+Kyrgyzstan,KGZ,all,total,2007,0.11,0.09,0.12
+Cambodia,KHM,all,total,2007,0.26,0.24,0.27
+Kiribati,KIR,all,total,2007,0.1,0.04,0.15
+South Korea,KOR,all,total,2007,0.03,0.02,0.04
+Kuwait,KWT,all,total,2007,0.09,0.08,0.1
+Laos,LAO,all,total,2007,0.28,0.27,0.3
+Lebanon,LBN,all,total,2007,0.33,0.32,0.34
+Liberia,LBR,all,total,2007,0.25,0.22,0.28
+Saint Lucia,LCA,all,total,2007,0.09,0.08,0.1
+Liechtenstein,LIE,all,total,2007,0.05,0.04,0.05
+Sri Lanka,LKA,all,total,2007,0.11,0.1,0.13
+Lesotho,LSO,all,total,2007,0.16,0.15,0.18
+Lithuania,LTU,all,total,2007,0.0,0.0,0.01
+Luxembourg,LUX,all,total,2007,0.08,0.08,0.09
+Latvia,LVA,all,total,2007,0.03,0.03,0.04
+"Macao, China",MAC,all,total,2007,0.14,0.13,0.16
+Morocco,MAR,all,total,2007,0.26,0.25,0.26
+Rep. Moldova,MDA,all,total,2007,0.14,0.14,0.15
+Madagascar,MDG,all,total,2007,0.28,0.27,0.29
+Maldives,MDV,all,total,2007,0.13,0.12,0.14
+Mexico,MEX,all,total,2007,0.14,0.13,0.15
+Macedonia,MKD,all,total,2007,0.12,0.11,0.14
+Mali,MLI,all,total,2007,0.51,0.5,0.53
+Malta,MLT,all,total,2007,0.07,0.06,0.08
+Myanmar,MMR,all,total,2007,0.33,0.31,0.34
+Montenegro,MNE,all,total,2007,0.01,0.0,0.03
+Mongolia,MNG,all,total,2007,0.07,0.06,0.08
+Mozambique,MOZ,all,total,2007,0.32,0.3,0.34
+Mauritania,MRT,all,total,2007,0.43,0.41,0.45
+Mauritius,MUS,all,total,2007,0.09,0.08,0.1
+Malawi,MWI,all,total,2007,0.24,0.23,0.25
+Malaysia,MYS,all,total,2007,0.13,0.12,0.14
+Namibia,NAM,all,total,2007,0.12,0.1,0.14
+Niger,NER,all,total,2007,0.71,0.7,0.73
+Nigeria,NGA,all,total,2007,0.28,0.18,0.39
+Nicaragua,NIC,all,total,2007,0.12,0.11,0.12
+Netherlands,NLD,all,total,2007,0.01,0.01,0.02
+Norway,NOR,all,total,2007,0.02,0.02,0.03
+Nepal,NPL,all,total,2007,0.39,0.37,0.42
+New Zealand,NZL,all,total,2007,0.03,0.02,0.04
+Oman,OMN,all,total,2007,0.13,0.12,0.14
+Pakistan,PAK,all,total,2007,0.51,0.5,0.52
+Panama,PAN,all,total,2007,0.14,0.13,0.15
+Peru,PER,all,total,2007,0.07,0.06,0.08
+Philippines,PHL,all,total,2007,0.12,0.11,0.13
+Papua New Guinea,PNG,all,total,2007,0.43,0.35,0.51
+Poland,POL,all,total,2007,0.04,0.03,0.04
+Portugal,PRT,all,total,2007,0.03,0.03,0.04
+Paraguay,PRY,all,total,2007,0.17,0.16,0.17
+Palestine,PSE,all,total,2007,0.14,0.14,0.15
+Qatar,QAT,all,total,2007,0.15,0.14,0.15
+Romania,ROU,all,total,2007,0.16,0.16,0.17
+Rwanda,RWA,all,total,2007,0.26,0.23,0.29
+Saudi Arabia,SAU,all,total,2007,0.14,0.13,0.15
+Sudan,SDN,all,total,2007,0.54,0.5,0.58
+Senegal,SEN,all,total,2007,0.48,0.47,0.5
+Singapore,SGP,all,total,2007,0.0,0.0,0.01
+Solomon Is.,SLB,all,total,2007,0.18,0.14,0.23
+Sierra Leone,SLE,all,total,2007,0.39,0.37,0.42
+El Salvador,SLV,all,total,2007,0.12,0.11,0.13
+S. Sudan,SSD,all,total,2007,0.6,0.54,0.67
+S. Tome/Principe,STP,all,total,2007,0.19,0.17,0.21
+Suriname,SUR,all,total,2007,0.28,0.27,0.3
+Slovakia,SVK,all,total,2007,0.04,0.04,0.05
+Slovenia,SVN,all,total,2007,0.04,0.03,0.04
+Sweden,SWE,all,total,2007,0.01,0.01,0.02
+eSwatini,SWZ,all,total,2007,0.15,0.13,0.17
+Seychelles,SYC,all,total,2007,0.11,0.1,0.12
+Syria,SYR,all,total,2007,0.22,0.21,0.22
+Chad,TCD,all,total,2007,0.53,0.51,0.56
+Togo,TGO,all,total,2007,0.3,0.28,0.31
+Thailand,THA,all,total,2007,0.14,0.13,0.15
+Tajikistan,TJK,all,total,2007,0.13,0.12,0.14
+Timor-Leste,TLS,all,total,2007,0.33,0.3,0.35
+Tonga,TON,all,total,2007,0.13,0.1,0.16
+Trinidad/Tobago,TTO,all,total,2007,0.06,0.05,0.07
+Tunisia,TUN,all,total,2007,0.14,0.14,0.15
+Turkey,TUR,all,total,2007,0.14,0.12,0.16
+Tanzania,TZA,all,total,2007,0.32,0.3,0.33
+Uganda,UGA,all,total,2007,0.19,0.18,0.21
+Ukraine,UKR,all,total,2007,0.03,0.02,0.03
+Uruguay,URY,all,total,2007,0.08,0.07,0.09
+United States of America,USA,all,total,2007,0.05,0.04,0.05
+Uzbekistan,UZB,all,total,2007,0.12,0.1,0.14
+St Vincent/Grenad.,VCT,all,total,2007,0.04,0.03,0.04
+Venezuela,VEN,all,total,2007,0.12,0.11,0.12
+Vietnam,VNM,all,total,2007,0.18,0.16,0.19
+Vanuatu,VUT,all,total,2007,0.25,0.23,0.27
+Samoa,WSM,all,total,2007,0.08,0.05,0.11
+Yemen,YEM,all,total,2007,0.37,0.35,0.38
+South Africa,ZAF,all,total,2007,0.14,0.13,0.16
+Zambia,ZMB,all,total,2007,0.22,0.21,0.24
+Zimbabwe,ZWE,all,total,2007,0.26,0.23,0.29
+Aruba,ABW,all,total,2008,0.04,0.03,0.05
+Afghanistan,AFG,all,total,2008,0.32,0.3,0.35
+Angola,AGO,all,total,2008,0.38,0.36,0.41
+Albania,ALB,all,total,2008,0.12,0.11,0.13
+Andorra,AND,all,total,2008,0.15,0.15,0.16
+United Arab Emirates,ARE,all,total,2008,0.28,0.27,0.29
+Argentina,ARG,all,total,2008,0.05,0.05,0.06
+Armenia,ARM,all,total,2008,0.17,0.15,0.18
+Antigua/Barbuda,ATG,all,total,2008,0.11,0.09,0.12
+Australia,AUS,all,total,2008,0.03,0.02,0.04
+Austria,AUT,all,total,2008,0.03,0.03,0.04
+Azerbaijan,AZE,all,total,2008,0.07,0.06,0.08
+Burundi,BDI,all,total,2008,0.4,0.38,0.41
+Belgium,BEL,all,total,2008,0.01,0.0,0.01
+Benin,BEN,all,total,2008,0.3,0.28,0.32
+Burkina Faso,BFA,all,total,2008,0.6,0.59,0.62
+Bangladesh,BGD,all,total,2008,0.32,0.31,0.33
+Bulgaria,BGR,all,total,2008,0.07,0.07,0.08
+Bahrain,BHR,all,total,2008,0.12,0.11,0.13
+Bahamas,BHS,all,total,2008,0.11,0.1,0.12
+Bosnia and Herz.,BIH,all,total,2008,0.08,0.05,0.1
+Belarus,BLR,all,total,2008,0.01,0.0,0.01
+Belize,BLZ,all,total,2008,0.13,0.12,0.14
+Bolivia,BOL,all,total,2008,0.08,0.08,0.09
+Brazil,BRA,all,total,2008,0.06,0.05,0.07
+Barbados,BRB,all,total,2008,0.05,0.04,0.06
+Brunei Daruss.,BRN,all,total,2008,0.05,0.04,0.06
+Bhutan,BTN,all,total,2008,0.25,0.24,0.27
+Botswana,BWA,all,total,2008,0.1,0.09,0.12
+Central African Rep.,CAF,all,total,2008,0.57,0.55,0.59
+Canada,CAN,all,total,2008,0.04,0.0,0.07
+Switzerland,CHE,all,total,2008,0.07,0.06,0.07
+Chile,CHL,all,total,2008,0.06,0.05,0.07
+China,CHN,all,total,2008,0.09,0.02,0.16
+Côte d'Ivoire,CIV,all,total,2008,0.58,0.56,0.61
+Cameroon,CMR,all,total,2008,0.3,0.27,0.33
+Dem. Rep. Congo,COD,all,total,2008,0.26,0.14,0.39
+Congo,COG,all,total,2008,0.42,0.39,0.45
+Colombia,COL,all,total,2008,0.09,0.08,0.1
+Comoros,COM,all,total,2008,0.28,0.21,0.35
+Cabo Verde,CPV,all,total,2008,0.12,0.1,0.13
+Costa Rica,CRI,all,total,2008,0.08,0.07,0.09
+Cuba,CUB,all,total,2008,0.04,0.03,0.05
+Cyprus,CYP,all,total,2008,0.04,0.04,0.05
+Czechia,CZE,all,total,2008,0.02,0.01,0.02
+Germany,DEU,all,total,2008,0.02,0.01,0.04
+Djibouti,DJI,all,total,2008,0.62,0.6,0.64
+Denmark,DNK,all,total,2008,0.04,0.04,0.05
+Dominican Rep.,DOM,all,total,2008,0.15,0.14,0.16
+Algeria,DZA,all,total,2008,0.17,0.16,0.18
+Ecuador,ECU,all,total,2008,0.14,0.13,0.15
+Egypt,EGY,all,total,2008,0.25,0.24,0.26
+Eritrea,ERI,all,total,2008,0.38,0.36,0.4
+Spain,ESP,all,total,2008,0.03,0.02,0.03
+Estonia,EST,all,total,2008,0.02,0.02,0.03
+Ethiopia,ETH,all,total,2008,0.43,0.41,0.44
+Finland,FIN,all,total,2008,0.03,0.02,0.03
+Fiji,FJI,all,total,2008,0.08,0.07,0.09
+France,FRA,all,total,2008,0.03,0.02,0.03
+"Micronesia, F. S.",FSM,all,total,2008,0.24,0.13,0.36
+United Kingdom,GBR,all,total,2008,0.03,0.03,0.04
+Georgia,GEO,all,total,2008,0.05,0.04,0.06
+Ghana,GHA,all,total,2008,0.29,0.27,0.31
+Guinea,GIN,all,total,2008,0.47,0.46,0.49
+Gambia,GMB,all,total,2008,0.43,0.41,0.45
+Guinea-Bissau,GNB,all,total,2008,0.39,0.35,0.44
+Equat. Guinea,GNQ,all,total,2008,0.5,0.47,0.53
+Greece,GRC,all,total,2008,0.05,0.04,0.05
+Grenada,GRD,all,total,2008,0.05,0.04,0.06
+Guatemala,GTM,all,total,2008,0.22,0.21,0.23
+Guyana,GUY,all,total,2008,0.15,0.14,0.16
+"Hong Kong, China",HKG,all,total,2008,0.09,0.08,0.1
+Honduras,HND,all,total,2008,0.2,0.19,0.21
+Croatia,HRV,all,total,2008,0.04,0.03,0.04
+Haiti,HTI,all,total,2008,0.14,0.13,0.16
+Hungary,HUN,all,total,2008,0.04,0.03,0.04
+Indonesia,IDN,all,total,2008,0.17,0.16,0.18
+India,IND,all,total,2008,0.28,0.25,0.31
+Ireland,IRL,all,total,2008,0.01,0.01,0.01
+Iran,IRN,all,total,2008,0.13,0.11,0.14
+Iraq,IRQ,all,total,2008,0.32,0.31,0.33
+Iceland,ISL,all,total,2008,0.07,0.06,0.07
+Israel,ISR,all,total,2008,0.0,0.0,0.0
+Italy,ITA,all,total,2008,0.04,0.03,0.04
+Jamaica,JAM,all,total,2008,0.12,0.1,0.13
+Jordan,JOR,all,total,2008,0.19,0.18,0.2
+Japan,JPN,all,total,2008,0.01,0.0,0.02
+Kazakhstan,KAZ,all,total,2008,0.01,0.0,0.02
+Kenya,KEN,all,total,2008,0.18,0.16,0.2
+Kyrgyzstan,KGZ,all,total,2008,0.11,0.1,0.12
+Cambodia,KHM,all,total,2008,0.24,0.23,0.25
+Kiribati,KIR,all,total,2008,0.1,0.05,0.15
+South Korea,KOR,all,total,2008,0.03,0.02,0.04
+Kuwait,KWT,all,total,2008,0.1,0.09,0.11
+Laos,LAO,all,total,2008,0.27,0.26,0.28
+Lebanon,LBN,all,total,2008,0.33,0.32,0.34
+Liberia,LBR,all,total,2008,0.24,0.21,0.27
+Saint Lucia,LCA,all,total,2008,0.08,0.07,0.09
+Liechtenstein,LIE,all,total,2008,0.05,0.04,0.05
+Sri Lanka,LKA,all,total,2008,0.11,0.1,0.12
+Lesotho,LSO,all,total,2008,0.16,0.14,0.17
+Lithuania,LTU,all,total,2008,0.0,0.0,0.01
+Luxembourg,LUX,all,total,2008,0.08,0.08,0.09
+Latvia,LVA,all,total,2008,0.03,0.03,0.04
+"Macao, China",MAC,all,total,2008,0.14,0.13,0.15
+Morocco,MAR,all,total,2008,0.24,0.23,0.25
+Rep. Moldova,MDA,all,total,2008,0.14,0.14,0.15
+Madagascar,MDG,all,total,2008,0.27,0.26,0.28
+Maldives,MDV,all,total,2008,0.14,0.12,0.15
+Mexico,MEX,all,total,2008,0.14,0.13,0.14
+Macedonia,MKD,all,total,2008,0.11,0.1,0.13
+Mali,MLI,all,total,2008,0.5,0.48,0.52
+Malta,MLT,all,total,2008,0.08,0.08,0.09
+Myanmar,MMR,all,total,2008,0.32,0.31,0.34
+Montenegro,MNE,all,total,2008,0.01,0.0,0.03
+Mongolia,MNG,all,total,2008,0.06,0.05,0.07
+Mozambique,MOZ,all,total,2008,0.31,0.29,0.33
+Mauritania,MRT,all,total,2008,0.44,0.43,0.46
+Mauritius,MUS,all,total,2008,0.09,0.08,0.1
+Malawi,MWI,all,total,2008,0.23,0.22,0.25
+Malaysia,MYS,all,total,2008,0.13,0.12,0.14
+Namibia,NAM,all,total,2008,0.12,0.1,0.13
+Niger,NER,all,total,2008,0.7,0.68,0.71
+Nigeria,NGA,all,total,2008,0.28,0.17,0.39
+Nicaragua,NIC,all,total,2008,0.1,0.09,0.11
+Netherlands,NLD,all,total,2008,0.01,0.01,0.01
+Norway,NOR,all,total,2008,0.02,0.02,0.03
+Nepal,NPL,all,total,2008,0.36,0.34,0.38
+New Zealand,NZL,all,total,2008,0.03,0.01,0.04
+Oman,OMN,all,total,2008,0.11,0.1,0.12
+Pakistan,PAK,all,total,2008,0.49,0.48,0.5
+Panama,PAN,all,total,2008,0.14,0.13,0.15
+Peru,PER,all,total,2008,0.07,0.06,0.08
+Philippines,PHL,all,total,2008,0.11,0.1,0.12
+Papua New Guinea,PNG,all,total,2008,0.41,0.34,0.48
+Poland,POL,all,total,2008,0.04,0.03,0.04
+Portugal,PRT,all,total,2008,0.03,0.02,0.03
+Paraguay,PRY,all,total,2008,0.17,0.16,0.18
+Palestine,PSE,all,total,2008,0.14,0.13,0.15
+Qatar,QAT,all,total,2008,0.13,0.12,0.14
+Romania,ROU,all,total,2008,0.15,0.14,0.16
+Rwanda,RWA,all,total,2008,0.24,0.22,0.27
+Saudi Arabia,SAU,all,total,2008,0.11,0.1,0.13
+Sudan,SDN,all,total,2008,0.52,0.49,0.55
+Senegal,SEN,all,total,2008,0.47,0.45,0.48
+Singapore,SGP,all,total,2008,0.0,0.0,0.01
+Solomon Is.,SLB,all,total,2008,0.18,0.14,0.22
+Sierra Leone,SLE,all,total,2008,0.38,0.36,0.41
+El Salvador,SLV,all,total,2008,0.12,0.11,0.13
+S. Sudan,SSD,all,total,2008,0.6,0.54,0.66
+S. Tome/Principe,STP,all,total,2008,0.19,0.17,0.21
+Suriname,SUR,all,total,2008,0.26,0.25,0.27
+Slovakia,SVK,all,total,2008,0.05,0.04,0.05
+Slovenia,SVN,all,total,2008,0.04,0.03,0.04
+Sweden,SWE,all,total,2008,0.01,0.01,0.02
+eSwatini,SWZ,all,total,2008,0.14,0.12,0.16
+Seychelles,SYC,all,total,2008,0.12,0.1,0.13
+Syria,SYR,all,total,2008,0.21,0.2,0.22
+Chad,TCD,all,total,2008,0.52,0.5,0.55
+Togo,TGO,all,total,2008,0.28,0.27,0.3
+Thailand,THA,all,total,2008,0.13,0.12,0.14
+Tajikistan,TJK,all,total,2008,0.12,0.11,0.13
+Timor-Leste,TLS,all,total,2008,0.3,0.28,0.31
+Tonga,TON,all,total,2008,0.12,0.09,0.15
+Trinidad/Tobago,TTO,all,total,2008,0.06,0.05,0.07
+Tunisia,TUN,all,total,2008,0.14,0.13,0.15
+Turkey,TUR,all,total,2008,0.13,0.11,0.14
+Tanzania,TZA,all,total,2008,0.31,0.29,0.32
+Uganda,UGA,all,total,2008,0.19,0.17,0.2
+Ukraine,UKR,all,total,2008,0.03,0.02,0.03
+Uruguay,URY,all,total,2008,0.09,0.08,0.1
+United States of America,USA,all,total,2008,0.05,0.04,0.05
+Uzbekistan,UZB,all,total,2008,0.11,0.09,0.12
+St Vincent/Grenad.,VCT,all,total,2008,0.03,0.02,0.04
+Venezuela,VEN,all,total,2008,0.11,0.1,0.12
+Vietnam,VNM,all,total,2008,0.17,0.16,0.18
+Vanuatu,VUT,all,total,2008,0.22,0.2,0.24
+Samoa,WSM,all,total,2008,0.07,0.05,0.1
+Yemen,YEM,all,total,2008,0.36,0.35,0.38
+South Africa,ZAF,all,total,2008,0.13,0.12,0.15
+Zambia,ZMB,all,total,2008,0.21,0.19,0.23
+Zimbabwe,ZWE,all,total,2008,0.25,0.22,0.28
+Aruba,ABW,all,total,2009,0.03,0.02,0.04
+Afghanistan,AFG,all,total,2009,0.3,0.27,0.32
+Angola,AGO,all,total,2009,0.35,0.33,0.38
+Albania,ALB,all,total,2009,0.11,0.1,0.12
+Andorra,AND,all,total,2009,0.16,0.16,0.17
+United Arab Emirates,ARE,all,total,2009,0.26,0.25,0.27
+Argentina,ARG,all,total,2009,0.05,0.04,0.05
+Armenia,ARM,all,total,2009,0.16,0.15,0.18
+Antigua/Barbuda,ATG,all,total,2009,0.08,0.07,0.1
+Australia,AUS,all,total,2009,0.03,0.02,0.04
+Austria,AUT,all,total,2009,0.03,0.03,0.04
+Azerbaijan,AZE,all,total,2009,0.08,0.07,0.08
+Burundi,BDI,all,total,2009,0.37,0.35,0.38
+Belgium,BEL,all,total,2009,0.01,0.0,0.01
+Benin,BEN,all,total,2009,0.28,0.26,0.3
+Burkina Faso,BFA,all,total,2009,0.58,0.56,0.59
+Bangladesh,BGD,all,total,2009,0.31,0.3,0.32
+Bulgaria,BGR,all,total,2009,0.07,0.07,0.08
+Bahrain,BHR,all,total,2009,0.11,0.1,0.12
+Bahamas,BHS,all,total,2009,0.12,0.11,0.13
+Bosnia and Herz.,BIH,all,total,2009,0.07,0.05,0.09
+Belarus,BLR,all,total,2009,0.01,0.0,0.01
+Belize,BLZ,all,total,2009,0.13,0.13,0.14
+Bolivia,BOL,all,total,2009,0.09,0.09,0.1
+Brazil,BRA,all,total,2009,0.06,0.05,0.07
+Barbados,BRB,all,total,2009,0.04,0.03,0.05
+Brunei Daruss.,BRN,all,total,2009,0.05,0.04,0.05
+Bhutan,BTN,all,total,2009,0.22,0.21,0.24
+Botswana,BWA,all,total,2009,0.11,0.09,0.12
+Central African Rep.,CAF,all,total,2009,0.55,0.53,0.57
+Canada,CAN,all,total,2009,0.04,0.01,0.06
+Switzerland,CHE,all,total,2009,0.07,0.06,0.07
+Chile,CHL,all,total,2009,0.06,0.05,0.07
+China,CHN,all,total,2009,0.09,0.02,0.16
+Côte d'Ivoire,CIV,all,total,2009,0.58,0.55,0.6
+Cameroon,CMR,all,total,2009,0.29,0.26,0.31
+Dem. Rep. Congo,COD,all,total,2009,0.25,0.13,0.38
+Congo,COG,all,total,2009,0.39,0.36,0.42
+Colombia,COL,all,total,2009,0.08,0.08,0.09
+Comoros,COM,all,total,2009,0.28,0.23,0.34
+Cabo Verde,CPV,all,total,2009,0.11,0.1,0.13
+Costa Rica,CRI,all,total,2009,0.08,0.07,0.08
+Cuba,CUB,all,total,2009,0.04,0.03,0.05
+Cyprus,CYP,all,total,2009,0.04,0.03,0.05
+Czechia,CZE,all,total,2009,0.02,0.01,0.02
+Germany,DEU,all,total,2009,0.02,0.01,0.03
+Djibouti,DJI,all,total,2009,0.6,0.58,0.62
+Denmark,DNK,all,total,2009,0.04,0.04,0.04
+Dominican Rep.,DOM,all,total,2009,0.14,0.13,0.15
+Algeria,DZA,all,total,2009,0.11,0.1,0.11
+Ecuador,ECU,all,total,2009,0.13,0.12,0.13
+Egypt,EGY,all,total,2009,0.24,0.23,0.25
+Eritrea,ERI,all,total,2009,0.38,0.36,0.4
+Spain,ESP,all,total,2009,0.03,0.02,0.03
+Estonia,EST,all,total,2009,0.02,0.02,0.03
+Ethiopia,ETH,all,total,2009,0.41,0.39,0.43
+Finland,FIN,all,total,2009,0.03,0.02,0.03
+Fiji,FJI,all,total,2009,0.08,0.07,0.09
+France,FRA,all,total,2009,0.03,0.03,0.03
+"Micronesia, F. S.",FSM,all,total,2009,0.24,0.15,0.34
+United Kingdom,GBR,all,total,2009,0.03,0.03,0.03
+Georgia,GEO,all,total,2009,0.07,0.06,0.07
+Ghana,GHA,all,total,2009,0.27,0.25,0.29
+Guinea,GIN,all,total,2009,0.46,0.45,0.48
+Gambia,GMB,all,total,2009,0.43,0.41,0.45
+Guinea-Bissau,GNB,all,total,2009,0.38,0.33,0.42
+Equat. Guinea,GNQ,all,total,2009,0.52,0.49,0.55
+Greece,GRC,all,total,2009,0.04,0.03,0.05
+Grenada,GRD,all,total,2009,0.05,0.03,0.06
+Guatemala,GTM,all,total,2009,0.22,0.21,0.23
+Guyana,GUY,all,total,2009,0.14,0.13,0.15
+"Hong Kong, China",HKG,all,total,2009,0.09,0.08,0.09
+Honduras,HND,all,total,2009,0.21,0.2,0.22
+Croatia,HRV,all,total,2009,0.04,0.03,0.04
+Haiti,HTI,all,total,2009,0.14,0.13,0.16
+Hungary,HUN,all,total,2009,0.03,0.03,0.04
+Indonesia,IDN,all,total,2009,0.16,0.15,0.17
+India,IND,all,total,2009,0.27,0.24,0.29
+Ireland,IRL,all,total,2009,0.01,0.0,0.01
+Iran,IRN,all,total,2009,0.11,0.1,0.13
+Iraq,IRQ,all,total,2009,0.31,0.3,0.32
+Iceland,ISL,all,total,2009,0.07,0.06,0.07
+Israel,ISR,all,total,2009,0.0,0.0,0.0
+Italy,ITA,all,total,2009,0.04,0.03,0.04
+Jamaica,JAM,all,total,2009,0.12,0.11,0.13
+Jordan,JOR,all,total,2009,0.21,0.2,0.22
+Japan,JPN,all,total,2009,0.01,0.0,0.02
+Kazakhstan,KAZ,all,total,2009,0.01,0.0,0.02
+Kenya,KEN,all,total,2009,0.17,0.15,0.19
+Kyrgyzstan,KGZ,all,total,2009,0.11,0.09,0.12
+Cambodia,KHM,all,total,2009,0.24,0.22,0.25
+Kiribati,KIR,all,total,2009,0.13,0.08,0.19
+South Korea,KOR,all,total,2009,0.03,0.02,0.04
+Kuwait,KWT,all,total,2009,0.1,0.09,0.1
+Laos,LAO,all,total,2009,0.25,0.24,0.27
+Lebanon,LBN,all,total,2009,0.33,0.33,0.34
+Liberia,LBR,all,total,2009,0.24,0.21,0.26
+Saint Lucia,LCA,all,total,2009,0.07,0.07,0.08
+Liechtenstein,LIE,all,total,2009,0.05,0.04,0.05
+Sri Lanka,LKA,all,total,2009,0.11,0.1,0.12
+Lesotho,LSO,all,total,2009,0.15,0.13,0.17
+Lithuania,LTU,all,total,2009,0.0,0.0,0.01
+Luxembourg,LUX,all,total,2009,0.08,0.07,0.08
+Latvia,LVA,all,total,2009,0.03,0.03,0.04
+"Macao, China",MAC,all,total,2009,0.13,0.12,0.14
+Morocco,MAR,all,total,2009,0.23,0.22,0.24
+Rep. Moldova,MDA,all,total,2009,0.15,0.15,0.16
+Madagascar,MDG,all,total,2009,0.26,0.25,0.27
+Maldives,MDV,all,total,2009,0.14,0.13,0.16
+Mexico,MEX,all,total,2009,0.13,0.13,0.14
+Macedonia,MKD,all,total,2009,0.11,0.1,0.13
+Mali,MLI,all,total,2009,0.49,0.48,0.51
+Malta,MLT,all,total,2009,0.08,0.08,0.08
+Myanmar,MMR,all,total,2009,0.32,0.31,0.33
+Montenegro,MNE,all,total,2009,0.01,0.0,0.03
+Mongolia,MNG,all,total,2009,0.04,0.04,0.05
+Mozambique,MOZ,all,total,2009,0.3,0.28,0.32
+Mauritania,MRT,all,total,2009,0.44,0.42,0.45
+Mauritius,MUS,all,total,2009,0.09,0.08,0.1
+Malawi,MWI,all,total,2009,0.23,0.22,0.24
+Malaysia,MYS,all,total,2009,0.14,0.13,0.15
+Namibia,NAM,all,total,2009,0.11,0.09,0.13
+Niger,NER,all,total,2009,0.68,0.66,0.69
+Nigeria,NGA,all,total,2009,0.28,0.17,0.38
+Nicaragua,NIC,all,total,2009,0.09,0.07,0.1
+Netherlands,NLD,all,total,2009,0.01,0.01,0.01
+Norway,NOR,all,total,2009,0.02,0.02,0.03
+Nepal,NPL,all,total,2009,0.33,0.31,0.35
+New Zealand,NZL,all,total,2009,0.03,0.01,0.04
+Oman,OMN,all,total,2009,0.09,0.08,0.1
+Pakistan,PAK,all,total,2009,0.47,0.46,0.49
+Panama,PAN,all,total,2009,0.14,0.13,0.15
+Peru,PER,all,total,2009,0.06,0.06,0.07
+Philippines,PHL,all,total,2009,0.1,0.09,0.11
+Papua New Guinea,PNG,all,total,2009,0.39,0.33,0.45
+Poland,POL,all,total,2009,0.04,0.03,0.04
+Portugal,PRT,all,total,2009,0.02,0.02,0.03
+Paraguay,PRY,all,total,2009,0.17,0.16,0.18
+Palestine,PSE,all,total,2009,0.14,0.13,0.15
+Qatar,QAT,all,total,2009,0.11,0.1,0.12
+Romania,ROU,all,total,2009,0.14,0.13,0.14
+Rwanda,RWA,all,total,2009,0.23,0.21,0.25
+Saudi Arabia,SAU,all,total,2009,0.1,0.09,0.11
+Sudan,SDN,all,total,2009,0.5,0.47,0.53
+Senegal,SEN,all,total,2009,0.45,0.44,0.47
+Singapore,SGP,all,total,2009,0.0,0.0,0.01
+Solomon Is.,SLB,all,total,2009,0.18,0.15,0.2
+Sierra Leone,SLE,all,total,2009,0.37,0.35,0.39
+El Salvador,SLV,all,total,2009,0.12,0.11,0.13
+S. Sudan,SSD,all,total,2009,0.6,0.55,0.65
+S. Tome/Principe,STP,all,total,2009,0.18,0.16,0.2
+Suriname,SUR,all,total,2009,0.24,0.23,0.25
+Slovakia,SVK,all,total,2009,0.05,0.04,0.05
+Slovenia,SVN,all,total,2009,0.04,0.03,0.04
+Sweden,SWE,all,total,2009,0.01,0.01,0.02
+eSwatini,SWZ,all,total,2009,0.13,0.11,0.14
+Seychelles,SYC,all,total,2009,0.13,0.12,0.14
+Syria,SYR,all,total,2009,0.2,0.2,0.21
+Chad,TCD,all,total,2009,0.51,0.49,0.53
+Togo,TGO,all,total,2009,0.28,0.26,0.29
+Thailand,THA,all,total,2009,0.12,0.11,0.13
+Tajikistan,TJK,all,total,2009,0.12,0.11,0.13
+Timor-Leste,TLS,all,total,2009,0.26,0.25,0.27
+Tonga,TON,all,total,2009,0.11,0.09,0.13
+Trinidad/Tobago,TTO,all,total,2009,0.05,0.05,0.06
+Tunisia,TUN,all,total,2009,0.13,0.12,0.14
+Turkey,TUR,all,total,2009,0.14,0.12,0.15
+Tanzania,TZA,all,total,2009,0.3,0.28,0.32
+Uganda,UGA,all,total,2009,0.18,0.17,0.2
+Ukraine,UKR,all,total,2009,0.02,0.02,0.03
+Uruguay,URY,all,total,2009,0.09,0.08,0.09
+United States of America,USA,all,total,2009,0.05,0.05,0.05
+Uzbekistan,UZB,all,total,2009,0.1,0.08,0.11
+St Vincent/Grenad.,VCT,all,total,2009,0.03,0.02,0.04
+Venezuela,VEN,all,total,2009,0.1,0.09,0.11
+Vietnam,VNM,all,total,2009,0.16,0.15,0.17
+Vanuatu,VUT,all,total,2009,0.19,0.18,0.21
+Samoa,WSM,all,total,2009,0.07,0.06,0.09
+Yemen,YEM,all,total,2009,0.35,0.34,0.37
+South Africa,ZAF,all,total,2009,0.13,0.11,0.14
+Zambia,ZMB,all,total,2009,0.2,0.19,0.22
+Zimbabwe,ZWE,all,total,2009,0.24,0.21,0.26
+Aruba,ABW,all,total,2010,0.03,0.02,0.04
+Afghanistan,AFG,all,total,2010,0.28,0.26,0.31
+Angola,AGO,all,total,2010,0.33,0.31,0.35
+Albania,ALB,all,total,2010,0.1,0.09,0.1
+Andorra,AND,all,total,2010,0.17,0.16,0.17
+United Arab Emirates,ARE,all,total,2010,0.23,0.22,0.24
+Argentina,ARG,all,total,2010,0.05,0.04,0.05
+Armenia,ARM,all,total,2010,0.15,0.14,0.17
+Antigua/Barbuda,ATG,all,total,2010,0.07,0.06,0.08
+Australia,AUS,all,total,2010,0.02,0.01,0.03
+Austria,AUT,all,total,2010,0.03,0.03,0.04
+Azerbaijan,AZE,all,total,2010,0.08,0.07,0.09
+Burundi,BDI,all,total,2010,0.34,0.33,0.35
+Belgium,BEL,all,total,2010,0.01,0.01,0.01
+Benin,BEN,all,total,2010,0.27,0.25,0.29
+Burkina Faso,BFA,all,total,2010,0.54,0.52,0.55
+Bangladesh,BGD,all,total,2010,0.31,0.3,0.32
+Bulgaria,BGR,all,total,2010,0.07,0.07,0.07
+Bahrain,BHR,all,total,2010,0.11,0.1,0.12
+Bahamas,BHS,all,total,2010,0.14,0.13,0.15
+Bosnia and Herz.,BIH,all,total,2010,0.07,0.06,0.09
+Belarus,BLR,all,total,2010,0.01,0.0,0.01
+Belize,BLZ,all,total,2010,0.13,0.12,0.14
+Bolivia,BOL,all,total,2010,0.1,0.09,0.11
+Brazil,BRA,all,total,2010,0.05,0.04,0.06
+Barbados,BRB,all,total,2010,0.04,0.03,0.05
+Brunei Daruss.,BRN,all,total,2010,0.04,0.04,0.05
+Bhutan,BTN,all,total,2010,0.2,0.19,0.21
+Botswana,BWA,all,total,2010,0.11,0.09,0.12
+Central African Rep.,CAF,all,total,2010,0.53,0.51,0.55
+Canada,CAN,all,total,2010,0.04,0.02,0.05
+Switzerland,CHE,all,total,2010,0.07,0.06,0.07
+Chile,CHL,all,total,2010,0.06,0.05,0.07
+China,CHN,all,total,2010,0.09,0.02,0.16
+Côte d'Ivoire,CIV,all,total,2010,0.56,0.54,0.59
+Cameroon,CMR,all,total,2010,0.28,0.26,0.3
+Dem. Rep. Congo,COD,all,total,2010,0.24,0.12,0.37
+Congo,COG,all,total,2010,0.36,0.34,0.39
+Colombia,COL,all,total,2010,0.08,0.07,0.09
+Comoros,COM,all,total,2010,0.29,0.24,0.33
+Cabo Verde,CPV,all,total,2010,0.11,0.1,0.13
+Costa Rica,CRI,all,total,2010,0.07,0.06,0.08
+Cuba,CUB,all,total,2010,0.04,0.04,0.05
+Cyprus,CYP,all,total,2010,0.04,0.03,0.05
+Czechia,CZE,all,total,2010,0.02,0.01,0.02
+Germany,DEU,all,total,2010,0.02,0.02,0.03
+Djibouti,DJI,all,total,2010,0.58,0.56,0.6
+Denmark,DNK,all,total,2010,0.04,0.03,0.04
+Dominican Rep.,DOM,all,total,2010,0.14,0.13,0.14
+Algeria,DZA,all,total,2010,0.09,0.08,0.1
+Ecuador,ECU,all,total,2010,0.11,0.11,0.12
+Egypt,EGY,all,total,2010,0.22,0.21,0.23
+Eritrea,ERI,all,total,2010,0.38,0.37,0.4
+Spain,ESP,all,total,2010,0.02,0.02,0.03
+Estonia,EST,all,total,2010,0.02,0.02,0.03
+Ethiopia,ETH,all,total,2010,0.4,0.38,0.41
+Finland,FIN,all,total,2010,0.03,0.02,0.03
+Fiji,FJI,all,total,2010,0.08,0.07,0.09
+France,FRA,all,total,2010,0.03,0.03,0.03
+"Micronesia, F. S.",FSM,all,total,2010,0.24,0.16,0.32
+United Kingdom,GBR,all,total,2010,0.03,0.02,0.03
+Georgia,GEO,all,total,2010,0.06,0.05,0.07
+Ghana,GHA,all,total,2010,0.26,0.24,0.27
+Guinea,GIN,all,total,2010,0.46,0.44,0.47
+Gambia,GMB,all,total,2010,0.42,0.4,0.44
+Guinea-Bissau,GNB,all,total,2010,0.36,0.32,0.41
+Equat. Guinea,GNQ,all,total,2010,0.54,0.51,0.56
+Greece,GRC,all,total,2010,0.03,0.03,0.04
+Grenada,GRD,all,total,2010,0.04,0.03,0.05
+Guatemala,GTM,all,total,2010,0.22,0.22,0.23
+Guyana,GUY,all,total,2010,0.13,0.12,0.14
+"Hong Kong, China",HKG,all,total,2010,0.08,0.07,0.09
+Honduras,HND,all,total,2010,0.21,0.2,0.22
+Croatia,HRV,all,total,2010,0.04,0.03,0.04
+Haiti,HTI,all,total,2010,0.14,0.13,0.16
+Hungary,HUN,all,total,2010,0.03,0.03,0.03
+Indonesia,IDN,all,total,2010,0.15,0.14,0.16
+India,IND,all,total,2010,0.25,0.23,0.28
+Ireland,IRL,all,total,2010,0.0,0.0,0.01
+Iran,IRN,all,total,2010,0.1,0.09,0.12
+Iraq,IRQ,all,total,2010,0.31,0.3,0.32
+Iceland,ISL,all,total,2010,0.06,0.06,0.07
+Israel,ISR,all,total,2010,0.0,0.0,0.0
+Italy,ITA,all,total,2010,0.03,0.03,0.04
+Jamaica,JAM,all,total,2010,0.12,0.11,0.13
+Jordan,JOR,all,total,2010,0.23,0.22,0.24
+Japan,JPN,all,total,2010,0.01,0.0,0.01
+Kazakhstan,KAZ,all,total,2010,0.01,0.0,0.02
+Kenya,KEN,all,total,2010,0.17,0.15,0.19
+Kyrgyzstan,KGZ,all,total,2010,0.1,0.09,0.11
+Cambodia,KHM,all,total,2010,0.23,0.22,0.24
+Kiribati,KIR,all,total,2010,0.14,0.1,0.19
+South Korea,KOR,all,total,2010,0.03,0.02,0.04
+Kuwait,KWT,all,total,2010,0.09,0.08,0.1
+Laos,LAO,all,total,2010,0.24,0.23,0.25
+Lebanon,LBN,all,total,2010,0.34,0.33,0.35
+Liberia,LBR,all,total,2010,0.24,0.21,0.26
+Saint Lucia,LCA,all,total,2010,0.07,0.06,0.08
+Liechtenstein,LIE,all,total,2010,0.05,0.04,0.05
+Sri Lanka,LKA,all,total,2010,0.11,0.1,0.12
+Lesotho,LSO,all,total,2010,0.15,0.13,0.16
+Lithuania,LTU,all,total,2010,0.0,0.0,0.01
+Luxembourg,LUX,all,total,2010,0.08,0.07,0.08
+Latvia,LVA,all,total,2010,0.03,0.03,0.03
+"Macao, China",MAC,all,total,2010,0.13,0.11,0.14
+Morocco,MAR,all,total,2010,0.22,0.21,0.23
+Rep. Moldova,MDA,all,total,2010,0.16,0.15,0.16
+Madagascar,MDG,all,total,2010,0.25,0.24,0.26
+Maldives,MDV,all,total,2010,0.15,0.14,0.16
+Mexico,MEX,all,total,2010,0.13,0.12,0.13
+Macedonia,MKD,all,total,2010,0.11,0.1,0.13
+Mali,MLI,all,total,2010,0.49,0.47,0.5
+Malta,MLT,all,total,2010,0.07,0.06,0.07
+Myanmar,MMR,all,total,2010,0.32,0.3,0.33
+Montenegro,MNE,all,total,2010,0.01,0.0,0.03
+Mongolia,MNG,all,total,2010,0.04,0.03,0.05
+Mozambique,MOZ,all,total,2010,0.3,0.28,0.31
+Mauritania,MRT,all,total,2010,0.43,0.42,0.45
+Mauritius,MUS,all,total,2010,0.08,0.07,0.09
+Malawi,MWI,all,total,2010,0.23,0.21,0.24
+Malaysia,MYS,all,total,2010,0.14,0.13,0.15
+Namibia,NAM,all,total,2010,0.11,0.09,0.12
+Niger,NER,all,total,2010,0.66,0.64,0.68
+Nigeria,NGA,all,total,2010,0.27,0.17,0.38
+Nicaragua,NIC,all,total,2010,0.07,0.06,0.09
+Netherlands,NLD,all,total,2010,0.01,0.01,0.01
+Norway,NOR,all,total,2010,0.02,0.02,0.03
+Nepal,NPL,all,total,2010,0.31,0.29,0.33
+New Zealand,NZL,all,total,2010,0.02,0.01,0.03
+Oman,OMN,all,total,2010,0.07,0.06,0.08
+Pakistan,PAK,all,total,2010,0.46,0.45,0.48
+Panama,PAN,all,total,2010,0.13,0.12,0.14
+Peru,PER,all,total,2010,0.06,0.05,0.07
+Philippines,PHL,all,total,2010,0.09,0.08,0.1
+Papua New Guinea,PNG,all,total,2010,0.37,0.32,0.43
+Poland,POL,all,total,2010,0.04,0.04,0.04
+Portugal,PRT,all,total,2010,0.02,0.02,0.03
+Paraguay,PRY,all,total,2010,0.17,0.16,0.18
+Palestine,PSE,all,total,2010,0.14,0.13,0.15
+Qatar,QAT,all,total,2010,0.1,0.1,0.11
+Romania,ROU,all,total,2010,0.13,0.12,0.13
+Rwanda,RWA,all,total,2010,0.22,0.2,0.24
+Saudi Arabia,SAU,all,total,2010,0.08,0.07,0.09
+Sudan,SDN,all,total,2010,0.49,0.47,0.51
+Senegal,SEN,all,total,2010,0.44,0.43,0.45
+Singapore,SGP,all,total,2010,0.01,0.0,0.01
+Solomon Is.,SLB,all,total,2010,0.17,0.14,0.19
+Sierra Leone,SLE,all,total,2010,0.37,0.35,0.39
+El Salvador,SLV,all,total,2010,0.12,0.11,0.13
+S. Sudan,SSD,all,total,2010,0.6,0.56,0.65
+S. Tome/Principe,STP,all,total,2010,0.18,0.15,0.2
+Suriname,SUR,all,total,2010,0.23,0.22,0.24
+Slovakia,SVK,all,total,2010,0.05,0.05,0.06
+Slovenia,SVN,all,total,2010,0.03,0.03,0.04
+Sweden,SWE,all,total,2010,0.01,0.01,0.02
+eSwatini,SWZ,all,total,2010,0.11,0.1,0.13
+Seychelles,SYC,all,total,2010,0.14,0.12,0.15
+Syria,SYR,all,total,2010,0.2,0.19,0.2
+Chad,TCD,all,total,2010,0.5,0.48,0.52
+Togo,TGO,all,total,2010,0.28,0.26,0.29
+Thailand,THA,all,total,2010,0.11,0.1,0.12
+Tajikistan,TJK,all,total,2010,0.11,0.1,0.12
+Timor-Leste,TLS,all,total,2010,0.23,0.22,0.24
+Tonga,TON,all,total,2010,0.1,0.08,0.12
+Trinidad/Tobago,TTO,all,total,2010,0.05,0.05,0.06
+Tunisia,TUN,all,total,2010,0.12,0.12,0.13
+Turkey,TUR,all,total,2010,0.12,0.11,0.13
+Tanzania,TZA,all,total,2010,0.3,0.28,0.31
+Uganda,UGA,all,total,2010,0.18,0.17,0.2
+Ukraine,UKR,all,total,2010,0.02,0.02,0.03
+Uruguay,URY,all,total,2010,0.08,0.08,0.09
+United States of America,USA,all,total,2010,0.05,0.05,0.06
+Uzbekistan,UZB,all,total,2010,0.08,0.07,0.1
+St Vincent/Grenad.,VCT,all,total,2010,0.03,0.03,0.04
+Venezuela,VEN,all,total,2010,0.09,0.08,0.1
+Vietnam,VNM,all,total,2010,0.16,0.15,0.17
+Vanuatu,VUT,all,total,2010,0.17,0.16,0.19
+Samoa,WSM,all,total,2010,0.07,0.06,0.08
+Yemen,YEM,all,total,2010,0.34,0.33,0.35
+South Africa,ZAF,all,total,2010,0.12,0.11,0.14
+Zambia,ZMB,all,total,2010,0.2,0.18,0.21
+Zimbabwe,ZWE,all,total,2010,0.23,0.21,0.25
+Aruba,ABW,all,total,2011,0.02,0.01,0.04
+Afghanistan,AFG,all,total,2011,0.27,0.25,0.3
+Angola,AGO,all,total,2011,0.31,0.29,0.33
+Albania,ALB,all,total,2011,0.09,0.08,0.09
+Andorra,AND,all,total,2011,0.17,0.16,0.17
+United Arab Emirates,ARE,all,total,2011,0.21,0.2,0.22
+Argentina,ARG,all,total,2011,0.04,0.04,0.05
+Armenia,ARM,all,total,2011,0.14,0.13,0.16
+Antigua/Barbuda,ATG,all,total,2011,0.06,0.05,0.07
+Australia,AUS,all,total,2011,0.02,0.01,0.03
+Austria,AUT,all,total,2011,0.03,0.03,0.04
+Azerbaijan,AZE,all,total,2011,0.07,0.07,0.08
+Burundi,BDI,all,total,2011,0.32,0.3,0.33
+Belgium,BEL,all,total,2011,0.01,0.01,0.01
+Benin,BEN,all,total,2011,0.27,0.25,0.29
+Burkina Faso,BFA,all,total,2011,0.52,0.5,0.53
+Bangladesh,BGD,all,total,2011,0.3,0.29,0.32
+Bulgaria,BGR,all,total,2011,0.07,0.06,0.07
+Bahrain,BHR,all,total,2011,0.1,0.09,0.11
+Bahamas,BHS,all,total,2011,0.16,0.15,0.17
+Bosnia and Herz.,BIH,all,total,2011,0.08,0.06,0.09
+Belarus,BLR,all,total,2011,0.01,0.0,0.01
+Belize,BLZ,all,total,2011,0.13,0.12,0.14
+Bolivia,BOL,all,total,2011,0.11,0.1,0.12
+Brazil,BRA,all,total,2011,0.05,0.04,0.06
+Barbados,BRB,all,total,2011,0.03,0.03,0.04
+Brunei Daruss.,BRN,all,total,2011,0.04,0.03,0.05
+Bhutan,BTN,all,total,2011,0.18,0.17,0.19
+Botswana,BWA,all,total,2011,0.1,0.08,0.12
+Central African Rep.,CAF,all,total,2011,0.51,0.49,0.53
+Canada,CAN,all,total,2011,0.04,0.03,0.05
+Switzerland,CHE,all,total,2011,0.07,0.06,0.07
+Chile,CHL,all,total,2011,0.05,0.04,0.06
+China,CHN,all,total,2011,0.09,0.01,0.16
+Côte d'Ivoire,CIV,all,total,2011,0.55,0.53,0.58
+Cameroon,CMR,all,total,2011,0.28,0.25,0.3
+Dem. Rep. Congo,COD,all,total,2011,0.23,0.11,0.36
+Congo,COG,all,total,2011,0.35,0.32,0.37
+Colombia,COL,all,total,2011,0.08,0.07,0.09
+Comoros,COM,all,total,2011,0.29,0.25,0.32
+Cabo Verde,CPV,all,total,2011,0.11,0.09,0.12
+Costa Rica,CRI,all,total,2011,0.07,0.06,0.07
+Cuba,CUB,all,total,2011,0.05,0.04,0.06
+Cyprus,CYP,all,total,2011,0.04,0.03,0.05
+Czechia,CZE,all,total,2011,0.02,0.01,0.02
+Germany,DEU,all,total,2011,0.02,0.02,0.03
+Djibouti,DJI,all,total,2011,0.56,0.54,0.58
+Denmark,DNK,all,total,2011,0.03,0.03,0.04
+Dominican Rep.,DOM,all,total,2011,0.13,0.12,0.14
+Algeria,DZA,all,total,2011,0.08,0.07,0.09
+Ecuador,ECU,all,total,2011,0.1,0.1,0.11
+Egypt,EGY,all,total,2011,0.19,0.18,0.2
+Eritrea,ERI,all,total,2011,0.39,0.37,0.41
+Spain,ESP,all,total,2011,0.02,0.02,0.02
+Estonia,EST,all,total,2011,0.02,0.02,0.03
+Ethiopia,ETH,all,total,2011,0.39,0.37,0.4
+Finland,FIN,all,total,2011,0.03,0.02,0.03
+Fiji,FJI,all,total,2011,0.07,0.06,0.08
+France,FRA,all,total,2011,0.03,0.03,0.03
+"Micronesia, F. S.",FSM,all,total,2011,0.23,0.17,0.3
+United Kingdom,GBR,all,total,2011,0.02,0.02,0.03
+Georgia,GEO,all,total,2011,0.05,0.05,0.06
+Ghana,GHA,all,total,2011,0.25,0.24,0.27
+Guinea,GIN,all,total,2011,0.45,0.44,0.46
+Gambia,GMB,all,total,2011,0.41,0.39,0.43
+Guinea-Bissau,GNB,all,total,2011,0.36,0.32,0.41
+Equat. Guinea,GNQ,all,total,2011,0.56,0.53,0.58
+Greece,GRC,all,total,2011,0.03,0.02,0.03
+Grenada,GRD,all,total,2011,0.03,0.02,0.05
+Guatemala,GTM,all,total,2011,0.23,0.22,0.24
+Guyana,GUY,all,total,2011,0.12,0.11,0.14
+"Hong Kong, China",HKG,all,total,2011,0.07,0.06,0.08
+Honduras,HND,all,total,2011,0.23,0.22,0.24
+Croatia,HRV,all,total,2011,0.04,0.03,0.04
+Haiti,HTI,all,total,2011,0.14,0.13,0.16
+Hungary,HUN,all,total,2011,0.03,0.03,0.03
+Indonesia,IDN,all,total,2011,0.14,0.13,0.15
+India,IND,all,total,2011,0.24,0.22,0.26
+Ireland,IRL,all,total,2011,0.0,0.0,0.0
+Iran,IRN,all,total,2011,0.09,0.08,0.11
+Iraq,IRQ,all,total,2011,0.3,0.29,0.31
+Iceland,ISL,all,total,2011,0.06,0.05,0.06
+Israel,ISR,all,total,2011,0.0,0.0,0.0
+Italy,ITA,all,total,2011,0.03,0.03,0.04
+Jamaica,JAM,all,total,2011,0.13,0.12,0.14
+Jordan,JOR,all,total,2011,0.25,0.24,0.26
+Japan,JPN,all,total,2011,0.0,0.0,0.01
+Kazakhstan,KAZ,all,total,2011,0.01,0.0,0.02
+Kenya,KEN,all,total,2011,0.16,0.14,0.19
+Kyrgyzstan,KGZ,all,total,2011,0.1,0.08,0.11
+Cambodia,KHM,all,total,2011,0.23,0.22,0.24
+Kiribati,KIR,all,total,2011,0.15,0.11,0.19
+South Korea,KOR,all,total,2011,0.03,0.02,0.04
+Kuwait,KWT,all,total,2011,0.09,0.08,0.1
+Laos,LAO,all,total,2011,0.26,0.25,0.27
+Lebanon,LBN,all,total,2011,0.36,0.35,0.36
+Liberia,LBR,all,total,2011,0.24,0.21,0.26
+Saint Lucia,LCA,all,total,2011,0.07,0.06,0.08
+Liechtenstein,LIE,all,total,2011,0.05,0.04,0.05
+Sri Lanka,LKA,all,total,2011,0.1,0.09,0.12
+Lesotho,LSO,all,total,2011,0.14,0.12,0.15
+Lithuania,LTU,all,total,2011,0.01,0.0,0.01
+Luxembourg,LUX,all,total,2011,0.08,0.07,0.08
+Latvia,LVA,all,total,2011,0.03,0.02,0.03
+"Macao, China",MAC,all,total,2011,0.12,0.11,0.13
+Morocco,MAR,all,total,2011,0.2,0.19,0.21
+Rep. Moldova,MDA,all,total,2011,0.16,0.16,0.17
+Madagascar,MDG,all,total,2011,0.24,0.23,0.26
+Maldives,MDV,all,total,2011,0.16,0.14,0.17
+Mexico,MEX,all,total,2011,0.12,0.12,0.13
+Macedonia,MKD,all,total,2011,0.11,0.1,0.12
+Mali,MLI,all,total,2011,0.48,0.47,0.5
+Malta,MLT,all,total,2011,0.05,0.05,0.06
+Myanmar,MMR,all,total,2011,0.31,0.3,0.33
+Montenegro,MNE,all,total,2011,0.01,0.0,0.02
+Mongolia,MNG,all,total,2011,0.06,0.05,0.07
+Mozambique,MOZ,all,total,2011,0.29,0.27,0.31
+Mauritania,MRT,all,total,2011,0.43,0.41,0.44
+Mauritius,MUS,all,total,2011,0.08,0.07,0.09
+Malawi,MWI,all,total,2011,0.22,0.21,0.24
+Malaysia,MYS,all,total,2011,0.14,0.13,0.15
+Namibia,NAM,all,total,2011,0.1,0.09,0.12
+Niger,NER,all,total,2011,0.64,0.63,0.66
+Nigeria,NGA,all,total,2011,0.27,0.17,0.38
+Nicaragua,NIC,all,total,2011,0.06,0.04,0.08
+Netherlands,NLD,all,total,2011,0.01,0.0,0.01
+Norway,NOR,all,total,2011,0.02,0.02,0.03
+Nepal,NPL,all,total,2011,0.3,0.28,0.32
+New Zealand,NZL,all,total,2011,0.02,0.01,0.03
+Oman,OMN,all,total,2011,0.06,0.05,0.07
+Pakistan,PAK,all,total,2011,0.46,0.44,0.47
+Panama,PAN,all,total,2011,0.13,0.12,0.14
+Peru,PER,all,total,2011,0.06,0.05,0.07
+Philippines,PHL,all,total,2011,0.09,0.08,0.1
+Papua New Guinea,PNG,all,total,2011,0.35,0.3,0.4
+Poland,POL,all,total,2011,0.04,0.04,0.04
+Portugal,PRT,all,total,2011,0.02,0.01,0.02
+Paraguay,PRY,all,total,2011,0.17,0.16,0.18
+Palestine,PSE,all,total,2011,0.13,0.13,0.14
+Qatar,QAT,all,total,2011,0.13,0.12,0.14
+Romania,ROU,all,total,2011,0.11,0.11,0.12
+Rwanda,RWA,all,total,2011,0.21,0.19,0.24
+Saudi Arabia,SAU,all,total,2011,0.06,0.05,0.07
+Sudan,SDN,all,total,2011,0.47,0.46,0.49
+Senegal,SEN,all,total,2011,0.43,0.41,0.44
+Singapore,SGP,all,total,2011,0.01,0.0,0.02
+Solomon Is.,SLB,all,total,2011,0.16,0.14,0.17
+Sierra Leone,SLE,all,total,2011,0.36,0.34,0.38
+El Salvador,SLV,all,total,2011,0.12,0.11,0.13
+Serbia,SRB,all,total,2011,0.06,0.05,0.06
+S. Sudan,SSD,all,total,2011,0.6,0.56,0.65
+S. Tome/Principe,STP,all,total,2011,0.19,0.17,0.21
+Suriname,SUR,all,total,2011,0.22,0.21,0.23
+Slovakia,SVK,all,total,2011,0.05,0.05,0.06
+Slovenia,SVN,all,total,2011,0.03,0.03,0.04
+Sweden,SWE,all,total,2011,0.01,0.01,0.02
+eSwatini,SWZ,all,total,2011,0.11,0.09,0.12
+Seychelles,SYC,all,total,2011,0.13,0.12,0.14
+Syria,SYR,all,total,2011,0.2,0.19,0.2
+Chad,TCD,all,total,2011,0.5,0.48,0.52
+Togo,TGO,all,total,2011,0.28,0.26,0.29
+Thailand,THA,all,total,2011,0.11,0.1,0.11
+Tajikistan,TJK,all,total,2011,0.1,0.09,0.11
+Timor-Leste,TLS,all,total,2011,0.21,0.2,0.22
+Tonga,TON,all,total,2011,0.09,0.07,0.11
+Trinidad/Tobago,TTO,all,total,2011,0.06,0.05,0.07
+Tunisia,TUN,all,total,2011,0.12,0.11,0.13
+Turkey,TUR,all,total,2011,0.1,0.09,0.11
+Tanzania,TZA,all,total,2011,0.3,0.28,0.32
+Uganda,UGA,all,total,2011,0.19,0.17,0.2
+Ukraine,UKR,all,total,2011,0.02,0.02,0.03
+Uruguay,URY,all,total,2011,0.08,0.07,0.09
+United States of America,USA,all,total,2011,0.05,0.05,0.05
+Uzbekistan,UZB,all,total,2011,0.07,0.06,0.09
+St Vincent/Grenad.,VCT,all,total,2011,0.04,0.03,0.04
+Venezuela,VEN,all,total,2011,0.09,0.08,0.1
+Vietnam,VNM,all,total,2011,0.15,0.14,0.16
+Vanuatu,VUT,all,total,2011,0.16,0.15,0.18
+Samoa,WSM,all,total,2011,0.06,0.05,0.07
+Yemen,YEM,all,total,2011,0.33,0.32,0.34
+South Africa,ZAF,all,total,2011,0.12,0.11,0.14
+Zambia,ZMB,all,total,2011,0.2,0.18,0.21
+Zimbabwe,ZWE,all,total,2011,0.22,0.2,0.24
+Aruba,ABW,all,total,2012,0.02,0.0,0.03
+Afghanistan,AFG,all,total,2012,0.27,0.25,0.29
+Angola,AGO,all,total,2012,0.29,0.27,0.32
+Albania,ALB,all,total,2012,0.07,0.07,0.08
+Andorra,AND,all,total,2012,0.17,0.16,0.17
+United Arab Emirates,ARE,all,total,2012,0.19,0.18,0.2
+Argentina,ARG,all,total,2012,0.04,0.04,0.05
+Armenia,ARM,all,total,2012,0.16,0.15,0.18
+Antigua/Barbuda,ATG,all,total,2012,0.06,0.05,0.07
+Australia,AUS,all,total,2012,0.02,0.01,0.03
+Austria,AUT,all,total,2012,0.03,0.03,0.04
+Azerbaijan,AZE,all,total,2012,0.07,0.06,0.08
+Burundi,BDI,all,total,2012,0.29,0.28,0.31
+Belgium,BEL,all,total,2012,0.01,0.01,0.02
+Benin,BEN,all,total,2012,0.27,0.26,0.29
+Burkina Faso,BFA,all,total,2012,0.5,0.48,0.51
+Bangladesh,BGD,all,total,2012,0.3,0.29,0.32
+Bulgaria,BGR,all,total,2012,0.07,0.06,0.07
+Bahrain,BHR,all,total,2012,0.1,0.09,0.11
+Bahamas,BHS,all,total,2012,0.18,0.17,0.19
+Bosnia and Herz.,BIH,all,total,2012,0.08,0.07,0.09
+Belarus,BLR,all,total,2012,0.01,0.0,0.01
+Belize,BLZ,all,total,2012,0.13,0.12,0.13
+Bolivia,BOL,all,total,2012,0.11,0.11,0.12
+Brazil,BRA,all,total,2012,0.06,0.05,0.07
+Barbados,BRB,all,total,2012,0.03,0.02,0.04
+Brunei Daruss.,BRN,all,total,2012,0.04,0.04,0.05
+Bhutan,BTN,all,total,2012,0.17,0.15,0.18
+Botswana,BWA,all,total,2012,0.1,0.09,0.12
+Central African Rep.,CAF,all,total,2012,0.49,0.47,0.52
+Canada,CAN,all,total,2012,0.04,0.03,0.04
+Switzerland,CHE,all,total,2012,0.07,0.06,0.07
+Chile,CHL,all,total,2012,0.05,0.04,0.06
+China,CHN,all,total,2012,0.08,0.01,0.15
+Côte d'Ivoire,CIV,all,total,2012,0.54,0.51,0.56
+Cameroon,CMR,all,total,2012,0.27,0.25,0.29
+Dem. Rep. Congo,COD,all,total,2012,0.23,0.11,0.35
+Congo,COG,all,total,2012,0.33,0.3,0.36
+Colombia,COL,all,total,2012,0.08,0.07,0.08
+Comoros,COM,all,total,2012,0.29,0.26,0.31
+Cabo Verde,CPV,all,total,2012,0.11,0.09,0.12
+Costa Rica,CRI,all,total,2012,0.06,0.05,0.07
+Cuba,CUB,all,total,2012,0.06,0.06,0.07
+Cyprus,CYP,all,total,2012,0.04,0.03,0.04
+Czechia,CZE,all,total,2012,0.02,0.02,0.02
+Germany,DEU,all,total,2012,0.03,0.02,0.03
+Djibouti,DJI,all,total,2012,0.55,0.53,0.56
+Denmark,DNK,all,total,2012,0.03,0.03,0.03
+Dominican Rep.,DOM,all,total,2012,0.13,0.12,0.14
+Algeria,DZA,all,total,2012,0.08,0.07,0.08
+Ecuador,ECU,all,total,2012,0.09,0.09,0.1
+Egypt,EGY,all,total,2012,0.17,0.16,0.18
+Eritrea,ERI,all,total,2012,0.4,0.38,0.42
+Spain,ESP,all,total,2012,0.02,0.02,0.02
+Estonia,EST,all,total,2012,0.02,0.02,0.03
+Ethiopia,ETH,all,total,2012,0.37,0.36,0.39
+Finland,FIN,all,total,2012,0.02,0.02,0.03
+Fiji,FJI,all,total,2012,0.07,0.06,0.08
+France,FRA,all,total,2012,0.03,0.02,0.03
+"Micronesia, F. S.",FSM,all,total,2012,0.23,0.18,0.28
+United Kingdom,GBR,all,total,2012,0.02,0.02,0.02
+Georgia,GEO,all,total,2012,0.05,0.04,0.06
+Ghana,GHA,all,total,2012,0.25,0.24,0.27
+Guinea,GIN,all,total,2012,0.44,0.43,0.46
+Gambia,GMB,all,total,2012,0.4,0.38,0.41
+Guinea-Bissau,GNB,all,total,2012,0.35,0.3,0.4
+Equat. Guinea,GNQ,all,total,2012,0.57,0.55,0.6
+Greece,GRC,all,total,2012,0.03,0.02,0.03
+Grenada,GRD,all,total,2012,0.03,0.02,0.04
+Guatemala,GTM,all,total,2012,0.24,0.23,0.25
+Guyana,GUY,all,total,2012,0.13,0.12,0.14
+"Hong Kong, China",HKG,all,total,2012,0.03,0.02,0.04
+Honduras,HND,all,total,2012,0.25,0.24,0.26
+Croatia,HRV,all,total,2012,0.04,0.03,0.04
+Haiti,HTI,all,total,2012,0.14,0.12,0.15
+Hungary,HUN,all,total,2012,0.03,0.03,0.04
+Indonesia,IDN,all,total,2012,0.13,0.12,0.14
+India,IND,all,total,2012,0.23,0.21,0.25
+Ireland,IRL,all,total,2012,0.0,0.0,0.0
+Iran,IRN,all,total,2012,0.09,0.08,0.1
+Iraq,IRQ,all,total,2012,0.3,0.29,0.31
+Iceland,ISL,all,total,2012,0.06,0.05,0.06
+Israel,ISR,all,total,2012,0.0,0.0,0.0
+Italy,ITA,all,total,2012,0.03,0.03,0.04
+Jamaica,JAM,all,total,2012,0.13,0.12,0.15
+Jordan,JOR,all,total,2012,0.27,0.26,0.28
+Japan,JPN,all,total,2012,0.0,0.0,0.01
+Kazakhstan,KAZ,all,total,2012,0.01,0.0,0.02
+Kenya,KEN,all,total,2012,0.16,0.13,0.19
+Kyrgyzstan,KGZ,all,total,2012,0.09,0.08,0.11
+Cambodia,KHM,all,total,2012,0.23,0.22,0.24
+Kiribati,KIR,all,total,2012,0.16,0.13,0.19
+South Korea,KOR,all,total,2012,0.03,0.02,0.03
+Kuwait,KWT,all,total,2012,0.09,0.08,0.1
+Laos,LAO,all,total,2012,0.24,0.23,0.25
+Lebanon,LBN,all,total,2012,0.37,0.36,0.38
+Liberia,LBR,all,total,2012,0.24,0.21,0.26
+Saint Lucia,LCA,all,total,2012,0.07,0.06,0.08
+Liechtenstein,LIE,all,total,2012,0.05,0.04,0.05
+Sri Lanka,LKA,all,total,2012,0.1,0.09,0.11
+Lesotho,LSO,all,total,2012,0.13,0.12,0.15
+Lithuania,LTU,all,total,2012,0.01,0.0,0.01
+Luxembourg,LUX,all,total,2012,0.08,0.07,0.08
+Latvia,LVA,all,total,2012,0.02,0.02,0.03
+"Macao, China",MAC,all,total,2012,0.12,0.11,0.13
+Morocco,MAR,all,total,2012,0.19,0.18,0.2
+Rep. Moldova,MDA,all,total,2012,0.17,0.17,0.18
+Madagascar,MDG,all,total,2012,0.23,0.22,0.25
+Maldives,MDV,all,total,2012,0.16,0.15,0.17
+Mexico,MEX,all,total,2012,0.12,0.11,0.13
+Macedonia,MKD,all,total,2012,0.11,0.1,0.12
+Mali,MLI,all,total,2012,0.49,0.47,0.5
+Malta,MLT,all,total,2012,0.05,0.05,0.05
+Myanmar,MMR,all,total,2012,0.3,0.29,0.32
+Montenegro,MNE,all,total,2012,0.01,0.0,0.02
+Mongolia,MNG,all,total,2012,0.05,0.04,0.06
+Mozambique,MOZ,all,total,2012,0.28,0.27,0.3
+Mauritania,MRT,all,total,2012,0.42,0.41,0.44
+Mauritius,MUS,all,total,2012,0.07,0.06,0.08
+Malawi,MWI,all,total,2012,0.22,0.2,0.23
+Malaysia,MYS,all,total,2012,0.14,0.13,0.15
+Namibia,NAM,all,total,2012,0.1,0.08,0.12
+Niger,NER,all,total,2012,0.63,0.61,0.65
+Nigeria,NGA,all,total,2012,0.28,0.17,0.39
+Nicaragua,NIC,all,total,2012,0.05,0.03,0.08
+Netherlands,NLD,all,total,2012,0.01,0.0,0.01
+Norway,NOR,all,total,2012,0.02,0.02,0.03
+Nepal,NPL,all,total,2012,0.3,0.28,0.31
+New Zealand,NZL,all,total,2012,0.02,0.01,0.03
+Oman,OMN,all,total,2012,0.06,0.05,0.06
+Pakistan,PAK,all,total,2012,0.45,0.44,0.46
+Panama,PAN,all,total,2012,0.13,0.12,0.14
+Peru,PER,all,total,2012,0.06,0.05,0.07
+Philippines,PHL,all,total,2012,0.09,0.08,0.1
+Papua New Guinea,PNG,all,total,2012,0.32,0.28,0.37
+Poland,POL,all,total,2012,0.04,0.03,0.04
+Portugal,PRT,all,total,2012,0.02,0.01,0.02
+Paraguay,PRY,all,total,2012,0.17,0.16,0.18
+Palestine,PSE,all,total,2012,0.13,0.12,0.14
+Qatar,QAT,all,total,2012,0.15,0.14,0.16
+Romania,ROU,all,total,2012,0.11,0.1,0.11
+Rwanda,RWA,all,total,2012,0.21,0.19,0.23
+Saudi Arabia,SAU,all,total,2012,0.05,0.03,0.06
+Sudan,SDN,all,total,2012,0.46,0.44,0.48
+Senegal,SEN,all,total,2012,0.41,0.4,0.43
+Singapore,SGP,all,total,2012,0.01,0.0,0.02
+Solomon Is.,SLB,all,total,2012,0.14,0.13,0.16
+Sierra Leone,SLE,all,total,2012,0.35,0.34,0.37
+El Salvador,SLV,all,total,2012,0.12,0.11,0.13
+Serbia,SRB,all,total,2012,0.05,0.05,0.06
+S. Sudan,SSD,all,total,2012,0.61,0.57,0.64
+S. Tome/Principe,STP,all,total,2012,0.18,0.16,0.2
+Suriname,SUR,all,total,2012,0.22,0.21,0.23
+Slovakia,SVK,all,total,2012,0.06,0.05,0.06
+Slovenia,SVN,all,total,2012,0.03,0.02,0.03
+Sweden,SWE,all,total,2012,0.01,0.01,0.01
+eSwatini,SWZ,all,total,2012,0.1,0.08,0.12
+Seychelles,SYC,all,total,2012,0.12,0.11,0.13
+Syria,SYR,all,total,2012,0.2,0.19,0.2
+Chad,TCD,all,total,2012,0.49,0.47,0.51
+Togo,TGO,all,total,2012,0.28,0.26,0.3
+Thailand,THA,all,total,2012,0.1,0.09,0.1
+Tajikistan,TJK,all,total,2012,0.09,0.08,0.1
+Timor-Leste,TLS,all,total,2012,0.19,0.17,0.2
+Tonga,TON,all,total,2012,0.13,0.11,0.15
+Trinidad/Tobago,TTO,all,total,2012,0.06,0.05,0.07
+Tunisia,TUN,all,total,2012,0.12,0.11,0.12
+Turkey,TUR,all,total,2012,0.09,0.08,0.1
+Tanzania,TZA,all,total,2012,0.3,0.28,0.32
+Uganda,UGA,all,total,2012,0.19,0.17,0.21
+Ukraine,UKR,all,total,2012,0.02,0.02,0.03
+Uruguay,URY,all,total,2012,0.08,0.07,0.08
+United States of America,USA,all,total,2012,0.05,0.05,0.05
+Uzbekistan,UZB,all,total,2012,0.06,0.05,0.08
+St Vincent/Grenad.,VCT,all,total,2012,0.04,0.03,0.05
+Venezuela,VEN,all,total,2012,0.09,0.08,0.1
+Vietnam,VNM,all,total,2012,0.14,0.13,0.15
+Vanuatu,VUT,all,total,2012,0.16,0.14,0.18
+Samoa,WSM,all,total,2012,0.06,0.05,0.07
+Yemen,YEM,all,total,2012,0.32,0.31,0.33
+South Africa,ZAF,all,total,2012,0.12,0.11,0.13
+Zambia,ZMB,all,total,2012,0.2,0.18,0.22
+Zimbabwe,ZWE,all,total,2012,0.21,0.19,0.23
+Aruba,ABW,all,total,2013,0.01,0.0,0.03
+Afghanistan,AFG,all,total,2013,0.27,0.25,0.28
+Angola,AGO,all,total,2013,0.28,0.26,0.31
+Albania,ALB,all,total,2013,0.06,0.06,0.07
+Andorra,AND,all,total,2013,0.16,0.15,0.17
+United Arab Emirates,ARE,all,total,2013,0.17,0.16,0.18
+Argentina,ARG,all,total,2013,0.04,0.03,0.04
+Armenia,ARM,all,total,2013,0.16,0.15,0.18
+Antigua/Barbuda,ATG,all,total,2013,0.06,0.05,0.07
+Australia,AUS,all,total,2013,0.02,0.01,0.02
+Austria,AUT,all,total,2013,0.03,0.03,0.04
+Azerbaijan,AZE,all,total,2013,0.07,0.06,0.08
+Burundi,BDI,all,total,2013,0.28,0.26,0.29
+Belgium,BEL,all,total,2013,0.01,0.01,0.02
+Benin,BEN,all,total,2013,0.29,0.27,0.3
+Burkina Faso,BFA,all,total,2013,0.48,0.46,0.5
+Bangladesh,BGD,all,total,2013,0.3,0.28,0.31
+Bulgaria,BGR,all,total,2013,0.07,0.07,0.08
+Bahrain,BHR,all,total,2013,0.09,0.08,0.1
+Bahamas,BHS,all,total,2013,0.2,0.19,0.21
+Bosnia and Herz.,BIH,all,total,2013,0.09,0.08,0.1
+Belarus,BLR,all,total,2013,0.01,0.0,0.01
+Belize,BLZ,all,total,2013,0.12,0.12,0.13
+Bolivia,BOL,all,total,2013,0.12,0.11,0.13
+Brazil,BRA,all,total,2013,0.06,0.05,0.07
+Barbados,BRB,all,total,2013,0.03,0.02,0.03
+Brunei Daruss.,BRN,all,total,2013,0.05,0.05,0.06
+Bhutan,BTN,all,total,2013,0.15,0.14,0.16
+Botswana,BWA,all,total,2013,0.11,0.09,0.13
+Central African Rep.,CAF,all,total,2013,0.48,0.45,0.51
+Canada,CAN,all,total,2013,0.04,0.03,0.04
+Switzerland,CHE,all,total,2013,0.07,0.06,0.07
+Chile,CHL,all,total,2013,0.04,0.03,0.05
+China,CHN,all,total,2013,0.07,0.01,0.14
+Côte d'Ivoire,CIV,all,total,2013,0.51,0.49,0.53
+Cameroon,CMR,all,total,2013,0.27,0.26,0.29
+Dem. Rep. Congo,COD,all,total,2013,0.22,0.1,0.35
+Congo,COG,all,total,2013,0.32,0.29,0.35
+Colombia,COL,all,total,2013,0.07,0.06,0.08
+Comoros,COM,all,total,2013,0.28,0.26,0.31
+Cabo Verde,CPV,all,total,2013,0.1,0.09,0.12
+Costa Rica,CRI,all,total,2013,0.06,0.05,0.07
+Cuba,CUB,all,total,2013,0.07,0.07,0.08
+Cyprus,CYP,all,total,2013,0.03,0.02,0.04
+Czechia,CZE,all,total,2013,0.02,0.02,0.02
+Germany,DEU,all,total,2013,0.03,0.02,0.03
+Djibouti,DJI,all,total,2013,0.53,0.51,0.55
+Denmark,DNK,all,total,2013,0.03,0.02,0.03
+Dominican Rep.,DOM,all,total,2013,0.12,0.11,0.13
+Algeria,DZA,all,total,2013,0.08,0.07,0.08
+Ecuador,ECU,all,total,2013,0.09,0.08,0.09
+Egypt,EGY,all,total,2013,0.15,0.14,0.16
+Eritrea,ERI,all,total,2013,0.43,0.41,0.45
+Spain,ESP,all,total,2013,0.02,0.02,0.03
+Estonia,EST,all,total,2013,0.03,0.02,0.03
+Ethiopia,ETH,all,total,2013,0.37,0.35,0.38
+Finland,FIN,all,total,2013,0.02,0.02,0.03
+Fiji,FJI,all,total,2013,0.06,0.05,0.07
+France,FRA,all,total,2013,0.03,0.02,0.03
+"Micronesia, F. S.",FSM,all,total,2013,0.23,0.19,0.26
+United Kingdom,GBR,all,total,2013,0.02,0.01,0.02
+Georgia,GEO,all,total,2013,0.04,0.03,0.05
+Ghana,GHA,all,total,2013,0.22,0.21,0.24
+Guinea,GIN,all,total,2013,0.44,0.43,0.46
+Gambia,GMB,all,total,2013,0.38,0.36,0.4
+Guinea-Bissau,GNB,all,total,2013,0.34,0.29,0.4
+Equat. Guinea,GNQ,all,total,2013,0.58,0.55,0.61
+Greece,GRC,all,total,2013,0.03,0.02,0.03
+Grenada,GRD,all,total,2013,0.03,0.02,0.03
+Guatemala,GTM,all,total,2013,0.24,0.23,0.25
+Guyana,GUY,all,total,2013,0.14,0.12,0.15
+"Hong Kong, China",HKG,all,total,2013,0.02,0.01,0.03
+Honduras,HND,all,total,2013,0.26,0.25,0.27
+Croatia,HRV,all,total,2013,0.04,0.03,0.04
+Haiti,HTI,all,total,2013,0.13,0.12,0.15
+Hungary,HUN,all,total,2013,0.04,0.03,0.04
+Indonesia,IDN,all,total,2013,0.13,0.12,0.14
+India,IND,all,total,2013,0.22,0.21,0.23
+Ireland,IRL,all,total,2013,0.0,0.0,0.0
+Iran,IRN,all,total,2013,0.09,0.07,0.1
+Iraq,IRQ,all,total,2013,0.29,0.28,0.3
+Iceland,ISL,all,total,2013,0.05,0.05,0.06
+Israel,ISR,all,total,2013,0.0,0.0,0.0
+Italy,ITA,all,total,2013,0.03,0.03,0.04
+Jamaica,JAM,all,total,2013,0.14,0.13,0.15
+Jordan,JOR,all,total,2013,0.29,0.28,0.3
+Japan,JPN,all,total,2013,0.0,0.0,0.01
+Kazakhstan,KAZ,all,total,2013,0.01,0.0,0.01
+Kenya,KEN,all,total,2013,0.15,0.11,0.19
+Kyrgyzstan,KGZ,all,total,2013,0.09,0.08,0.11
+Cambodia,KHM,all,total,2013,0.24,0.23,0.25
+Kiribati,KIR,all,total,2013,0.16,0.14,0.18
+South Korea,KOR,all,total,2013,0.03,0.02,0.03
+Kuwait,KWT,all,total,2013,0.1,0.09,0.11
+Laos,LAO,all,total,2013,0.23,0.22,0.24
+Lebanon,LBN,all,total,2013,0.39,0.38,0.4
+Liberia,LBR,all,total,2013,0.24,0.21,0.26
+Saint Lucia,LCA,all,total,2013,0.07,0.06,0.08
+Liechtenstein,LIE,all,total,2013,0.05,0.04,0.05
+Sri Lanka,LKA,all,total,2013,0.1,0.09,0.11
+Lesotho,LSO,all,total,2013,0.13,0.11,0.14
+Lithuania,LTU,all,total,2013,0.01,0.0,0.01
+Luxembourg,LUX,all,total,2013,0.08,0.07,0.08
+Latvia,LVA,all,total,2013,0.02,0.01,0.02
+"Macao, China",MAC,all,total,2013,0.11,0.1,0.12
+Morocco,MAR,all,total,2013,0.17,0.16,0.18
+Rep. Moldova,MDA,all,total,2013,0.17,0.17,0.18
+Madagascar,MDG,all,total,2013,0.23,0.21,0.24
+Maldives,MDV,all,total,2013,0.15,0.14,0.17
+Mexico,MEX,all,total,2013,0.11,0.11,0.12
+Macedonia,MKD,all,total,2013,0.11,0.1,0.12
+Mali,MLI,all,total,2013,0.49,0.47,0.51
+Malta,MLT,all,total,2013,0.05,0.05,0.05
+Myanmar,MMR,all,total,2013,0.29,0.28,0.31
+Montenegro,MNE,all,total,2013,0.01,0.0,0.02
+Mongolia,MNG,all,total,2013,0.05,0.04,0.06
+Mozambique,MOZ,all,total,2013,0.28,0.26,0.29
+Mauritania,MRT,all,total,2013,0.42,0.4,0.44
+Mauritius,MUS,all,total,2013,0.07,0.06,0.08
+Malawi,MWI,all,total,2013,0.22,0.2,0.23
+Malaysia,MYS,all,total,2013,0.14,0.13,0.15
+Namibia,NAM,all,total,2013,0.09,0.07,0.11
+Niger,NER,all,total,2013,0.62,0.6,0.64
+Nigeria,NGA,all,total,2013,0.28,0.18,0.39
+Nicaragua,NIC,all,total,2013,0.05,0.02,0.07
+Netherlands,NLD,all,total,2013,0.01,0.0,0.01
+Norway,NOR,all,total,2013,0.02,0.02,0.03
+Nepal,NPL,all,total,2013,0.29,0.27,0.3
+New Zealand,NZL,all,total,2013,0.02,0.01,0.03
+Oman,OMN,all,total,2013,0.06,0.05,0.06
+Pakistan,PAK,all,total,2013,0.44,0.43,0.45
+Panama,PAN,all,total,2013,0.13,0.13,0.14
+Peru,PER,all,total,2013,0.06,0.05,0.07
+Philippines,PHL,all,total,2013,0.08,0.07,0.1
+Papua New Guinea,PNG,all,total,2013,0.3,0.26,0.34
+Poland,POL,all,total,2013,0.04,0.03,0.04
+Portugal,PRT,all,total,2013,0.01,0.01,0.02
+Paraguay,PRY,all,total,2013,0.18,0.16,0.19
+Palestine,PSE,all,total,2013,0.13,0.12,0.14
+Qatar,QAT,all,total,2013,0.16,0.15,0.17
+Romania,ROU,all,total,2013,0.1,0.1,0.11
+Rwanda,RWA,all,total,2013,0.2,0.18,0.22
+Saudi Arabia,SAU,all,total,2013,0.04,0.03,0.05
+Sudan,SDN,all,total,2013,0.45,0.43,0.46
+Senegal,SEN,all,total,2013,0.4,0.39,0.42
+Singapore,SGP,all,total,2013,0.01,0.0,0.02
+Solomon Is.,SLB,all,total,2013,0.13,0.12,0.15
+Sierra Leone,SLE,all,total,2013,0.37,0.35,0.39
+El Salvador,SLV,all,total,2013,0.12,0.12,0.13
+Serbia,SRB,all,total,2013,0.05,0.04,0.05
+S. Sudan,SSD,all,total,2013,0.61,0.58,0.65
+S. Tome/Principe,STP,all,total,2013,0.17,0.15,0.19
+Suriname,SUR,all,total,2013,0.21,0.2,0.22
+Slovakia,SVK,all,total,2013,0.06,0.05,0.06
+Slovenia,SVN,all,total,2013,0.03,0.02,0.03
+Sweden,SWE,all,total,2013,0.01,0.01,0.01
+eSwatini,SWZ,all,total,2013,0.1,0.08,0.11
+Seychelles,SYC,all,total,2013,0.11,0.09,0.12
+Syria,SYR,all,total,2013,0.2,0.19,0.21
+Chad,TCD,all,total,2013,0.49,0.47,0.51
+Togo,TGO,all,total,2013,0.29,0.27,0.3
+Thailand,THA,all,total,2013,0.08,0.07,0.1
+Tajikistan,TJK,all,total,2013,0.09,0.08,0.1
+Timor-Leste,TLS,all,total,2013,0.16,0.15,0.17
+Tonga,TON,all,total,2013,0.12,0.11,0.14
+Trinidad/Tobago,TTO,all,total,2013,0.06,0.05,0.08
+Tunisia,TUN,all,total,2013,0.12,0.11,0.12
+Turkey,TUR,all,total,2013,0.07,0.06,0.08
+Tanzania,TZA,all,total,2013,0.31,0.29,0.33
+Uganda,UGA,all,total,2013,0.2,0.18,0.22
+Ukraine,UKR,all,total,2013,0.02,0.02,0.03
+Uruguay,URY,all,total,2013,0.07,0.07,0.08
+United States of America,USA,all,total,2013,0.05,0.04,0.05
+Uzbekistan,UZB,all,total,2013,0.06,0.05,0.07
+St Vincent/Grenad.,VCT,all,total,2013,0.05,0.04,0.06
+Venezuela,VEN,all,total,2013,0.09,0.08,0.1
+Vietnam,VNM,all,total,2013,0.13,0.12,0.14
+Vanuatu,VUT,all,total,2013,0.16,0.15,0.18
+Samoa,WSM,all,total,2013,0.05,0.04,0.06
+Yemen,YEM,all,total,2013,0.31,0.3,0.32
+South Africa,ZAF,all,total,2013,0.12,0.1,0.13
+Zambia,ZMB,all,total,2013,0.2,0.18,0.22
+Zimbabwe,ZWE,all,total,2013,0.21,0.19,0.23
+Aruba,ABW,all,total,2014,0.01,0.0,0.02
+Afghanistan,AFG,all,total,2014,0.27,0.26,0.28
+Angola,AGO,all,total,2014,0.28,0.25,0.31
+Albania,ALB,all,total,2014,0.06,0.05,0.06
+Andorra,AND,all,total,2014,0.14,0.14,0.15
+United Arab Emirates,ARE,all,total,2014,0.14,0.13,0.15
+Argentina,ARG,all,total,2014,0.03,0.03,0.04
+Armenia,ARM,all,total,2014,0.16,0.15,0.18
+Antigua/Barbuda,ATG,all,total,2014,0.06,0.05,0.07
+Australia,AUS,all,total,2014,0.01,0.0,0.02
+Austria,AUT,all,total,2014,0.03,0.03,0.04
+Azerbaijan,AZE,all,total,2014,0.06,0.05,0.07
+Burundi,BDI,all,total,2014,0.27,0.26,0.28
+Belgium,BEL,all,total,2014,0.01,0.01,0.02
+Benin,BEN,all,total,2014,0.3,0.28,0.32
+Burkina Faso,BFA,all,total,2014,0.46,0.44,0.48
+Bangladesh,BGD,all,total,2014,0.29,0.27,0.31
+Bulgaria,BGR,all,total,2014,0.07,0.07,0.08
+Bahrain,BHR,all,total,2014,0.08,0.07,0.09
+Bahamas,BHS,all,total,2014,0.22,0.21,0.23
+Bosnia and Herz.,BIH,all,total,2014,0.11,0.1,0.11
+Belarus,BLR,all,total,2014,0.01,0.0,0.01
+Belize,BLZ,all,total,2014,0.12,0.11,0.13
+Bolivia,BOL,all,total,2014,0.12,0.11,0.13
+Brazil,BRA,all,total,2014,0.06,0.05,0.07
+Barbados,BRB,all,total,2014,0.02,0.01,0.03
+Brunei Daruss.,BRN,all,total,2014,0.07,0.06,0.07
+Bhutan,BTN,all,total,2014,0.14,0.13,0.15
+Botswana,BWA,all,total,2014,0.11,0.1,0.13
+Central African Rep.,CAF,all,total,2014,0.47,0.44,0.5
+Canada,CAN,all,total,2014,0.03,0.03,0.04
+Switzerland,CHE,all,total,2014,0.06,0.06,0.07
+Chile,CHL,all,total,2014,0.04,0.03,0.04
+China,CHN,all,total,2014,0.07,0.0,0.13
+Côte d'Ivoire,CIV,all,total,2014,0.49,0.47,0.5
+Cameroon,CMR,all,total,2014,0.28,0.26,0.3
+Dem. Rep. Congo,COD,all,total,2014,0.22,0.1,0.34
+Congo,COG,all,total,2014,0.31,0.28,0.33
+Colombia,COL,all,total,2014,0.07,0.06,0.08
+Comoros,COM,all,total,2014,0.28,0.26,0.3
+Cabo Verde,CPV,all,total,2014,0.11,0.09,0.12
+Costa Rica,CRI,all,total,2014,0.05,0.04,0.06
+Cuba,CUB,all,total,2014,0.08,0.07,0.09
+Cyprus,CYP,all,total,2014,0.03,0.02,0.03
+Czechia,CZE,all,total,2014,0.02,0.02,0.02
+Germany,DEU,all,total,2014,0.03,0.03,0.03
+Djibouti,DJI,all,total,2014,0.52,0.5,0.54
+Denmark,DNK,all,total,2014,0.03,0.02,0.03
+Dominican Rep.,DOM,all,total,2014,0.12,0.11,0.12
+Algeria,DZA,all,total,2014,0.07,0.07,0.08
+Ecuador,ECU,all,total,2014,0.08,0.07,0.09
+Egypt,EGY,all,total,2014,0.13,0.12,0.14
+Eritrea,ERI,all,total,2014,0.46,0.44,0.48
+Spain,ESP,all,total,2014,0.02,0.02,0.03
+Estonia,EST,all,total,2014,0.03,0.03,0.03
+Ethiopia,ETH,all,total,2014,0.36,0.34,0.38
+Finland,FIN,all,total,2014,0.02,0.02,0.02
+Fiji,FJI,all,total,2014,0.06,0.05,0.07
+France,FRA,all,total,2014,0.02,0.02,0.03
+"Micronesia, F. S.",FSM,all,total,2014,0.22,0.2,0.25
+United Kingdom,GBR,all,total,2014,0.02,0.01,0.02
+Georgia,GEO,all,total,2014,0.03,0.02,0.04
+Ghana,GHA,all,total,2014,0.21,0.2,0.23
+Guinea,GIN,all,total,2014,0.44,0.43,0.46
+Gambia,GMB,all,total,2014,0.36,0.35,0.38
+Guinea-Bissau,GNB,all,total,2014,0.34,0.29,0.39
+Equat. Guinea,GNQ,all,total,2014,0.59,0.56,0.62
+Greece,GRC,all,total,2014,0.03,0.03,0.04
+Grenada,GRD,all,total,2014,0.02,0.01,0.03
+Guatemala,GTM,all,total,2014,0.25,0.24,0.26
+Guyana,GUY,all,total,2014,0.15,0.14,0.17
+"Hong Kong, China",HKG,all,total,2014,0.01,0.01,0.02
+Honduras,HND,all,total,2014,0.3,0.29,0.31
+Croatia,HRV,all,total,2014,0.04,0.04,0.04
+Haiti,HTI,all,total,2014,0.13,0.11,0.14
+Hungary,HUN,all,total,2014,0.04,0.04,0.05
+Indonesia,IDN,all,total,2014,0.13,0.12,0.14
+India,IND,all,total,2014,0.21,0.2,0.23
+Ireland,IRL,all,total,2014,0.0,0.0,0.0
+Iran,IRN,all,total,2014,0.08,0.07,0.1
+Iraq,IRQ,all,total,2014,0.29,0.28,0.3
+Iceland,ISL,all,total,2014,0.05,0.05,0.05
+Israel,ISR,all,total,2014,0.0,0.0,0.0
+Italy,ITA,all,total,2014,0.03,0.03,0.04
+Jamaica,JAM,all,total,2014,0.15,0.14,0.16
+Jordan,JOR,all,total,2014,0.3,0.29,0.31
+Japan,JPN,all,total,2014,0.0,0.0,0.01
+Kazakhstan,KAZ,all,total,2014,0.01,0.0,0.01
+Kenya,KEN,all,total,2014,0.15,0.1,0.19
+Kyrgyzstan,KGZ,all,total,2014,0.09,0.08,0.11
+Cambodia,KHM,all,total,2014,0.24,0.23,0.25
+Kiribati,KIR,all,total,2014,0.16,0.14,0.18
+South Korea,KOR,all,total,2014,0.03,0.02,0.03
+Kuwait,KWT,all,total,2014,0.11,0.1,0.12
+Laos,LAO,all,total,2014,0.22,0.21,0.23
+Lebanon,LBN,all,total,2014,0.41,0.4,0.41
+Liberia,LBR,all,total,2014,0.24,0.22,0.26
+Saint Lucia,LCA,all,total,2014,0.07,0.07,0.08
+Liechtenstein,LIE,all,total,2014,0.05,0.05,0.05
+Sri Lanka,LKA,all,total,2014,0.09,0.08,0.11
+Lesotho,LSO,all,total,2014,0.12,0.11,0.14
+Lithuania,LTU,all,total,2014,0.01,0.0,0.01
+Luxembourg,LUX,all,total,2014,0.07,0.07,0.08
+Latvia,LVA,all,total,2014,0.02,0.01,0.02
+"Macao, China",MAC,all,total,2014,0.11,0.09,0.12
+Morocco,MAR,all,total,2014,0.16,0.15,0.16
+Rep. Moldova,MDA,all,total,2014,0.17,0.17,0.18
+Madagascar,MDG,all,total,2014,0.22,0.21,0.24
+Maldives,MDV,all,total,2014,0.14,0.13,0.16
+Mexico,MEX,all,total,2014,0.11,0.1,0.11
+Macedonia,MKD,all,total,2014,0.11,0.1,0.12
+Mali,MLI,all,total,2014,0.49,0.48,0.51
+Malta,MLT,all,total,2014,0.05,0.04,0.05
+Myanmar,MMR,all,total,2014,0.28,0.26,0.3
+Montenegro,MNE,all,total,2014,0.01,0.0,0.02
+Mongolia,MNG,all,total,2014,0.05,0.04,0.06
+Mozambique,MOZ,all,total,2014,0.27,0.25,0.28
+Mauritania,MRT,all,total,2014,0.41,0.4,0.43
+Mauritius,MUS,all,total,2014,0.06,0.05,0.07
+Malawi,MWI,all,total,2014,0.22,0.21,0.24
+Malaysia,MYS,all,total,2014,0.15,0.14,0.16
+Namibia,NAM,all,total,2014,0.08,0.06,0.1
+Niger,NER,all,total,2014,0.61,0.59,0.63
+Nigeria,NGA,all,total,2014,0.29,0.19,0.4
+Nicaragua,NIC,all,total,2014,0.04,0.0,0.07
+Netherlands,NLD,all,total,2014,0.01,0.0,0.01
+Norway,NOR,all,total,2014,0.02,0.02,0.02
+Nepal,NPL,all,total,2014,0.28,0.26,0.29
+New Zealand,NZL,all,total,2014,0.01,0.0,0.02
+Oman,OMN,all,total,2014,0.06,0.05,0.07
+Pakistan,PAK,all,total,2014,0.43,0.42,0.44
+Panama,PAN,all,total,2014,0.15,0.14,0.16
+Peru,PER,all,total,2014,0.06,0.05,0.07
+Philippines,PHL,all,total,2014,0.08,0.07,0.09
+Papua New Guinea,PNG,all,total,2014,0.28,0.24,0.31
+Poland,POL,all,total,2014,0.04,0.03,0.04
+Portugal,PRT,all,total,2014,0.01,0.0,0.01
+Paraguay,PRY,all,total,2014,0.19,0.17,0.2
+Palestine,PSE,all,total,2014,0.13,0.12,0.14
+Qatar,QAT,all,total,2014,0.16,0.15,0.17
+Romania,ROU,all,total,2014,0.11,0.1,0.11
+Rwanda,RWA,all,total,2014,0.19,0.17,0.21
+Saudi Arabia,SAU,all,total,2014,0.03,0.02,0.04
+Sudan,SDN,all,total,2014,0.43,0.41,0.45
+Senegal,SEN,all,total,2014,0.4,0.38,0.41
+Singapore,SGP,all,total,2014,0.01,0.0,0.02
+Solomon Is.,SLB,all,total,2014,0.13,0.12,0.14
+Sierra Leone,SLE,all,total,2014,0.36,0.34,0.38
+El Salvador,SLV,all,total,2014,0.13,0.12,0.14
+Serbia,SRB,all,total,2014,0.05,0.04,0.05
+S. Sudan,SSD,all,total,2014,0.61,0.58,0.65
+S. Tome/Principe,STP,all,total,2014,0.16,0.14,0.18
+Suriname,SUR,all,total,2014,0.21,0.2,0.22
+Slovakia,SVK,all,total,2014,0.06,0.06,0.07
+Slovenia,SVN,all,total,2014,0.02,0.02,0.03
+Sweden,SWE,all,total,2014,0.01,0.0,0.01
+eSwatini,SWZ,all,total,2014,0.09,0.07,0.11
+Seychelles,SYC,all,total,2014,0.09,0.08,0.1
+Syria,SYR,all,total,2014,0.2,0.19,0.21
+Chad,TCD,all,total,2014,0.49,0.48,0.51
+Togo,TGO,all,total,2014,0.29,0.28,0.31
+Thailand,THA,all,total,2014,0.07,0.06,0.08
+Tajikistan,TJK,all,total,2014,0.09,0.07,0.1
+Timor-Leste,TLS,all,total,2014,0.15,0.14,0.16
+Tonga,TON,all,total,2014,0.12,0.1,0.13
+Trinidad/Tobago,TTO,all,total,2014,0.07,0.06,0.09
+Tunisia,TUN,all,total,2014,0.12,0.11,0.12
+Turkey,TUR,all,total,2014,0.06,0.05,0.06
+Tanzania,TZA,all,total,2014,0.32,0.3,0.34
+Uganda,UGA,all,total,2014,0.21,0.19,0.23
+Ukraine,UKR,all,total,2014,0.02,0.02,0.03
+Uruguay,URY,all,total,2014,0.06,0.06,0.07
+United States of America,USA,all,total,2014,0.04,0.04,0.05
+Uzbekistan,UZB,all,total,2014,0.06,0.04,0.07
+St Vincent/Grenad.,VCT,all,total,2014,0.05,0.04,0.06
+Venezuela,VEN,all,total,2014,0.1,0.09,0.11
+Vietnam,VNM,all,total,2014,0.12,0.11,0.13
+Vanuatu,VUT,all,total,2014,0.16,0.15,0.18
+Samoa,WSM,all,total,2014,0.05,0.04,0.06
+Yemen,YEM,all,total,2014,0.3,0.29,0.32
+South Africa,ZAF,all,total,2014,0.12,0.1,0.13
+Zambia,ZMB,all,total,2014,0.21,0.19,0.23
+Zimbabwe,ZWE,all,total,2014,0.2,0.19,0.22
+Aruba,ABW,all,total,2015,0.01,0.0,0.02
+Afghanistan,AFG,all,total,2015,0.27,0.26,0.28
+Angola,AGO,all,total,2015,0.28,0.24,0.31
+Albania,ALB,all,total,2015,0.05,0.05,0.06
+Andorra,AND,all,total,2015,0.14,0.13,0.15
+United Arab Emirates,ARE,all,total,2015,0.11,0.1,0.12
+Argentina,ARG,all,total,2015,0.03,0.02,0.03
+Armenia,ARM,all,total,2015,0.16,0.15,0.17
+Antigua/Barbuda,ATG,all,total,2015,0.06,0.05,0.07
+Australia,AUS,all,total,2015,0.01,0.0,0.02
+Austria,AUT,all,total,2015,0.03,0.03,0.04
+Azerbaijan,AZE,all,total,2015,0.06,0.05,0.06
+Burundi,BDI,all,total,2015,0.27,0.25,0.28
+Belgium,BEL,all,total,2015,0.01,0.01,0.02
+Benin,BEN,all,total,2015,0.32,0.3,0.33
+Burkina Faso,BFA,all,total,2015,0.44,0.43,0.46
+Bangladesh,BGD,all,total,2015,0.27,0.25,0.29
+Bulgaria,BGR,all,total,2015,0.08,0.07,0.08
+Bahrain,BHR,all,total,2015,0.07,0.06,0.08
+Bahamas,BHS,all,total,2015,0.23,0.22,0.24
+Bosnia and Herz.,BIH,all,total,2015,0.12,0.12,0.13
+Belarus,BLR,all,total,2015,0.01,0.01,0.01
+Belize,BLZ,all,total,2015,0.11,0.1,0.12
+Bolivia,BOL,all,total,2015,0.12,0.11,0.13
+Brazil,BRA,all,total,2015,0.06,0.05,0.07
+Barbados,BRB,all,total,2015,0.02,0.01,0.03
+Brunei Daruss.,BRN,all,total,2015,0.08,0.07,0.08
+Bhutan,BTN,all,total,2015,0.13,0.12,0.14
+Botswana,BWA,all,total,2015,0.12,0.1,0.14
+Central African Rep.,CAF,all,total,2015,0.47,0.44,0.5
+Canada,CAN,all,total,2015,0.03,0.03,0.03
+Switzerland,CHE,all,total,2015,0.06,0.06,0.07
+Chile,CHL,all,total,2015,0.03,0.02,0.04
+China,CHN,all,total,2015,0.06,0.0,0.12
+Côte d'Ivoire,CIV,all,total,2015,0.46,0.44,0.47
+Cameroon,CMR,all,total,2015,0.28,0.26,0.3
+Dem. Rep. Congo,COD,all,total,2015,0.22,0.1,0.34
+Congo,COG,all,total,2015,0.29,0.26,0.32
+Colombia,COL,all,total,2015,0.06,0.05,0.07
+Comoros,COM,all,total,2015,0.28,0.26,0.3
+Cabo Verde,CPV,all,total,2015,0.11,0.09,0.13
+Costa Rica,CRI,all,total,2015,0.04,0.03,0.05
+Cuba,CUB,all,total,2015,0.08,0.07,0.09
+Cyprus,CYP,all,total,2015,0.02,0.02,0.03
+Czechia,CZE,all,total,2015,0.02,0.02,0.02
+Germany,DEU,all,total,2015,0.03,0.03,0.04
+Djibouti,DJI,all,total,2015,0.51,0.49,0.53
+Denmark,DNK,all,total,2015,0.03,0.02,0.03
+Dominican Rep.,DOM,all,total,2015,0.11,0.1,0.12
+Algeria,DZA,all,total,2015,0.07,0.06,0.08
+Ecuador,ECU,all,total,2015,0.07,0.07,0.08
+Egypt,EGY,all,total,2015,0.11,0.1,0.12
+Eritrea,ERI,all,total,2015,0.5,0.48,0.52
+Spain,ESP,all,total,2015,0.03,0.02,0.03
+Estonia,EST,all,total,2015,0.03,0.03,0.03
+Ethiopia,ETH,all,total,2015,0.35,0.34,0.37
+Finland,FIN,all,total,2015,0.02,0.02,0.02
+Fiji,FJI,all,total,2015,0.05,0.04,0.06
+France,FRA,all,total,2015,0.02,0.02,0.03
+"Micronesia, F. S.",FSM,all,total,2015,0.22,0.19,0.24
+United Kingdom,GBR,all,total,2015,0.01,0.01,0.02
+Georgia,GEO,all,total,2015,0.02,0.01,0.03
+Ghana,GHA,all,total,2015,0.21,0.19,0.22
+Guinea,GIN,all,total,2015,0.44,0.42,0.46
+Gambia,GMB,all,total,2015,0.35,0.33,0.36
+Guinea-Bissau,GNB,all,total,2015,0.34,0.29,0.4
+Equat. Guinea,GNQ,all,total,2015,0.6,0.56,0.63
+Greece,GRC,all,total,2015,0.03,0.03,0.04
+Grenada,GRD,all,total,2015,0.02,0.01,0.02
+Guatemala,GTM,all,total,2015,0.27,0.26,0.28
+Guyana,GUY,all,total,2015,0.16,0.15,0.18
+"Hong Kong, China",HKG,all,total,2015,0.01,0.0,0.02
+Honduras,HND,all,total,2015,0.31,0.3,0.32
+Croatia,HRV,all,total,2015,0.04,0.04,0.04
+Haiti,HTI,all,total,2015,0.11,0.09,0.13
+Hungary,HUN,all,total,2015,0.05,0.04,0.05
+Indonesia,IDN,all,total,2015,0.14,0.13,0.15
+India,IND,all,total,2015,0.21,0.2,0.22
+Ireland,IRL,all,total,2015,0.0,0.0,0.0
+Iran,IRN,all,total,2015,0.08,0.06,0.09
+Iraq,IRQ,all,total,2015,0.28,0.27,0.29
+Iceland,ISL,all,total,2015,0.05,0.05,0.05
+Israel,ISR,all,total,2015,0.0,0.0,0.0
+Italy,ITA,all,total,2015,0.03,0.03,0.04
+Jamaica,JAM,all,total,2015,0.15,0.14,0.17
+Jordan,JOR,all,total,2015,0.31,0.3,0.32
+Japan,JPN,all,total,2015,0.0,0.0,0.01
+Kazakhstan,KAZ,all,total,2015,0.01,0.0,0.01
+Kenya,KEN,all,total,2015,0.14,0.08,0.2
+Kyrgyzstan,KGZ,all,total,2015,0.09,0.08,0.1
+Cambodia,KHM,all,total,2015,0.24,0.22,0.25
+Kiribati,KIR,all,total,2015,0.15,0.14,0.17
+South Korea,KOR,all,total,2015,0.03,0.02,0.03
+Kuwait,KWT,all,total,2015,0.12,0.11,0.12
+Laos,LAO,all,total,2015,0.21,0.2,0.23
+Lebanon,LBN,all,total,2015,0.42,0.41,0.43
+Liberia,LBR,all,total,2015,0.24,0.22,0.26
+Saint Lucia,LCA,all,total,2015,0.07,0.07,0.08
+Liechtenstein,LIE,all,total,2015,0.05,0.04,0.05
+Sri Lanka,LKA,all,total,2015,0.09,0.08,0.1
+Lesotho,LSO,all,total,2015,0.12,0.1,0.14
+Lithuania,LTU,all,total,2015,0.01,0.0,0.01
+Luxembourg,LUX,all,total,2015,0.07,0.07,0.08
+Latvia,LVA,all,total,2015,0.01,0.01,0.02
+"Macao, China",MAC,all,total,2015,0.1,0.09,0.11
+Morocco,MAR,all,total,2015,0.14,0.13,0.15
+Rep. Moldova,MDA,all,total,2015,0.16,0.16,0.17
+Madagascar,MDG,all,total,2015,0.22,0.21,0.24
+Maldives,MDV,all,total,2015,0.14,0.13,0.15
+Mexico,MEX,all,total,2015,0.1,0.1,0.11
+Macedonia,MKD,all,total,2015,0.11,0.1,0.12
+Mali,MLI,all,total,2015,0.49,0.48,0.51
+Malta,MLT,all,total,2015,0.05,0.04,0.05
+Myanmar,MMR,all,total,2015,0.26,0.25,0.28
+Montenegro,MNE,all,total,2015,0.01,0.0,0.02
+Mongolia,MNG,all,total,2015,0.05,0.04,0.06
+Mozambique,MOZ,all,total,2015,0.26,0.25,0.28
+Mauritania,MRT,all,total,2015,0.41,0.39,0.43
+Mauritius,MUS,all,total,2015,0.06,0.05,0.07
+Malawi,MWI,all,total,2015,0.23,0.21,0.24
+Malaysia,MYS,all,total,2015,0.15,0.14,0.16
+Namibia,NAM,all,total,2015,0.07,0.05,0.09
+Niger,NER,all,total,2015,0.6,0.58,0.62
+Nigeria,NGA,all,total,2015,0.3,0.19,0.4
+Nicaragua,NIC,all,total,2015,0.03,0.0,0.07
+Netherlands,NLD,all,total,2015,0.0,0.0,0.01
+Norway,NOR,all,total,2015,0.02,0.02,0.02
+Nepal,NPL,all,total,2015,0.25,0.24,0.27
+New Zealand,NZL,all,total,2015,0.01,0.0,0.02
+Oman,OMN,all,total,2015,0.06,0.05,0.07
+Pakistan,PAK,all,total,2015,0.42,0.41,0.43
+Panama,PAN,all,total,2015,0.15,0.14,0.16
+Peru,PER,all,total,2015,0.06,0.05,0.07
+Philippines,PHL,all,total,2015,0.07,0.06,0.08
+Papua New Guinea,PNG,all,total,2015,0.26,0.23,0.29
+Poland,POL,all,total,2015,0.04,0.04,0.04
+Portugal,PRT,all,total,2015,0.01,0.0,0.01
+Paraguay,PRY,all,total,2015,0.2,0.18,0.22
+Palestine,PSE,all,total,2015,0.13,0.12,0.14
+Qatar,QAT,all,total,2015,0.15,0.14,0.16
+Romania,ROU,all,total,2015,0.11,0.11,0.12
+Rwanda,RWA,all,total,2015,0.18,0.16,0.2
+Saudi Arabia,SAU,all,total,2015,0.03,0.02,0.04
+Sudan,SDN,all,total,2015,0.42,0.4,0.43
+Senegal,SEN,all,total,2015,0.39,0.38,0.41
+Singapore,SGP,all,total,2015,0.02,0.0,0.03
+Solomon Is.,SLB,all,total,2015,0.13,0.11,0.14
+Sierra Leone,SLE,all,total,2015,0.35,0.33,0.37
+El Salvador,SLV,all,total,2015,0.14,0.14,0.15
+Serbia,SRB,all,total,2015,0.04,0.04,0.05
+S. Sudan,SSD,all,total,2015,0.61,0.57,0.66
+S. Tome/Principe,STP,all,total,2015,0.15,0.13,0.17
+Suriname,SUR,all,total,2015,0.2,0.19,0.21
+Slovakia,SVK,all,total,2015,0.06,0.06,0.07
+Slovenia,SVN,all,total,2015,0.02,0.02,0.02
+Sweden,SWE,all,total,2015,0.01,0.0,0.01
+eSwatini,SWZ,all,total,2015,0.09,0.06,0.11
+Seychelles,SYC,all,total,2015,0.07,0.06,0.08
+Syria,SYR,all,total,2015,0.2,0.19,0.2
+Chad,TCD,all,total,2015,0.5,0.48,0.52
+Togo,TGO,all,total,2015,0.3,0.29,0.32
+Thailand,THA,all,total,2015,0.06,0.05,0.07
+Tajikistan,TJK,all,total,2015,0.08,0.06,0.09
+Timor-Leste,TLS,all,total,2015,0.13,0.12,0.14
+Tonga,TON,all,total,2015,0.11,0.09,0.13
+Trinidad/Tobago,TTO,all,total,2015,0.08,0.07,0.1
+Tunisia,TUN,all,total,2015,0.11,0.11,0.12
+Turkey,TUR,all,total,2015,0.04,0.04,0.05
+Tanzania,TZA,all,total,2015,0.34,0.32,0.35
+Uganda,UGA,all,total,2015,0.23,0.2,0.25
+Ukraine,UKR,all,total,2015,0.02,0.01,0.04
+Uruguay,URY,all,total,2015,0.06,0.05,0.06
+United States of America,USA,all,total,2015,0.04,0.04,0.04
+Uzbekistan,UZB,all,total,2015,0.06,0.05,0.07
+St Vincent/Grenad.,VCT,all,total,2015,0.05,0.05,0.06
+Venezuela,VEN,all,total,2015,0.1,0.09,0.11
+Vietnam,VNM,all,total,2015,0.11,0.11,0.12
+Vanuatu,VUT,all,total,2015,0.17,0.15,0.18
+Samoa,WSM,all,total,2015,0.05,0.04,0.06
+Yemen,YEM,all,total,2015,0.29,0.28,0.31
+South Africa,ZAF,all,total,2015,0.11,0.1,0.13
+Zambia,ZMB,all,total,2015,0.22,0.19,0.24
+Zimbabwe,ZWE,all,total,2015,0.2,0.18,0.22
+Aruba,ABW,all,total,2016,0.01,0.0,0.02
+Afghanistan,AFG,all,total,2016,0.26,0.25,0.27
+Angola,AGO,all,total,2016,0.28,0.24,0.31
+Albania,ALB,all,total,2016,0.05,0.05,0.06
+Andorra,AND,all,total,2016,0.13,0.12,0.14
+United Arab Emirates,ARE,all,total,2016,0.09,0.08,0.1
+Argentina,ARG,all,total,2016,0.03,0.02,0.03
+Armenia,ARM,all,total,2016,0.16,0.14,0.17
+Antigua/Barbuda,ATG,all,total,2016,0.06,0.04,0.07
+Australia,AUS,all,total,2016,0.01,0.0,0.02
+Austria,AUT,all,total,2016,0.03,0.03,0.04
+Azerbaijan,AZE,all,total,2016,0.05,0.04,0.06
+Burundi,BDI,all,total,2016,0.27,0.26,0.29
+Belgium,BEL,all,total,2016,0.01,0.01,0.02
+Benin,BEN,all,total,2016,0.33,0.31,0.35
+Burkina Faso,BFA,all,total,2016,0.43,0.41,0.45
+Bangladesh,BGD,all,total,2016,0.25,0.23,0.27
+Bulgaria,BGR,all,total,2016,0.09,0.08,0.09
+Bahrain,BHR,all,total,2016,0.07,0.06,0.07
+Bahamas,BHS,all,total,2016,0.24,0.23,0.25
+Bosnia and Herz.,BIH,all,total,2016,0.13,0.13,0.14
+Belarus,BLR,all,total,2016,0.01,0.01,0.02
+Belize,BLZ,all,total,2016,0.11,0.1,0.12
+Bolivia,BOL,all,total,2016,0.12,0.11,0.13
+Brazil,BRA,all,total,2016,0.06,0.05,0.07
+Barbados,BRB,all,total,2016,0.02,0.01,0.03
+Brunei Daruss.,BRN,all,total,2016,0.09,0.08,0.09
+Bhutan,BTN,all,total,2016,0.12,0.1,0.13
+Botswana,BWA,all,total,2016,0.13,0.11,0.16
+Central African Rep.,CAF,all,total,2016,0.46,0.43,0.5
+Canada,CAN,all,total,2016,0.03,0.02,0.03
+Switzerland,CHE,all,total,2016,0.06,0.06,0.07
+Chile,CHL,all,total,2016,0.02,0.02,0.03
+China,CHN,all,total,2016,0.05,0.0,0.11
+Côte d'Ivoire,CIV,all,total,2016,0.43,0.41,0.44
+Cameroon,CMR,all,total,2016,0.29,0.27,0.31
+Dem. Rep. Congo,COD,all,total,2016,0.21,0.1,0.33
+Congo,COG,all,total,2016,0.28,0.25,0.31
+Colombia,COL,all,total,2016,0.06,0.05,0.06
+Comoros,COM,all,total,2016,0.28,0.26,0.3
+Cabo Verde,CPV,all,total,2016,0.11,0.1,0.13
+Costa Rica,CRI,all,total,2016,0.03,0.03,0.04
+Cuba,CUB,all,total,2016,0.08,0.07,0.08
+Cyprus,CYP,all,total,2016,0.02,0.01,0.03
+Czechia,CZE,all,total,2016,0.02,0.01,0.03
+Germany,DEU,all,total,2016,0.03,0.03,0.04
+Djibouti,DJI,all,total,2016,0.49,0.48,0.51
+Denmark,DNK,all,total,2016,0.03,0.02,0.03
+Dominican Rep.,DOM,all,total,2016,0.1,0.09,0.11
+Algeria,DZA,all,total,2016,0.07,0.06,0.07
+Ecuador,ECU,all,total,2016,0.06,0.06,0.07
+Egypt,EGY,all,total,2016,0.1,0.09,0.11
+Eritrea,ERI,all,total,2016,0.53,0.51,0.55
+Spain,ESP,all,total,2016,0.03,0.02,0.03
+Estonia,EST,all,total,2016,0.03,0.03,0.04
+Ethiopia,ETH,all,total,2016,0.35,0.34,0.37
+Finland,FIN,all,total,2016,0.02,0.01,0.02
+Fiji,FJI,all,total,2016,0.05,0.04,0.06
+France,FRA,all,total,2016,0.02,0.02,0.02
+"Micronesia, F. S.",FSM,all,total,2016,0.21,0.19,0.23
+United Kingdom,GBR,all,total,2016,0.02,0.01,0.02
+Georgia,GEO,all,total,2016,0.01,0.01,0.02
+Ghana,GHA,all,total,2016,0.2,0.18,0.22
+Guinea,GIN,all,total,2016,0.44,0.42,0.46
+Gambia,GMB,all,total,2016,0.33,0.31,0.34
+Guinea-Bissau,GNB,all,total,2016,0.34,0.29,0.4
+Equat. Guinea,GNQ,all,total,2016,0.6,0.55,0.64
+Greece,GRC,all,total,2016,0.04,0.03,0.04
+Grenada,GRD,all,total,2016,0.01,0.0,0.02
+Guatemala,GTM,all,total,2016,0.28,0.27,0.3
+Guyana,GUY,all,total,2016,0.17,0.16,0.19
+"Hong Kong, China",HKG,all,total,2016,0.01,0.0,0.01
+Honduras,HND,all,total,2016,0.32,0.31,0.33
+Croatia,HRV,all,total,2016,0.04,0.04,0.04
+Haiti,HTI,all,total,2016,0.1,0.07,0.12
+Hungary,HUN,all,total,2016,0.05,0.04,0.06
+Indonesia,IDN,all,total,2016,0.14,0.13,0.15
+India,IND,all,total,2016,0.21,0.19,0.22
+Ireland,IRL,all,total,2016,0.0,0.0,0.0
+Iran,IRN,all,total,2016,0.07,0.06,0.09
+Iraq,IRQ,all,total,2016,0.27,0.26,0.28
+Iceland,ISL,all,total,2016,0.05,0.04,0.05
+Israel,ISR,all,total,2016,0.0,0.0,0.0
+Italy,ITA,all,total,2016,0.03,0.03,0.04
+Jamaica,JAM,all,total,2016,0.16,0.15,0.17
+Jordan,JOR,all,total,2016,0.31,0.3,0.32
+Japan,JPN,all,total,2016,0.0,0.0,0.01
+Kazakhstan,KAZ,all,total,2016,0.0,0.0,0.01
+Kenya,KEN,all,total,2016,0.13,0.06,0.21
+Kyrgyzstan,KGZ,all,total,2016,0.09,0.08,0.1
+Cambodia,KHM,all,total,2016,0.23,0.22,0.24
+Kiribati,KIR,all,total,2016,0.14,0.13,0.16
+South Korea,KOR,all,total,2016,0.03,0.02,0.04
+Kuwait,KWT,all,total,2016,0.13,0.12,0.13
+Laos,LAO,all,total,2016,0.21,0.2,0.22
+Lebanon,LBN,all,total,2016,0.42,0.41,0.43
+Liberia,LBR,all,total,2016,0.24,0.22,0.26
+Saint Lucia,LCA,all,total,2016,0.07,0.06,0.08
+Liechtenstein,LIE,all,total,2016,0.05,0.04,0.05
+Sri Lanka,LKA,all,total,2016,0.08,0.07,0.09
+Lesotho,LSO,all,total,2016,0.12,0.1,0.14
+Lithuania,LTU,all,total,2016,0.0,0.0,0.01
+Luxembourg,LUX,all,total,2016,0.07,0.06,0.07
+Latvia,LVA,all,total,2016,0.01,0.01,0.01
+"Macao, China",MAC,all,total,2016,0.09,0.08,0.11
+Morocco,MAR,all,total,2016,0.13,0.12,0.14
+Rep. Moldova,MDA,all,total,2016,0.15,0.14,0.15
+Madagascar,MDG,all,total,2016,0.23,0.21,0.24
+Maldives,MDV,all,total,2016,0.13,0.12,0.15
+Mexico,MEX,all,total,2016,0.1,0.09,0.1
+Macedonia,MKD,all,total,2016,0.11,0.1,0.12
+Mali,MLI,all,total,2016,0.5,0.48,0.51
+Malta,MLT,all,total,2016,0.04,0.04,0.05
+Myanmar,MMR,all,total,2016,0.24,0.22,0.26
+Montenegro,MNE,all,total,2016,0.01,0.0,0.01
+Mongolia,MNG,all,total,2016,0.05,0.04,0.06
+Mozambique,MOZ,all,total,2016,0.25,0.24,0.27
+Mauritania,MRT,all,total,2016,0.4,0.39,0.42
+Mauritius,MUS,all,total,2016,0.06,0.05,0.08
+Malawi,MWI,all,total,2016,0.23,0.21,0.25
+Malaysia,MYS,all,total,2016,0.15,0.14,0.16
+Namibia,NAM,all,total,2016,0.06,0.04,0.08
+Niger,NER,all,total,2016,0.59,0.57,0.61
+Nigeria,NGA,all,total,2016,0.3,0.2,0.41
+Nicaragua,NIC,all,total,2016,0.03,0.0,0.07
+Netherlands,NLD,all,total,2016,0.0,0.0,0.01
+Norway,NOR,all,total,2016,0.02,0.02,0.02
+Nepal,NPL,all,total,2016,0.22,0.21,0.24
+New Zealand,NZL,all,total,2016,0.01,0.0,0.02
+Oman,OMN,all,total,2016,0.06,0.05,0.06
+Pakistan,PAK,all,total,2016,0.41,0.4,0.42
+Panama,PAN,all,total,2016,0.16,0.15,0.17
+Peru,PER,all,total,2016,0.06,0.05,0.06
+Philippines,PHL,all,total,2016,0.07,0.06,0.08
+Papua New Guinea,PNG,all,total,2016,0.25,0.22,0.27
+Poland,POL,all,total,2016,0.04,0.04,0.04
+Portugal,PRT,all,total,2016,0.0,0.0,0.01
+Paraguay,PRY,all,total,2016,0.21,0.19,0.23
+Palestine,PSE,all,total,2016,0.12,0.11,0.13
+Qatar,QAT,all,total,2016,0.15,0.14,0.16
+Romania,ROU,all,total,2016,0.12,0.12,0.13
+Rwanda,RWA,all,total,2016,0.18,0.16,0.2
+Saudi Arabia,SAU,all,total,2016,0.03,0.02,0.03
+Sudan,SDN,all,total,2016,0.4,0.38,0.42
+Senegal,SEN,all,total,2016,0.39,0.37,0.41
+Singapore,SGP,all,total,2016,0.02,0.01,0.03
+Solomon Is.,SLB,all,total,2016,0.12,0.11,0.14
+Sierra Leone,SLE,all,total,2016,0.34,0.32,0.36
+El Salvador,SLV,all,total,2016,0.16,0.15,0.17
+Serbia,SRB,all,total,2016,0.04,0.04,0.05
+S. Sudan,SSD,all,total,2016,0.61,0.56,0.67
+S. Tome/Principe,STP,all,total,2016,0.14,0.12,0.16
+Suriname,SUR,all,total,2016,0.2,0.19,0.21
+Slovakia,SVK,all,total,2016,0.06,0.06,0.07
+Slovenia,SVN,all,total,2016,0.02,0.01,0.02
+Sweden,SWE,all,total,2016,0.01,0.0,0.01
+eSwatini,SWZ,all,total,2016,0.08,0.06,0.1
+Seychelles,SYC,all,total,2016,0.06,0.05,0.07
+Syria,SYR,all,total,2016,0.19,0.18,0.2
+Chad,TCD,all,total,2016,0.51,0.49,0.52
+Togo,TGO,all,total,2016,0.31,0.29,0.33
+Thailand,THA,all,total,2016,0.06,0.05,0.07
+Tajikistan,TJK,all,total,2016,0.07,0.05,0.08
+Timor-Leste,TLS,all,total,2016,0.12,0.11,0.13
+Tonga,TON,all,total,2016,0.1,0.09,0.12
+Trinidad/Tobago,TTO,all,total,2016,0.1,0.08,0.12
+Tunisia,TUN,all,total,2016,0.11,0.1,0.11
+Turkey,TUR,all,total,2016,0.03,0.03,0.04
+Tanzania,TZA,all,total,2016,0.34,0.33,0.36
+Uganda,UGA,all,total,2016,0.24,0.21,0.26
+Ukraine,UKR,all,total,2016,0.02,0.01,0.04
+Uruguay,URY,all,total,2016,0.05,0.04,0.06
+United States of America,USA,all,total,2016,0.04,0.03,0.04
+Uzbekistan,UZB,all,total,2016,0.06,0.05,0.07
+St Vincent/Grenad.,VCT,all,total,2016,0.05,0.05,0.06
+Venezuela,VEN,all,total,2016,0.1,0.09,0.11
+Vietnam,VNM,all,total,2016,0.11,0.1,0.12
+Vanuatu,VUT,all,total,2016,0.17,0.15,0.19
+Samoa,WSM,all,total,2016,0.05,0.04,0.06
+Yemen,YEM,all,total,2016,0.29,0.26,0.31
+South Africa,ZAF,all,total,2016,0.11,0.1,0.13
+Zambia,ZMB,all,total,2016,0.22,0.2,0.25
+Zimbabwe,ZWE,all,total,2016,0.19,0.18,0.21
+Aruba,ABW,all,total,2017,0.01,0.0,0.02
+Afghanistan,AFG,all,total,2017,0.25,0.23,0.26
+Angola,AGO,all,total,2017,0.27,0.23,0.32
+Albania,ALB,all,total,2017,0.06,0.05,0.06
+Andorra,AND,all,total,2017,0.12,0.11,0.13
+United Arab Emirates,ARE,all,total,2017,0.07,0.06,0.08
+Argentina,ARG,all,total,2017,0.02,0.02,0.03
+Armenia,ARM,all,total,2017,0.15,0.14,0.16
+Antigua/Barbuda,ATG,all,total,2017,0.05,0.04,0.07
+Australia,AUS,all,total,2017,0.01,0.0,0.02
+Austria,AUT,all,total,2017,0.03,0.03,0.04
+Azerbaijan,AZE,all,total,2017,0.04,0.03,0.05
+Burundi,BDI,all,total,2017,0.25,0.24,0.27
+Belgium,BEL,all,total,2017,0.01,0.01,0.02
+Benin,BEN,all,total,2017,0.33,0.32,0.35
+Burkina Faso,BFA,all,total,2017,0.42,0.4,0.44
+Bangladesh,BGD,all,total,2017,0.23,0.21,0.25
+Bulgaria,BGR,all,total,2017,0.09,0.09,0.1
+Bahrain,BHR,all,total,2017,0.06,0.05,0.07
+Bahamas,BHS,all,total,2017,0.25,0.24,0.26
+Bosnia and Herz.,BIH,all,total,2017,0.13,0.12,0.13
+Belarus,BLR,all,total,2017,0.01,0.01,0.02
+Belize,BLZ,all,total,2017,0.11,0.1,0.12
+Bolivia,BOL,all,total,2017,0.12,0.11,0.13
+Brazil,BRA,all,total,2017,0.06,0.05,0.07
+Barbados,BRB,all,total,2017,0.02,0.01,0.03
+Brunei Daruss.,BRN,all,total,2017,0.09,0.08,0.1
+Bhutan,BTN,all,total,2017,0.11,0.1,0.12
+Botswana,BWA,all,total,2017,0.14,0.11,0.17
+Central African Rep.,CAF,all,total,2017,0.46,0.43,0.5
+Canada,CAN,all,total,2017,0.02,0.02,0.02
+Switzerland,CHE,all,total,2017,0.06,0.06,0.07
+Chile,CHL,all,total,2017,0.02,0.01,0.03
+China,CHN,all,total,2017,0.05,0.0,0.11
+Côte d'Ivoire,CIV,all,total,2017,0.39,0.38,0.41
+Cameroon,CMR,all,total,2017,0.29,0.27,0.31
+Dem. Rep. Congo,COD,all,total,2017,0.21,0.09,0.33
+Congo,COG,all,total,2017,0.26,0.23,0.3
+Colombia,COL,all,total,2017,0.05,0.04,0.06
+Comoros,COM,all,total,2017,0.28,0.26,0.31
+Cabo Verde,CPV,all,total,2017,0.12,0.1,0.14
+Costa Rica,CRI,all,total,2017,0.03,0.02,0.04
+Cuba,CUB,all,total,2017,0.07,0.06,0.08
+Cyprus,CYP,all,total,2017,0.02,0.01,0.03
+Czechia,CZE,all,total,2017,0.02,0.01,0.03
+Germany,DEU,all,total,2017,0.03,0.03,0.04
+Djibouti,DJI,all,total,2017,0.48,0.46,0.5
+Denmark,DNK,all,total,2017,0.03,0.02,0.03
+Dominican Rep.,DOM,all,total,2017,0.1,0.09,0.11
+Algeria,DZA,all,total,2017,0.06,0.06,0.07
+Ecuador,ECU,all,total,2017,0.06,0.05,0.06
+Egypt,EGY,all,total,2017,0.08,0.07,0.09
+Eritrea,ERI,all,total,2017,0.56,0.53,0.58
+Spain,ESP,all,total,2017,0.03,0.02,0.03
+Estonia,EST,all,total,2017,0.03,0.03,0.04
+Ethiopia,ETH,all,total,2017,0.35,0.33,0.37
+Finland,FIN,all,total,2017,0.02,0.01,0.02
+Fiji,FJI,all,total,2017,0.05,0.04,0.06
+France,FRA,all,total,2017,0.02,0.01,0.02
+"Micronesia, F. S.",FSM,all,total,2017,0.21,0.19,0.23
+United Kingdom,GBR,all,total,2017,0.02,0.01,0.02
+Georgia,GEO,all,total,2017,0.01,0.0,0.01
+Ghana,GHA,all,total,2017,0.19,0.18,0.21
+Guinea,GIN,all,total,2017,0.44,0.42,0.46
+Gambia,GMB,all,total,2017,0.31,0.29,0.32
+Guinea-Bissau,GNB,all,total,2017,0.35,0.29,0.4
+Equat. Guinea,GNQ,all,total,2017,0.6,0.54,0.66
+Greece,GRC,all,total,2017,0.04,0.03,0.04
+Grenada,GRD,all,total,2017,0.01,0.0,0.02
+Guatemala,GTM,all,total,2017,0.3,0.28,0.31
+Guyana,GUY,all,total,2017,0.18,0.17,0.2
+"Hong Kong, China",HKG,all,total,2017,0.0,0.0,0.01
+Honduras,HND,all,total,2017,0.32,0.31,0.34
+Croatia,HRV,all,total,2017,0.04,0.03,0.04
+Haiti,HTI,all,total,2017,0.09,0.06,0.12
+Hungary,HUN,all,total,2017,0.06,0.04,0.07
+Indonesia,IDN,all,total,2017,0.15,0.13,0.16
+India,IND,all,total,2017,0.2,0.19,0.21
+Ireland,IRL,all,total,2017,0.0,0.0,0.0
+Iran,IRN,all,total,2017,0.07,0.05,0.09
+Iraq,IRQ,all,total,2017,0.25,0.23,0.26
+Iceland,ISL,all,total,2017,0.05,0.04,0.05
+Israel,ISR,all,total,2017,0.0,0.0,0.0
+Italy,ITA,all,total,2017,0.03,0.03,0.04
+Jamaica,JAM,all,total,2017,0.17,0.16,0.18
+Jordan,JOR,all,total,2017,0.3,0.29,0.31
+Japan,JPN,all,total,2017,0.0,0.0,0.01
+Kazakhstan,KAZ,all,total,2017,0.0,0.0,0.01
+Kenya,KEN,all,total,2017,0.13,0.05,0.21
+Kyrgyzstan,KGZ,all,total,2017,0.08,0.07,0.09
+Cambodia,KHM,all,total,2017,0.23,0.22,0.24
+Kiribati,KIR,all,total,2017,0.13,0.11,0.16
+South Korea,KOR,all,total,2017,0.03,0.02,0.04
+Kuwait,KWT,all,total,2017,0.14,0.13,0.14
+Laos,LAO,all,total,2017,0.21,0.2,0.22
+Lebanon,LBN,all,total,2017,0.42,0.41,0.43
+Liberia,LBR,all,total,2017,0.25,0.22,0.27
+Saint Lucia,LCA,all,total,2017,0.07,0.06,0.07
+Liechtenstein,LIE,all,total,2017,0.05,0.04,0.05
+Sri Lanka,LKA,all,total,2017,0.07,0.06,0.08
+Lesotho,LSO,all,total,2017,0.11,0.09,0.13
+Lithuania,LTU,all,total,2017,0.0,0.0,0.01
+Luxembourg,LUX,all,total,2017,0.07,0.06,0.07
+Latvia,LVA,all,total,2017,0.01,0.01,0.01
+"Macao, China",MAC,all,total,2017,0.09,0.08,0.1
+Morocco,MAR,all,total,2017,0.12,0.12,0.13
+Rep. Moldova,MDA,all,total,2017,0.12,0.12,0.13
+Madagascar,MDG,all,total,2017,0.24,0.22,0.26
+Maldives,MDV,all,total,2017,0.13,0.12,0.15
+Mexico,MEX,all,total,2017,0.09,0.09,0.1
+Macedonia,MKD,all,total,2017,0.11,0.09,0.13
+Mali,MLI,all,total,2017,0.5,0.48,0.51
+Malta,MLT,all,total,2017,0.04,0.03,0.04
+Myanmar,MMR,all,total,2017,0.22,0.2,0.23
+Montenegro,MNE,all,total,2017,0.0,0.0,0.01
+Mongolia,MNG,all,total,2017,0.06,0.05,0.07
+Mozambique,MOZ,all,total,2017,0.25,0.23,0.26
+Mauritania,MRT,all,total,2017,0.4,0.38,0.41
+Mauritius,MUS,all,total,2017,0.07,0.05,0.08
+Malawi,MWI,all,total,2017,0.23,0.21,0.25
+Malaysia,MYS,all,total,2017,0.14,0.13,0.15
+Namibia,NAM,all,total,2017,0.05,0.03,0.07
+Niger,NER,all,total,2017,0.59,0.57,0.61
+Nigeria,NGA,all,total,2017,0.31,0.2,0.42
+Nicaragua,NIC,all,total,2017,0.02,0.0,0.07
+Netherlands,NLD,all,total,2017,0.0,0.0,0.01
+Norway,NOR,all,total,2017,0.02,0.02,0.02
+Nepal,NPL,all,total,2017,0.2,0.18,0.22
+New Zealand,NZL,all,total,2017,0.01,0.0,0.02
+Oman,OMN,all,total,2017,0.06,0.05,0.07
+Pakistan,PAK,all,total,2017,0.4,0.39,0.41
+Panama,PAN,all,total,2017,0.17,0.16,0.18
+Peru,PER,all,total,2017,0.05,0.04,0.06
+Philippines,PHL,all,total,2017,0.08,0.07,0.09
+Papua New Guinea,PNG,all,total,2017,0.24,0.22,0.27
+Poland,POL,all,total,2017,0.04,0.04,0.04
+Portugal,PRT,all,total,2017,0.0,0.0,0.01
+Paraguay,PRY,all,total,2017,0.22,0.2,0.24
+Palestine,PSE,all,total,2017,0.11,0.1,0.12
+Qatar,QAT,all,total,2017,0.14,0.14,0.15
+Romania,ROU,all,total,2017,0.13,0.12,0.13
+Rwanda,RWA,all,total,2017,0.17,0.15,0.19
+Saudi Arabia,SAU,all,total,2017,0.03,0.02,0.03
+Sudan,SDN,all,total,2017,0.4,0.38,0.42
+Senegal,SEN,all,total,2017,0.39,0.37,0.4
+Singapore,SGP,all,total,2017,0.02,0.01,0.04
+Solomon Is.,SLB,all,total,2017,0.12,0.11,0.13
+Sierra Leone,SLE,all,total,2017,0.33,0.31,0.34
+El Salvador,SLV,all,total,2017,0.17,0.16,0.18
+Serbia,SRB,all,total,2017,0.05,0.04,0.05
+S. Sudan,SSD,all,total,2017,0.61,0.55,0.68
+S. Tome/Principe,STP,all,total,2017,0.13,0.11,0.16
+Suriname,SUR,all,total,2017,0.21,0.2,0.22
+Slovakia,SVK,all,total,2017,0.07,0.06,0.07
+Slovenia,SVN,all,total,2017,0.02,0.01,0.02
+Sweden,SWE,all,total,2017,0.0,0.0,0.01
+eSwatini,SWZ,all,total,2017,0.08,0.05,0.1
+Seychelles,SYC,all,total,2017,0.05,0.04,0.06
+Syria,SYR,all,total,2017,0.19,0.18,0.19
+Chad,TCD,all,total,2017,0.51,0.5,0.53
+Togo,TGO,all,total,2017,0.31,0.29,0.32
+Thailand,THA,all,total,2017,0.06,0.05,0.07
+Tajikistan,TJK,all,total,2017,0.06,0.05,0.08
+Timor-Leste,TLS,all,total,2017,0.12,0.1,0.13
+Tonga,TON,all,total,2017,0.1,0.08,0.11
+Trinidad/Tobago,TTO,all,total,2017,0.12,0.1,0.13
+Tunisia,TUN,all,total,2017,0.1,0.09,0.1
+Turkey,TUR,all,total,2017,0.03,0.02,0.03
+Tanzania,TZA,all,total,2017,0.35,0.33,0.37
+Uganda,UGA,all,total,2017,0.25,0.22,0.27
+Ukraine,UKR,all,total,2017,0.02,0.0,0.04
+Uruguay,URY,all,total,2017,0.04,0.04,0.05
+United States of America,USA,all,total,2017,0.03,0.03,0.04
+Uzbekistan,UZB,all,total,2017,0.06,0.05,0.07
+St Vincent/Grenad.,VCT,all,total,2017,0.05,0.04,0.06
+Venezuela,VEN,all,total,2017,0.1,0.09,0.12
+Vietnam,VNM,all,total,2017,0.1,0.09,0.11
+Vanuatu,VUT,all,total,2017,0.17,0.16,0.19
+Samoa,WSM,all,total,2017,0.05,0.04,0.06
+Yemen,YEM,all,total,2017,0.27,0.24,0.31
+South Africa,ZAF,all,total,2017,0.11,0.1,0.12
+Zambia,ZMB,all,total,2017,0.23,0.2,0.25
+Zimbabwe,ZWE,all,total,2017,0.19,0.17,0.21
+Aruba,ABW,all,total,2018,0.0,0.0,0.02
+Afghanistan,AFG,all,total,2018,0.23,0.22,0.25
+Angola,AGO,all,total,2018,0.27,0.22,0.33
+Albania,ALB,all,total,2018,0.05,0.05,0.06
+Andorra,AND,all,total,2018,0.11,0.1,0.12
+United Arab Emirates,ARE,all,total,2018,0.05,0.04,0.06
+Argentina,ARG,all,total,2018,0.02,0.01,0.03
+Armenia,ARM,all,total,2018,0.14,0.13,0.15
+Antigua/Barbuda,ATG,all,total,2018,0.05,0.03,0.06
+Australia,AUS,all,total,2018,0.01,0.0,0.02
+Austria,AUT,all,total,2018,0.03,0.03,0.04
+Azerbaijan,AZE,all,total,2018,0.04,0.03,0.05
+Burundi,BDI,all,total,2018,0.26,0.24,0.28
+Belgium,BEL,all,total,2018,0.01,0.0,0.02
+Benin,BEN,all,total,2018,0.33,0.32,0.35
+Burkina Faso,BFA,all,total,2018,0.41,0.39,0.43
+Bangladesh,BGD,all,total,2018,0.21,0.19,0.23
+Bulgaria,BGR,all,total,2018,0.11,0.1,0.11
+Bahrain,BHR,all,total,2018,0.06,0.05,0.07
+Bahamas,BHS,all,total,2018,0.26,0.25,0.27
+Bosnia and Herz.,BIH,all,total,2018,0.12,0.11,0.12
+Belarus,BLR,all,total,2018,0.02,0.01,0.02
+Belize,BLZ,all,total,2018,0.11,0.1,0.12
+Bolivia,BOL,all,total,2018,0.13,0.12,0.14
+Brazil,BRA,all,total,2018,0.06,0.05,0.07
+Barbados,BRB,all,total,2018,0.02,0.01,0.03
+Brunei Daruss.,BRN,all,total,2018,0.09,0.08,0.1
+Bhutan,BTN,all,total,2018,0.1,0.08,0.12
+Botswana,BWA,all,total,2018,0.15,0.12,0.17
+Central African Rep.,CAF,all,total,2018,0.47,0.44,0.5
+Canada,CAN,all,total,2018,0.02,0.02,0.02
+Switzerland,CHE,all,total,2018,0.06,0.06,0.07
+Chile,CHL,all,total,2018,0.02,0.01,0.02
+China,CHN,all,total,2018,0.05,0.0,0.11
+Côte d'Ivoire,CIV,all,total,2018,0.36,0.34,0.37
+Cameroon,CMR,all,total,2018,0.3,0.28,0.32
+Dem. Rep. Congo,COD,all,total,2018,0.21,0.09,0.33
+Congo,COG,all,total,2018,0.25,0.21,0.29
+Colombia,COL,all,total,2018,0.05,0.04,0.06
+Comoros,COM,all,total,2018,0.29,0.26,0.31
+Cabo Verde,CPV,all,total,2018,0.12,0.1,0.15
+Costa Rica,CRI,all,total,2018,0.02,0.02,0.03
+Cuba,CUB,all,total,2018,0.07,0.06,0.08
+Cyprus,CYP,all,total,2018,0.02,0.01,0.03
+Czechia,CZE,all,total,2018,0.02,0.01,0.03
+Germany,DEU,all,total,2018,0.03,0.03,0.04
+Djibouti,DJI,all,total,2018,0.47,0.45,0.48
+Denmark,DNK,all,total,2018,0.02,0.02,0.03
+Dominican Rep.,DOM,all,total,2018,0.1,0.09,0.11
+Algeria,DZA,all,total,2018,0.06,0.05,0.06
+Ecuador,ECU,all,total,2018,0.06,0.05,0.06
+Egypt,EGY,all,total,2018,0.07,0.06,0.08
+Eritrea,ERI,all,total,2018,0.57,0.54,0.6
+Spain,ESP,all,total,2018,0.03,0.02,0.03
+Estonia,EST,all,total,2018,0.03,0.03,0.04
+Ethiopia,ETH,all,total,2018,0.35,0.33,0.37
+Finland,FIN,all,total,2018,0.02,0.01,0.02
+Fiji,FJI,all,total,2018,0.05,0.03,0.06
+France,FRA,all,total,2018,0.02,0.01,0.02
+"Micronesia, F. S.",FSM,all,total,2018,0.2,0.18,0.22
+United Kingdom,GBR,all,total,2018,0.02,0.01,0.03
+Georgia,GEO,all,total,2018,0.01,0.0,0.01
+Ghana,GHA,all,total,2018,0.18,0.17,0.2
+Guinea,GIN,all,total,2018,0.44,0.41,0.46
+Gambia,GMB,all,total,2018,0.28,0.27,0.3
+Guinea-Bissau,GNB,all,total,2018,0.35,0.29,0.41
+Equat. Guinea,GNQ,all,total,2018,0.6,0.53,0.67
+Greece,GRC,all,total,2018,0.04,0.03,0.04
+Grenada,GRD,all,total,2018,0.01,0.0,0.02
+Guatemala,GTM,all,total,2018,0.31,0.29,0.33
+Guyana,GUY,all,total,2018,0.19,0.17,0.2
+"Hong Kong, China",HKG,all,total,2018,0.0,0.0,0.01
+Honduras,HND,all,total,2018,0.33,0.32,0.34
+Croatia,HRV,all,total,2018,0.04,0.03,0.04
+Haiti,HTI,all,total,2018,0.09,0.06,0.12
+Hungary,HUN,all,total,2018,0.06,0.05,0.08
+Indonesia,IDN,all,total,2018,0.16,0.14,0.17
+India,IND,all,total,2018,0.2,0.19,0.21
+Ireland,IRL,all,total,2018,0.0,0.0,0.0
+Iran,IRN,all,total,2018,0.06,0.04,0.08
+Iraq,IRQ,all,total,2018,0.22,0.21,0.23
+Iceland,ISL,all,total,2018,0.05,0.05,0.05
+Israel,ISR,all,total,2018,0.0,0.0,0.0
+Italy,ITA,all,total,2018,0.03,0.03,0.04
+Jamaica,JAM,all,total,2018,0.19,0.18,0.2
+Jordan,JOR,all,total,2018,0.29,0.28,0.3
+Japan,JPN,all,total,2018,0.0,0.0,0.01
+Kazakhstan,KAZ,all,total,2018,0.0,0.0,0.02
+Kenya,KEN,all,total,2018,0.13,0.03,0.22
+Kyrgyzstan,KGZ,all,total,2018,0.08,0.07,0.09
+Cambodia,KHM,all,total,2018,0.23,0.21,0.24
+Kiribati,KIR,all,total,2018,0.13,0.1,0.15
+South Korea,KOR,all,total,2018,0.03,0.02,0.04
+Kuwait,KWT,all,total,2018,0.15,0.14,0.16
+Laos,LAO,all,total,2018,0.21,0.2,0.22
+Lebanon,LBN,all,total,2018,0.41,0.4,0.42
+Liberia,LBR,all,total,2018,0.25,0.23,0.28
+Saint Lucia,LCA,all,total,2018,0.06,0.05,0.07
+Liechtenstein,LIE,all,total,2018,0.04,0.04,0.05
+Sri Lanka,LKA,all,total,2018,0.06,0.05,0.07
+Lesotho,LSO,all,total,2018,0.1,0.08,0.13
+Lithuania,LTU,all,total,2018,0.0,0.0,0.0
+Luxembourg,LUX,all,total,2018,0.07,0.06,0.07
+Latvia,LVA,all,total,2018,0.01,0.01,0.01
+"Macao, China",MAC,all,total,2018,0.09,0.08,0.1
+Morocco,MAR,all,total,2018,0.12,0.11,0.12
+Rep. Moldova,MDA,all,total,2018,0.1,0.09,0.11
+Madagascar,MDG,all,total,2018,0.26,0.24,0.28
+Maldives,MDV,all,total,2018,0.12,0.11,0.14
+Mexico,MEX,all,total,2018,0.09,0.08,0.1
+Macedonia,MKD,all,total,2018,0.11,0.09,0.12
+Mali,MLI,all,total,2018,0.49,0.47,0.52
+Malta,MLT,all,total,2018,0.04,0.03,0.04
+Myanmar,MMR,all,total,2018,0.19,0.17,0.21
+Montenegro,MNE,all,total,2018,0.0,0.0,0.01
+Mongolia,MNG,all,total,2018,0.06,0.05,0.07
+Mozambique,MOZ,all,total,2018,0.24,0.22,0.26
+Mauritania,MRT,all,total,2018,0.39,0.37,0.41
+Mauritius,MUS,all,total,2018,0.07,0.05,0.08
+Malawi,MWI,all,total,2018,0.23,0.21,0.25
+Malaysia,MYS,all,total,2018,0.14,0.13,0.15
+Namibia,NAM,all,total,2018,0.04,0.02,0.07
+Niger,NER,all,total,2018,0.59,0.57,0.61
+Nigeria,NGA,all,total,2018,0.31,0.2,0.42
+Nicaragua,NIC,all,total,2018,0.02,0.0,0.08
+Netherlands,NLD,all,total,2018,0.0,0.0,0.01
+Norway,NOR,all,total,2018,0.02,0.01,0.02
+Nepal,NPL,all,total,2018,0.18,0.16,0.2
+New Zealand,NZL,all,total,2018,0.01,0.0,0.02
+Oman,OMN,all,total,2018,0.06,0.05,0.07
+Pakistan,PAK,all,total,2018,0.39,0.37,0.41
+Panama,PAN,all,total,2018,0.17,0.16,0.18
+Peru,PER,all,total,2018,0.04,0.03,0.05
+Philippines,PHL,all,total,2018,0.09,0.08,0.1
+Papua New Guinea,PNG,all,total,2018,0.24,0.21,0.27
+Poland,POL,all,total,2018,0.04,0.04,0.04
+Portugal,PRT,all,total,2018,0.0,0.0,0.01
+Paraguay,PRY,all,total,2018,0.23,0.21,0.24
+Palestine,PSE,all,total,2018,0.1,0.1,0.11
+Qatar,QAT,all,total,2018,0.13,0.13,0.14
+Romania,ROU,all,total,2018,0.13,0.13,0.14
+Rwanda,RWA,all,total,2018,0.16,0.14,0.18
+Saudi Arabia,SAU,all,total,2018,0.03,0.02,0.04
+Sudan,SDN,all,total,2018,0.39,0.37,0.42
+Senegal,SEN,all,total,2018,0.38,0.36,0.4
+Singapore,SGP,all,total,2018,0.03,0.01,0.04
+Solomon Is.,SLB,all,total,2018,0.12,0.1,0.13
+Sierra Leone,SLE,all,total,2018,0.31,0.29,0.33
+El Salvador,SLV,all,total,2018,0.19,0.18,0.2
+Serbia,SRB,all,total,2018,0.05,0.05,0.06
+S. Sudan,SSD,all,total,2018,0.61,0.53,0.69
+S. Tome/Principe,STP,all,total,2018,0.12,0.1,0.15
+Suriname,SUR,all,total,2018,0.22,0.21,0.23
+Slovakia,SVK,all,total,2018,0.07,0.06,0.07
+Slovenia,SVN,all,total,2018,0.02,0.01,0.02
+Sweden,SWE,all,total,2018,0.0,0.0,0.01
+eSwatini,SWZ,all,total,2018,0.08,0.05,0.11
+Seychelles,SYC,all,total,2018,0.05,0.04,0.06
+Syria,SYR,all,total,2018,0.18,0.17,0.19
+Chad,TCD,all,total,2018,0.52,0.51,0.54
+Togo,TGO,all,total,2018,0.3,0.28,0.31
+Thailand,THA,all,total,2018,0.06,0.05,0.07
+Tajikistan,TJK,all,total,2018,0.07,0.04,0.09
+Timor-Leste,TLS,all,total,2018,0.11,0.1,0.13
+Tonga,TON,all,total,2018,0.09,0.08,0.11
+Trinidad/Tobago,TTO,all,total,2018,0.14,0.12,0.15
+Tunisia,TUN,all,total,2018,0.09,0.08,0.1
+Turkey,TUR,all,total,2018,0.02,0.01,0.03
+Tanzania,TZA,all,total,2018,0.36,0.33,0.38
+Uganda,UGA,all,total,2018,0.25,0.22,0.29
+Ukraine,UKR,all,total,2018,0.02,0.0,0.05
+Uruguay,URY,all,total,2018,0.04,0.03,0.05
+United States of America,USA,all,total,2018,0.03,0.02,0.03
+Uzbekistan,UZB,all,total,2018,0.07,0.06,0.08
+St Vincent/Grenad.,VCT,all,total,2018,0.05,0.04,0.06
+Venezuela,VEN,all,total,2018,0.1,0.08,0.13
+Vietnam,VNM,all,total,2018,0.09,0.09,0.1
+Vanuatu,VUT,all,total,2018,0.18,0.16,0.19
+Samoa,WSM,all,total,2018,0.05,0.04,0.06
+Yemen,YEM,all,total,2018,0.27,0.22,0.31
+South Africa,ZAF,all,total,2018,0.11,0.1,0.12
+Zambia,ZMB,all,total,2018,0.23,0.2,0.26
+Zimbabwe,ZWE,all,total,2018,0.19,0.17,0.2
+Aruba,ABW,all,total,2019,0.0,0.0,0.02
+Afghanistan,AFG,all,total,2019,0.21,0.19,0.23
+Angola,AGO,all,total,2019,0.28,0.21,0.35
+Albania,ALB,all,total,2019,0.06,0.05,0.06
+Andorra,AND,all,total,2019,0.1,0.09,0.11
+United Arab Emirates,ARE,all,total,2019,0.04,0.02,0.05
+Argentina,ARG,all,total,2019,0.02,0.01,0.03
+Armenia,ARM,all,total,2019,0.12,0.11,0.13
+Antigua/Barbuda,ATG,all,total,2019,0.04,0.02,0.06
+Australia,AUS,all,total,2019,0.01,0.0,0.02
+Austria,AUT,all,total,2019,0.03,0.03,0.04
+Azerbaijan,AZE,all,total,2019,0.04,0.04,0.05
+Burundi,BDI,all,total,2019,0.26,0.24,0.28
+Belgium,BEL,all,total,2019,0.01,0.0,0.03
+Benin,BEN,all,total,2019,0.33,0.31,0.35
+Burkina Faso,BFA,all,total,2019,0.4,0.38,0.43
+Bangladesh,BGD,all,total,2019,0.19,0.18,0.21
+Bulgaria,BGR,all,total,2019,0.12,0.11,0.13
+Bahrain,BHR,all,total,2019,0.06,0.05,0.07
+Bahamas,BHS,all,total,2019,0.27,0.25,0.28
+Bosnia and Herz.,BIH,all,total,2019,0.12,0.11,0.12
+Belarus,BLR,all,total,2019,0.02,0.01,0.03
+Belize,BLZ,all,total,2019,0.11,0.1,0.11
+Bolivia,BOL,all,total,2019,0.12,0.11,0.14
+Brazil,BRA,all,total,2019,0.06,0.05,0.07
+Barbados,BRB,all,total,2019,0.02,0.01,0.04
+Brunei Daruss.,BRN,all,total,2019,0.09,0.08,0.1
+Bhutan,BTN,all,total,2019,0.09,0.08,0.11
+Botswana,BWA,all,total,2019,0.15,0.11,0.18
+Central African Rep.,CAF,all,total,2019,0.47,0.44,0.51
+Canada,CAN,all,total,2019,0.02,0.02,0.02
+Switzerland,CHE,all,total,2019,0.06,0.05,0.06
+Chile,CHL,all,total,2019,0.01,0.01,0.02
+China,CHN,all,total,2019,0.05,0.0,0.11
+Côte d'Ivoire,CIV,all,total,2019,0.32,0.31,0.34
+Cameroon,CMR,all,total,2019,0.31,0.28,0.33
+Dem. Rep. Congo,COD,all,total,2019,0.21,0.08,0.33
+Congo,COG,all,total,2019,0.24,0.2,0.29
+Colombia,COL,all,total,2019,0.05,0.04,0.06
+Comoros,COM,all,total,2019,0.29,0.26,0.31
+Cabo Verde,CPV,all,total,2019,0.13,0.1,0.15
+Costa Rica,CRI,all,total,2019,0.02,0.01,0.03
+Cuba,CUB,all,total,2019,0.07,0.06,0.08
+Cyprus,CYP,all,total,2019,0.02,0.01,0.03
+Czechia,CZE,all,total,2019,0.02,0.01,0.03
+Germany,DEU,all,total,2019,0.03,0.03,0.04
+Djibouti,DJI,all,total,2019,0.45,0.43,0.47
+Denmark,DNK,all,total,2019,0.02,0.02,0.03
+Dominican Rep.,DOM,all,total,2019,0.11,0.1,0.12
+Algeria,DZA,all,total,2019,0.05,0.05,0.06
+Ecuador,ECU,all,total,2019,0.06,0.05,0.07
+Egypt,EGY,all,total,2019,0.06,0.04,0.07
+Eritrea,ERI,all,total,2019,0.58,0.55,0.62
+Spain,ESP,all,total,2019,0.03,0.03,0.04
+Estonia,EST,all,total,2019,0.03,0.03,0.04
+Ethiopia,ETH,all,total,2019,0.35,0.33,0.37
+Finland,FIN,all,total,2019,0.02,0.01,0.02
+Fiji,FJI,all,total,2019,0.05,0.03,0.06
+France,FRA,all,total,2019,0.01,0.01,0.02
+"Micronesia, F. S.",FSM,all,total,2019,0.2,0.18,0.23
+United Kingdom,GBR,all,total,2019,0.02,0.01,0.03
+Georgia,GEO,all,total,2019,0.0,0.0,0.01
+Ghana,GHA,all,total,2019,0.18,0.15,0.2
+Guinea,GIN,all,total,2019,0.43,0.4,0.45
+Gambia,GMB,all,total,2019,0.26,0.24,0.28
+Guinea-Bissau,GNB,all,total,2019,0.36,0.29,0.42
+Equat. Guinea,GNQ,all,total,2019,0.6,0.51,0.69
+Greece,GRC,all,total,2019,0.04,0.03,0.04
+Grenada,GRD,all,total,2019,0.01,0.0,0.03
+Guatemala,GTM,all,total,2019,0.31,0.29,0.33
+Guyana,GUY,all,total,2019,0.19,0.17,0.21
+"Hong Kong, China",HKG,all,total,2019,0.0,0.0,0.0
+Honduras,HND,all,total,2019,0.32,0.3,0.33
+Croatia,HRV,all,total,2019,0.03,0.03,0.04
+Haiti,HTI,all,total,2019,0.08,0.05,0.12
+Hungary,HUN,all,total,2019,0.07,0.05,0.08
+Indonesia,IDN,all,total,2019,0.17,0.15,0.2
+India,IND,all,total,2019,0.2,0.18,0.21
+Ireland,IRL,all,total,2019,0.0,0.0,0.0
+Iran,IRN,all,total,2019,0.06,0.03,0.08
+Iraq,IRQ,all,total,2019,0.21,0.2,0.22
+Iceland,ISL,all,total,2019,0.05,0.05,0.06
+Israel,ISR,all,total,2019,0.0,0.0,0.0
+Italy,ITA,all,total,2019,0.03,0.03,0.04
+Jamaica,JAM,all,total,2019,0.21,0.2,0.22
+Jordan,JOR,all,total,2019,0.27,0.26,0.29
+Japan,JPN,all,total,2019,0.0,0.0,0.01
+Kazakhstan,KAZ,all,total,2019,0.0,0.0,0.02
+Kenya,KEN,all,total,2019,0.12,0.01,0.23
+Kyrgyzstan,KGZ,all,total,2019,0.07,0.06,0.09
+Cambodia,KHM,all,total,2019,0.23,0.21,0.24
+Kiribati,KIR,all,total,2019,0.12,0.09,0.16
+South Korea,KOR,all,total,2019,0.03,0.02,0.04
+Kuwait,KWT,all,total,2019,0.17,0.16,0.18
+Laos,LAO,all,total,2019,0.23,0.21,0.24
+Lebanon,LBN,all,total,2019,0.4,0.39,0.41
+Liberia,LBR,all,total,2019,0.27,0.24,0.3
+Saint Lucia,LCA,all,total,2019,0.05,0.04,0.06
+Liechtenstein,LIE,all,total,2019,0.04,0.03,0.04
+Sri Lanka,LKA,all,total,2019,0.05,0.04,0.06
+Lesotho,LSO,all,total,2019,0.1,0.06,0.13
+Lithuania,LTU,all,total,2019,0.0,0.0,0.0
+Luxembourg,LUX,all,total,2019,0.06,0.06,0.07
+Latvia,LVA,all,total,2019,0.01,0.0,0.01
+"Macao, China",MAC,all,total,2019,0.09,0.07,0.1
+Morocco,MAR,all,total,2019,0.11,0.1,0.12
+Rep. Moldova,MDA,all,total,2019,0.08,0.07,0.08
+Madagascar,MDG,all,total,2019,0.28,0.26,0.3
+Maldives,MDV,all,total,2019,0.11,0.09,0.13
+Mexico,MEX,all,total,2019,0.09,0.08,0.09
+Macedonia,MKD,all,total,2019,0.11,0.09,0.13
+Mali,MLI,all,total,2019,0.49,0.46,0.53
+Malta,MLT,all,total,2019,0.04,0.03,0.05
+Myanmar,MMR,all,total,2019,0.17,0.14,0.2
+Montenegro,MNE,all,total,2019,0.0,0.0,0.01
+Mongolia,MNG,all,total,2019,0.07,0.05,0.08
+Mozambique,MOZ,all,total,2019,0.23,0.2,0.25
+Mauritania,MRT,all,total,2019,0.38,0.36,0.4
+Mauritius,MUS,all,total,2019,0.07,0.05,0.08
+Malawi,MWI,all,total,2019,0.23,0.2,0.25
+Malaysia,MYS,all,total,2019,0.13,0.12,0.14
+Namibia,NAM,all,total,2019,0.04,0.01,0.06
+Niger,NER,all,total,2019,0.59,0.56,0.61
+Nigeria,NGA,all,total,2019,0.31,0.2,0.43
+Nicaragua,NIC,all,total,2019,0.02,0.0,0.08
+Netherlands,NLD,all,total,2019,0.0,0.0,0.01
+Norway,NOR,all,total,2019,0.02,0.01,0.02
+Nepal,NPL,all,total,2019,0.17,0.15,0.18
+New Zealand,NZL,all,total,2019,0.01,0.0,0.01
+Oman,OMN,all,total,2019,0.06,0.05,0.07
+Pakistan,PAK,all,total,2019,0.38,0.36,0.4
+Panama,PAN,all,total,2019,0.17,0.16,0.18
+Peru,PER,all,total,2019,0.04,0.03,0.05
+Philippines,PHL,all,total,2019,0.08,0.07,0.1
+Papua New Guinea,PNG,all,total,2019,0.24,0.2,0.28
+Poland,POL,all,total,2019,0.04,0.03,0.04
+Portugal,PRT,all,total,2019,0.0,0.0,0.01
+Paraguay,PRY,all,total,2019,0.23,0.22,0.25
+Palestine,PSE,all,total,2019,0.1,0.09,0.11
+Qatar,QAT,all,total,2019,0.12,0.11,0.13
+Romania,ROU,all,total,2019,0.13,0.13,0.14
+Rwanda,RWA,all,total,2019,0.15,0.13,0.17
+Saudi Arabia,SAU,all,total,2019,0.03,0.02,0.04
+Sudan,SDN,all,total,2019,0.39,0.37,0.42
+Senegal,SEN,all,total,2019,0.37,0.35,0.4
+Singapore,SGP,all,total,2019,0.03,0.01,0.04
+Solomon Is.,SLB,all,total,2019,0.11,0.1,0.13
+Sierra Leone,SLE,all,total,2019,0.29,0.27,0.32
+El Salvador,SLV,all,total,2019,0.21,0.2,0.22
+Serbia,SRB,all,total,2019,0.06,0.05,0.06
+S. Sudan,SSD,all,total,2019,0.61,0.51,0.7
+S. Tome/Principe,STP,all,total,2019,0.11,0.08,0.15
+Suriname,SUR,all,total,2019,0.23,0.22,0.25
+Slovakia,SVK,all,total,2019,0.07,0.06,0.07
+Slovenia,SVN,all,total,2019,0.01,0.01,0.02
+Sweden,SWE,all,total,2019,0.0,0.0,0.01
+eSwatini,SWZ,all,total,2019,0.07,0.04,0.11
+Seychelles,SYC,all,total,2019,0.04,0.03,0.05
+Syria,SYR,all,total,2019,0.19,0.18,0.2
+Chad,TCD,all,total,2019,0.53,0.51,0.55
+Togo,TGO,all,total,2019,0.28,0.26,0.3
+Thailand,THA,all,total,2019,0.06,0.05,0.07
+Tajikistan,TJK,all,total,2019,0.07,0.04,0.11
+Timor-Leste,TLS,all,total,2019,0.11,0.09,0.13
+Tonga,TON,all,total,2019,0.08,0.07,0.1
+Trinidad/Tobago,TTO,all,total,2019,0.15,0.14,0.17
+Tunisia,TUN,all,total,2019,0.08,0.07,0.09
+Turkey,TUR,all,total,2019,0.02,0.01,0.02
+Tanzania,TZA,all,total,2019,0.36,0.34,0.39
+Uganda,UGA,all,total,2019,0.26,0.21,0.3
+Ukraine,UKR,all,total,2019,0.03,0.0,0.06
+Uruguay,URY,all,total,2019,0.04,0.02,0.05
+United States of America,USA,all,total,2019,0.03,0.02,0.03
+Uzbekistan,UZB,all,total,2019,0.07,0.06,0.08
+St Vincent/Grenad.,VCT,all,total,2019,0.05,0.03,0.07
+Venezuela,VEN,all,total,2019,0.11,0.07,0.14
+Vietnam,VNM,all,total,2019,0.09,0.08,0.1
+Vanuatu,VUT,all,total,2019,0.18,0.16,0.19
+Samoa,WSM,all,total,2019,0.05,0.04,0.07
+Yemen,YEM,all,total,2019,0.26,0.21,0.31
+South Africa,ZAF,all,total,2019,0.11,0.09,0.13
+Zambia,ZMB,all,total,2019,0.22,0.19,0.26
+Zimbabwe,ZWE,all,total,2019,0.18,0.17,0.2
+Aruba,ABW,all,total,2020,0.0,0.0,0.02
+Afghanistan,AFG,all,total,2020,0.2,0.17,0.22
+Angola,AGO,all,total,2020,0.28,0.19,0.37
+Albania,ALB,all,total,2020,0.06,0.06,0.07
+Andorra,AND,all,total,2020,0.09,0.07,0.1
+United Arab Emirates,ARE,all,total,2020,0.03,0.01,0.04
+Argentina,ARG,all,total,2020,0.02,0.01,0.03
+Armenia,ARM,all,total,2020,0.11,0.1,0.12
+Antigua/Barbuda,ATG,all,total,2020,0.04,0.01,0.06
+Australia,AUS,all,total,2020,0.01,0.0,0.02
+Austria,AUT,all,total,2020,0.03,0.02,0.04
+Azerbaijan,AZE,all,total,2020,0.05,0.04,0.06
+Burundi,BDI,all,total,2020,0.29,0.26,0.32
+Belgium,BEL,all,total,2020,0.01,0.0,0.03
+Benin,BEN,all,total,2020,0.33,0.3,0.35
+Burkina Faso,BFA,all,total,2020,0.4,0.38,0.43
+Bangladesh,BGD,all,total,2020,0.18,0.16,0.2
+Bulgaria,BGR,all,total,2020,0.14,0.13,0.15
+Bahrain,BHR,all,total,2020,0.06,0.04,0.08
+Bahamas,BHS,all,total,2020,0.27,0.24,0.29
+Bosnia and Herz.,BIH,all,total,2020,0.12,0.11,0.13
+Belarus,BLR,all,total,2020,0.02,0.01,0.03
+Belize,BLZ,all,total,2020,0.1,0.09,0.11
+Bolivia,BOL,all,total,2020,0.12,0.11,0.13
+Brazil,BRA,all,total,2020,0.06,0.04,0.08
+Barbados,BRB,all,total,2020,0.03,0.02,0.04
+Brunei Daruss.,BRN,all,total,2020,0.09,0.08,0.1
+Bhutan,BTN,all,total,2020,0.09,0.07,0.11
+Botswana,BWA,all,total,2020,0.15,0.11,0.18
+Central African Rep.,CAF,all,total,2020,0.48,0.44,0.52
+Canada,CAN,all,total,2020,0.02,0.01,0.02
+Switzerland,CHE,all,total,2020,0.06,0.05,0.06
+Chile,CHL,all,total,2020,0.01,0.0,0.02
+China,CHN,all,total,2020,0.05,0.0,0.11
+Côte d'Ivoire,CIV,all,total,2020,0.29,0.27,0.31
+Cameroon,CMR,all,total,2020,0.31,0.28,0.34
+Dem. Rep. Congo,COD,all,total,2020,0.2,0.08,0.33
+Congo,COG,all,total,2020,0.24,0.18,0.29
+Colombia,COL,all,total,2020,0.05,0.04,0.06
+Comoros,COM,all,total,2020,0.29,0.26,0.31
+Cabo Verde,CPV,all,total,2020,0.13,0.09,0.16
+Costa Rica,CRI,all,total,2020,0.02,0.01,0.03
+Cuba,CUB,all,total,2020,0.07,0.06,0.08
+Cyprus,CYP,all,total,2020,0.01,0.0,0.02
+Czechia,CZE,all,total,2020,0.02,0.01,0.03
+Germany,DEU,all,total,2020,0.03,0.03,0.04
+Djibouti,DJI,all,total,2020,0.44,0.42,0.46
+Denmark,DNK,all,total,2020,0.02,0.01,0.03
+Dominican Rep.,DOM,all,total,2020,0.13,0.12,0.14
+Algeria,DZA,all,total,2020,0.05,0.04,0.06
+Ecuador,ECU,all,total,2020,0.07,0.06,0.08
+Egypt,EGY,all,total,2020,0.04,0.03,0.06
+Eritrea,ERI,all,total,2020,0.59,0.54,0.65
+Spain,ESP,all,total,2020,0.03,0.03,0.04
+Estonia,EST,all,total,2020,0.03,0.03,0.04
+Ethiopia,ETH,all,total,2020,0.34,0.32,0.37
+Finland,FIN,all,total,2020,0.02,0.01,0.02
+Fiji,FJI,all,total,2020,0.05,0.03,0.07
+France,FRA,all,total,2020,0.01,0.01,0.02
+"Micronesia, F. S.",FSM,all,total,2020,0.2,0.18,0.23
+United Kingdom,GBR,all,total,2020,0.03,0.01,0.04
+Georgia,GEO,all,total,2020,0.0,0.0,0.01
+Ghana,GHA,all,total,2020,0.17,0.14,0.2
+Guinea,GIN,all,total,2020,0.42,0.39,0.45
+Gambia,GMB,all,total,2020,0.24,0.22,0.27
+Guinea-Bissau,GNB,all,total,2020,0.36,0.3,0.43
+Equat. Guinea,GNQ,all,total,2020,0.6,0.49,0.71
+Greece,GRC,all,total,2020,0.04,0.03,0.05
+Grenada,GRD,all,total,2020,0.01,0.0,0.03
+Guatemala,GTM,all,total,2020,0.32,0.29,0.34
+Guyana,GUY,all,total,2020,0.18,0.16,0.21
+"Hong Kong, China",HKG,all,total,2020,0.0,0.0,0.0
+Honduras,HND,all,total,2020,0.32,0.3,0.33
+Croatia,HRV,all,total,2020,0.03,0.03,0.03
+Haiti,HTI,all,total,2020,0.08,0.04,0.13
+Hungary,HUN,all,total,2020,0.07,0.05,0.09
+Indonesia,IDN,all,total,2020,0.19,0.15,0.22
+India,IND,all,total,2020,0.19,0.18,0.21
+Ireland,IRL,all,total,2020,0.0,0.0,0.0
+Iran,IRN,all,total,2020,0.05,0.03,0.07
+Iraq,IRQ,all,total,2020,0.19,0.18,0.2
+Iceland,ISL,all,total,2020,0.05,0.04,0.06
+Israel,ISR,all,total,2020,0.0,0.0,0.0
+Italy,ITA,all,total,2020,0.03,0.03,0.04
+Jamaica,JAM,all,total,2020,0.23,0.22,0.25
+Jordan,JOR,all,total,2020,0.26,0.25,0.27
+Japan,JPN,all,total,2020,0.0,0.0,0.01
+Kazakhstan,KAZ,all,total,2020,0.0,0.0,0.04
+Kenya,KEN,all,total,2020,0.12,0.0,0.24
+Kyrgyzstan,KGZ,all,total,2020,0.07,0.05,0.08
+Cambodia,KHM,all,total,2020,0.22,0.2,0.25
+Kiribati,KIR,all,total,2020,0.12,0.08,0.16
+South Korea,KOR,all,total,2020,0.03,0.02,0.04
+Kuwait,KWT,all,total,2020,0.19,0.18,0.2
+Laos,LAO,all,total,2020,0.24,0.22,0.26
+Lebanon,LBN,all,total,2020,0.39,0.38,0.4
+Liberia,LBR,all,total,2020,0.28,0.24,0.31
+Saint Lucia,LCA,all,total,2020,0.04,0.03,0.05
+Liechtenstein,LIE,all,total,2020,0.03,0.03,0.04
+Sri Lanka,LKA,all,total,2020,0.04,0.03,0.05
+Lesotho,LSO,all,total,2020,0.08,0.05,0.12
+Lithuania,LTU,all,total,2020,0.0,0.0,0.0
+Luxembourg,LUX,all,total,2020,0.06,0.05,0.06
+Latvia,LVA,all,total,2020,0.01,0.0,0.02
+"Macao, China",MAC,all,total,2020,0.08,0.07,0.1
+Morocco,MAR,all,total,2020,0.1,0.09,0.11
+Rep. Moldova,MDA,all,total,2020,0.05,0.05,0.06
+Madagascar,MDG,all,total,2020,0.3,0.28,0.32
+Maldives,MDV,all,total,2020,0.1,0.07,0.13
+Mexico,MEX,all,total,2020,0.08,0.07,0.09
+Macedonia,MKD,all,total,2020,0.12,0.09,0.14
+Mali,MLI,all,total,2020,0.49,0.44,0.53
+Malta,MLT,all,total,2020,0.04,0.03,0.05
+Myanmar,MMR,all,total,2020,0.15,0.11,0.19
+Montenegro,MNE,all,total,2020,0.0,0.0,0.01
+Mongolia,MNG,all,total,2020,0.08,0.05,0.1
+Mozambique,MOZ,all,total,2020,0.21,0.19,0.24
+Mauritania,MRT,all,total,2020,0.38,0.35,0.4
+Mauritius,MUS,all,total,2020,0.07,0.05,0.08
+Malawi,MWI,all,total,2020,0.23,0.2,0.26
+Malaysia,MYS,all,total,2020,0.12,0.11,0.13
+Namibia,NAM,all,total,2020,0.03,0.01,0.05
+Niger,NER,all,total,2020,0.59,0.56,0.61
+Nigeria,NGA,all,total,2020,0.31,0.2,0.43
+Nicaragua,NIC,all,total,2020,0.02,0.0,0.09
+Netherlands,NLD,all,total,2020,0.0,0.0,0.01
+Norway,NOR,all,total,2020,0.02,0.01,0.02
+Nepal,NPL,all,total,2020,0.16,0.13,0.18
+New Zealand,NZL,all,total,2020,0.0,0.0,0.01
+Oman,OMN,all,total,2020,0.07,0.06,0.08
+Pakistan,PAK,all,total,2020,0.37,0.34,0.4
+Panama,PAN,all,total,2020,0.17,0.15,0.18
+Peru,PER,all,total,2020,0.03,0.02,0.04
+Philippines,PHL,all,total,2020,0.08,0.06,0.1
+Papua New Guinea,PNG,all,total,2020,0.23,0.18,0.29
+Poland,POL,all,total,2020,0.04,0.03,0.04
+Portugal,PRT,all,total,2020,0.0,0.0,0.01
+Paraguay,PRY,all,total,2020,0.24,0.22,0.26
+Palestine,PSE,all,total,2020,0.1,0.08,0.11
+Qatar,QAT,all,total,2020,0.1,0.09,0.11
+Romania,ROU,all,total,2020,0.14,0.13,0.14
+Rwanda,RWA,all,total,2020,0.14,0.12,0.17
+Saudi Arabia,SAU,all,total,2020,0.03,0.02,0.04
+Sudan,SDN,all,total,2020,0.41,0.37,0.45
+Senegal,SEN,all,total,2020,0.37,0.34,0.4
+Singapore,SGP,all,total,2020,0.03,0.01,0.05
+Solomon Is.,SLB,all,total,2020,0.11,0.09,0.13
+Sierra Leone,SLE,all,total,2020,0.28,0.25,0.3
+El Salvador,SLV,all,total,2020,0.23,0.22,0.25
+Serbia,SRB,all,total,2020,0.06,0.05,0.07
+S. Sudan,SSD,all,total,2020,0.61,0.49,0.72
+S. Tome/Principe,STP,all,total,2020,0.11,0.07,0.14
+Suriname,SUR,all,total,2020,0.24,0.23,0.26
+Slovakia,SVK,all,total,2020,0.06,0.06,0.07
+Slovenia,SVN,all,total,2020,0.01,0.01,0.02
+Sweden,SWE,all,total,2020,0.0,0.0,0.01
+eSwatini,SWZ,all,total,2020,0.08,0.03,0.12
+Seychelles,SYC,all,total,2020,0.04,0.03,0.05
+Syria,SYR,all,total,2020,0.2,0.19,0.21
+Chad,TCD,all,total,2020,0.53,0.51,0.55
+Togo,TGO,all,total,2020,0.26,0.24,0.28
+Thailand,THA,all,total,2020,0.06,0.04,0.07
+Tajikistan,TJK,all,total,2020,0.08,0.03,0.13
+Timor-Leste,TLS,all,total,2020,0.1,0.08,0.12
+Tonga,TON,all,total,2020,0.07,0.05,0.09
+Trinidad/Tobago,TTO,all,total,2020,0.17,0.16,0.19
+Tunisia,TUN,all,total,2020,0.07,0.06,0.08
+Turkey,TUR,all,total,2020,0.01,0.0,0.02
+Tanzania,TZA,all,total,2020,0.36,0.33,0.39
+Uganda,UGA,all,total,2020,0.26,0.2,0.31
+Ukraine,UKR,all,total,2020,0.03,0.0,0.06
+Uruguay,URY,all,total,2020,0.03,0.02,0.05
+United States of America,USA,all,total,2020,0.02,0.02,0.03
+Uzbekistan,UZB,all,total,2020,0.07,0.06,0.09
+St Vincent/Grenad.,VCT,all,total,2020,0.05,0.02,0.08
+Venezuela,VEN,all,total,2020,0.11,0.06,0.15
+Vietnam,VNM,all,total,2020,0.08,0.07,0.09
+Vanuatu,VUT,all,total,2020,0.18,0.17,0.2
+Samoa,WSM,all,total,2020,0.06,0.04,0.07
+Yemen,YEM,all,total,2020,0.25,0.18,0.32
+South Africa,ZAF,all,total,2020,0.11,0.09,0.13
+Zambia,ZMB,all,total,2020,0.22,0.17,0.26
+Zimbabwe,ZWE,all,total,2020,0.18,0.16,0.2
+Aruba,ABW,all,total,2021,0.0,0.0,0.02
+Afghanistan,AFG,all,total,2021,0.18,0.15,0.21
+Angola,AGO,all,total,2021,0.27,0.17,0.38
+Albania,ALB,all,total,2021,0.06,0.05,0.07
+Andorra,AND,all,total,2021,0.08,0.06,0.1
+United Arab Emirates,ARE,all,total,2021,0.02,0.01,0.03
+Argentina,ARG,all,total,2021,0.02,0.01,0.03
+Armenia,ARM,all,total,2021,0.11,0.09,0.12
+Antigua/Barbuda,ATG,all,total,2021,0.03,0.0,0.06
+Australia,AUS,all,total,2021,0.01,0.0,0.02
+Austria,AUT,all,total,2021,0.03,0.02,0.04
+Azerbaijan,AZE,all,total,2021,0.05,0.04,0.06
+Burundi,BDI,all,total,2021,0.26,0.22,0.29
+Belgium,BEL,all,total,2021,0.01,0.0,0.03
+Benin,BEN,all,total,2021,0.32,0.29,0.35
+Burkina Faso,BFA,all,total,2021,0.4,0.37,0.43
+Bangladesh,BGD,all,total,2021,0.16,0.14,0.18
+Bulgaria,BGR,all,total,2021,0.15,0.14,0.17
+Bahrain,BHR,all,total,2021,0.05,0.03,0.08
+Bahamas,BHS,all,total,2021,0.26,0.23,0.29
+Bosnia and Herz.,BIH,all,total,2021,0.14,0.13,0.15
+Belarus,BLR,all,total,2021,0.02,0.01,0.04
+Belize,BLZ,all,total,2021,0.09,0.08,0.11
+Bolivia,BOL,all,total,2021,0.11,0.1,0.13
+Brazil,BRA,all,total,2021,0.06,0.04,0.08
+Barbados,BRB,all,total,2021,0.03,0.01,0.05
+Brunei Daruss.,BRN,all,total,2021,0.08,0.07,0.1
+Bhutan,BTN,all,total,2021,0.08,0.06,0.11
+Botswana,BWA,all,total,2021,0.14,0.1,0.19
+Central African Rep.,CAF,all,total,2021,0.49,0.44,0.54
+Canada,CAN,all,total,2021,0.01,0.01,0.02
+Switzerland,CHE,all,total,2021,0.05,0.04,0.06
+Chile,CHL,all,total,2021,0.01,0.0,0.02
+China,CHN,all,total,2021,0.05,0.0,0.12
+Côte d'Ivoire,CIV,all,total,2021,0.26,0.24,0.29
+Cameroon,CMR,all,total,2021,0.31,0.28,0.34
+Dem. Rep. Congo,COD,all,total,2021,0.2,0.07,0.33
+Congo,COG,all,total,2021,0.23,0.16,0.3
+Colombia,COL,all,total,2021,0.04,0.03,0.05
+Comoros,COM,all,total,2021,0.28,0.25,0.32
+Cabo Verde,CPV,all,total,2021,0.12,0.08,0.17
+Costa Rica,CRI,all,total,2021,0.01,0.0,0.03
+Cuba,CUB,all,total,2021,0.07,0.06,0.09
+Cyprus,CYP,all,total,2021,0.01,0.0,0.02
+Czechia,CZE,all,total,2021,0.02,0.01,0.04
+Germany,DEU,all,total,2021,0.03,0.02,0.04
+Djibouti,DJI,all,total,2021,0.43,0.4,0.45
+Denmark,DNK,all,total,2021,0.02,0.01,0.03
+Dominican Rep.,DOM,all,total,2021,0.14,0.13,0.16
+Algeria,DZA,all,total,2021,0.06,0.04,0.07
+Ecuador,ECU,all,total,2021,0.07,0.06,0.08
+Egypt,EGY,all,total,2021,0.03,0.02,0.05
+Eritrea,ERI,all,total,2021,0.6,0.54,0.67
+Spain,ESP,all,total,2021,0.03,0.02,0.04
+Estonia,EST,all,total,2021,0.03,0.02,0.04
+Ethiopia,ETH,all,total,2021,0.34,0.31,0.37
+Finland,FIN,all,total,2021,0.02,0.01,0.03
+Fiji,FJI,all,total,2021,0.05,0.03,0.07
+France,FRA,all,total,2021,0.01,0.0,0.01
+"Micronesia, F. S.",FSM,all,total,2021,0.2,0.16,0.24
+United Kingdom,GBR,all,total,2021,0.03,0.01,0.04
+Georgia,GEO,all,total,2021,0.0,0.0,0.01
+Ghana,GHA,all,total,2021,0.19,0.15,0.22
+Guinea,GIN,all,total,2021,0.41,0.37,0.45
+Gambia,GMB,all,total,2021,0.23,0.2,0.25
+Guinea-Bissau,GNB,all,total,2021,0.37,0.3,0.44
+Equat. Guinea,GNQ,all,total,2021,0.6,0.47,0.72
+Greece,GRC,all,total,2021,0.04,0.03,0.05
+Grenada,GRD,all,total,2021,0.01,0.0,0.04
+Guatemala,GTM,all,total,2021,0.27,0.24,0.29
+Guyana,GUY,all,total,2021,0.18,0.14,0.22
+"Hong Kong, China",HKG,all,total,2021,0.0,0.0,0.0
+Honduras,HND,all,total,2021,0.32,0.3,0.34
+Croatia,HRV,all,total,2021,0.02,0.02,0.03
+Haiti,HTI,all,total,2021,0.08,0.03,0.14
+Hungary,HUN,all,total,2021,0.08,0.05,0.1
+Indonesia,IDN,all,total,2021,0.19,0.15,0.24
+India,IND,all,total,2021,0.19,0.17,0.21
+Ireland,IRL,all,total,2021,0.0,0.0,0.0
+Iran,IRN,all,total,2021,0.05,0.02,0.07
+Iraq,IRQ,all,total,2021,0.18,0.16,0.19
+Iceland,ISL,all,total,2021,0.05,0.04,0.06
+Israel,ISR,all,total,2021,0.0,0.0,0.0
+Italy,ITA,all,total,2021,0.04,0.02,0.05
+Jamaica,JAM,all,total,2021,0.26,0.25,0.27
+Jordan,JOR,all,total,2021,0.25,0.23,0.27
+Japan,JPN,all,total,2021,0.0,0.0,0.01
+Kazakhstan,KAZ,all,total,2021,0.0,0.0,0.05
+Kenya,KEN,all,total,2021,0.12,0.0,0.25
+Kyrgyzstan,KGZ,all,total,2021,0.06,0.04,0.08
+Cambodia,KHM,all,total,2021,0.22,0.19,0.26
+Kiribati,KIR,all,total,2021,0.12,0.07,0.17
+South Korea,KOR,all,total,2021,0.03,0.01,0.04
+Kuwait,KWT,all,total,2021,0.22,0.2,0.24
+Laos,LAO,all,total,2021,0.25,0.22,0.27
+Lebanon,LBN,all,total,2021,0.38,0.36,0.39
+Liberia,LBR,all,total,2021,0.29,0.24,0.34
+Saint Lucia,LCA,all,total,2021,0.03,0.02,0.05
+Liechtenstein,LIE,all,total,2021,0.03,0.02,0.03
+Sri Lanka,LKA,all,total,2021,0.03,0.02,0.05
+Lesotho,LSO,all,total,2021,0.07,0.03,0.11
+Lithuania,LTU,all,total,2021,0.0,0.0,0.0
+Luxembourg,LUX,all,total,2021,0.05,0.04,0.06
+Latvia,LVA,all,total,2021,0.01,0.0,0.02
+"Macao, China",MAC,all,total,2021,0.08,0.06,0.1
+Morocco,MAR,all,total,2021,0.09,0.08,0.1
+Rep. Moldova,MDA,all,total,2021,0.04,0.03,0.04
+Madagascar,MDG,all,total,2021,0.33,0.3,0.35
+Maldives,MDV,all,total,2021,0.09,0.06,0.13
+Mexico,MEX,all,total,2021,0.07,0.06,0.09
+Macedonia,MKD,all,total,2021,0.12,0.09,0.14
+Mali,MLI,all,total,2021,0.48,0.43,0.54
+Malta,MLT,all,total,2021,0.04,0.03,0.05
+Myanmar,MMR,all,total,2021,0.13,0.08,0.18
+Montenegro,MNE,all,total,2021,0.0,0.0,0.01
+Mongolia,MNG,all,total,2021,0.08,0.05,0.11
+Mozambique,MOZ,all,total,2021,0.2,0.16,0.23
+Mauritania,MRT,all,total,2021,0.37,0.34,0.4
+Mauritius,MUS,all,total,2021,0.06,0.04,0.08
+Malawi,MWI,all,total,2021,0.24,0.19,0.28
+Malaysia,MYS,all,total,2021,0.16,0.14,0.18
+Namibia,NAM,all,total,2021,0.02,0.0,0.05
+Niger,NER,all,total,2021,0.59,0.55,0.62
+Nigeria,NGA,all,total,2021,0.31,0.19,0.44
+Nicaragua,NIC,all,total,2021,0.02,0.0,0.09
+Netherlands,NLD,all,total,2021,0.0,0.0,0.01
+Norway,NOR,all,total,2021,0.02,0.01,0.03
+Nepal,NPL,all,total,2021,0.15,0.12,0.18
+New Zealand,NZL,all,total,2021,0.0,0.0,0.02
+Oman,OMN,all,total,2021,0.07,0.06,0.09
+Pakistan,PAK,all,total,2021,0.36,0.31,0.4
+Panama,PAN,all,total,2021,0.17,0.15,0.19
+Peru,PER,all,total,2021,0.03,0.02,0.04
+Philippines,PHL,all,total,2021,0.08,0.06,0.1
+Papua New Guinea,PNG,all,total,2021,0.23,0.17,0.3
+Poland,POL,all,total,2021,0.04,0.03,0.04
+Portugal,PRT,all,total,2021,0.0,0.0,0.01
+Paraguay,PRY,all,total,2021,0.26,0.24,0.28
+Palestine,PSE,all,total,2021,0.09,0.08,0.11
+Qatar,QAT,all,total,2021,0.1,0.08,0.11
+Romania,ROU,all,total,2021,0.14,0.12,0.15
+Rwanda,RWA,all,total,2021,0.13,0.11,0.16
+Saudi Arabia,SAU,all,total,2021,0.03,0.01,0.04
+Sudan,SDN,all,total,2021,0.41,0.36,0.46
+Senegal,SEN,all,total,2021,0.37,0.34,0.4
+Singapore,SGP,all,total,2021,0.03,0.0,0.06
+Solomon Is.,SLB,all,total,2021,0.1,0.07,0.13
+Sierra Leone,SLE,all,total,2021,0.26,0.22,0.29
+El Salvador,SLV,all,total,2021,0.25,0.23,0.27
+Serbia,SRB,all,total,2021,0.06,0.05,0.07
+S. Sudan,SSD,all,total,2021,0.6,0.48,0.73
+S. Tome/Principe,STP,all,total,2021,0.1,0.05,0.14
+Suriname,SUR,all,total,2021,0.26,0.24,0.28
+Slovakia,SVK,all,total,2021,0.06,0.05,0.07
+Slovenia,SVN,all,total,2021,0.01,0.01,0.02
+Sweden,SWE,all,total,2021,0.0,0.0,0.01
+eSwatini,SWZ,all,total,2021,0.08,0.03,0.13
+Seychelles,SYC,all,total,2021,0.03,0.02,0.05
+Syria,SYR,all,total,2021,0.21,0.2,0.22
+Chad,TCD,all,total,2021,0.52,0.49,0.55
+Togo,TGO,all,total,2021,0.24,0.22,0.26
+Thailand,THA,all,total,2021,0.06,0.04,0.08
+Tajikistan,TJK,all,total,2021,0.09,0.03,0.15
+Timor-Leste,TLS,all,total,2021,0.1,0.07,0.13
+Tonga,TON,all,total,2021,0.06,0.04,0.07
+Trinidad/Tobago,TTO,all,total,2021,0.2,0.18,0.21
+Tunisia,TUN,all,total,2021,0.06,0.05,0.07
+Turkey,TUR,all,total,2021,0.01,0.0,0.02
+Tanzania,TZA,all,total,2021,0.36,0.32,0.39
+Uganda,UGA,all,total,2021,0.26,0.19,0.32
+Ukraine,UKR,all,total,2021,0.03,0.0,0.07
+Uruguay,URY,all,total,2021,0.03,0.01,0.05
+United States of America,USA,all,total,2021,0.02,0.01,0.03
+Uzbekistan,UZB,all,total,2021,0.07,0.05,0.09
+St Vincent/Grenad.,VCT,all,total,2021,0.04,0.01,0.08
+Venezuela,VEN,all,total,2021,0.11,0.06,0.16
+Vietnam,VNM,all,total,2021,0.07,0.06,0.09
+Vanuatu,VUT,all,total,2021,0.19,0.17,0.21
+Samoa,WSM,all,total,2021,0.06,0.04,0.08
+Yemen,YEM,all,total,2021,0.24,0.16,0.33
+South Africa,ZAF,all,total,2021,0.11,0.08,0.14
+Zambia,ZMB,all,total,2021,0.21,0.16,0.26
+Zimbabwe,ZWE,all,total,2021,0.17,0.15,0.2
+Aruba,ABW,all,total,2022,0.0,0.0,0.02
+Afghanistan,AFG,all,total,2022,0.64,0.61,0.68
+Angola,AGO,all,total,2022,0.27,0.14,0.39
+Albania,ALB,all,total,2022,0.06,0.05,0.07
+Andorra,AND,all,total,2022,0.07,0.05,0.09
+United Arab Emirates,ARE,all,total,2022,0.02,0.0,0.03
+Argentina,ARG,all,total,2022,0.02,0.0,0.03
+Armenia,ARM,all,total,2022,0.11,0.09,0.13
+Antigua/Barbuda,ATG,all,total,2022,0.03,0.0,0.06
+Australia,AUS,all,total,2022,0.01,0.0,0.02
+Austria,AUT,all,total,2022,0.03,0.01,0.04
+Azerbaijan,AZE,all,total,2022,0.05,0.03,0.07
+Burundi,BDI,all,total,2022,0.25,0.21,0.3
+Belgium,BEL,all,total,2022,0.01,0.0,0.03
+Benin,BEN,all,total,2022,0.31,0.27,0.34
+Burkina Faso,BFA,all,total,2022,0.39,0.35,0.43
+Bangladesh,BGD,all,total,2022,0.14,0.11,0.17
+Bulgaria,BGR,all,total,2022,0.17,0.15,0.19
+Bahrain,BHR,all,total,2022,0.05,0.02,0.08
+Bahamas,BHS,all,total,2022,0.25,0.21,0.3
+Bosnia and Herz.,BIH,all,total,2022,0.16,0.15,0.18
+Belarus,BLR,all,total,2022,0.02,0.0,0.04
+Belize,BLZ,all,total,2022,0.09,0.07,0.11
+Bolivia,BOL,all,total,2022,0.1,0.08,0.12
+Brazil,BRA,all,total,2022,0.06,0.03,0.09
+Barbados,BRB,all,total,2022,0.03,0.01,0.06
+Brunei Daruss.,BRN,all,total,2022,0.07,0.05,0.1
+Bhutan,BTN,all,total,2022,0.08,0.05,0.11
+Botswana,BWA,all,total,2022,0.14,0.09,0.2
+Central African Rep.,CAF,all,total,2022,0.5,0.44,0.57
+Canada,CAN,all,total,2022,0.01,0.0,0.02
+Switzerland,CHE,all,total,2022,0.05,0.03,0.06
+Chile,CHL,all,total,2022,0.01,0.0,0.02
+China,CHN,all,total,2022,0.06,0.0,0.14
+Côte d'Ivoire,CIV,all,total,2022,0.24,0.21,0.27
+Cameroon,CMR,all,total,2022,0.31,0.27,0.35
+Dem. Rep. Congo,COD,all,total,2022,0.2,0.06,0.34
+Congo,COG,all,total,2022,0.23,0.15,0.31
+Colombia,COL,all,total,2022,0.04,0.03,0.05
+Comoros,COM,all,total,2022,0.29,0.25,0.32
+Cabo Verde,CPV,all,total,2022,0.12,0.06,0.18
+Costa Rica,CRI,all,total,2022,0.01,0.0,0.02
+Cuba,CUB,all,total,2022,0.08,0.06,0.1
+Cyprus,CYP,all,total,2022,0.01,0.0,0.02
+Czechia,CZE,all,total,2022,0.02,0.0,0.05
+Germany,DEU,all,total,2022,0.03,0.02,0.04
+Djibouti,DJI,all,total,2022,0.42,0.39,0.45
+Denmark,DNK,all,total,2022,0.02,0.01,0.03
+Dominican Rep.,DOM,all,total,2022,0.16,0.13,0.19
+Algeria,DZA,all,total,2022,0.06,0.04,0.07
+Ecuador,ECU,all,total,2022,0.07,0.06,0.09
+Egypt,EGY,all,total,2022,0.03,0.01,0.04
+Eritrea,ERI,all,total,2022,0.61,0.53,0.7
+Spain,ESP,all,total,2022,0.04,0.02,0.05
+Estonia,EST,all,total,2022,0.03,0.02,0.04
+Ethiopia,ETH,all,total,2022,0.33,0.29,0.37
+Finland,FIN,all,total,2022,0.02,0.01,0.03
+Fiji,FJI,all,total,2022,0.04,0.02,0.07
+France,FRA,all,total,2022,0.01,0.0,0.01
+"Micronesia, F. S.",FSM,all,total,2022,0.2,0.15,0.25
+United Kingdom,GBR,all,total,2022,0.03,0.01,0.05
+Georgia,GEO,all,total,2022,0.0,0.0,0.01
+Ghana,GHA,all,total,2022,0.18,0.13,0.23
+Guinea,GIN,all,total,2022,0.39,0.34,0.44
+Gambia,GMB,all,total,2022,0.21,0.18,0.24
+Guinea-Bissau,GNB,all,total,2022,0.37,0.29,0.45
+Equat. Guinea,GNQ,all,total,2022,0.6,0.45,0.74
+Greece,GRC,all,total,2022,0.04,0.03,0.06
+Grenada,GRD,all,total,2022,0.01,0.0,0.05
+Guatemala,GTM,all,total,2022,0.26,0.23,0.29
+Guyana,GUY,all,total,2022,0.19,0.14,0.24
+"Hong Kong, China",HKG,all,total,2022,0.0,0.0,0.0
+Honduras,HND,all,total,2022,0.32,0.29,0.34
+Croatia,HRV,all,total,2022,0.02,0.01,0.03
+Haiti,HTI,all,total,2022,0.09,0.02,0.15
+Hungary,HUN,all,total,2022,0.08,0.05,0.12
+Indonesia,IDN,all,total,2022,0.2,0.15,0.26
+India,IND,all,total,2022,0.19,0.17,0.21
+Ireland,IRL,all,total,2022,0.0,0.0,0.0
+Iran,IRN,all,total,2022,0.04,0.01,0.07
+Iraq,IRQ,all,total,2022,0.16,0.14,0.18
+Iceland,ISL,all,total,2022,0.04,0.03,0.06
+Israel,ISR,all,total,2022,0.0,0.0,0.0
+Italy,ITA,all,total,2022,0.04,0.02,0.05
+Jamaica,JAM,all,total,2022,0.28,0.26,0.3
+Jordan,JOR,all,total,2022,0.24,0.22,0.26
+Japan,JPN,all,total,2022,0.0,0.0,0.01
+Kazakhstan,KAZ,all,total,2022,0.0,0.0,0.05
+Kenya,KEN,all,total,2022,0.11,0.0,0.26
+Kyrgyzstan,KGZ,all,total,2022,0.05,0.03,0.08
+Cambodia,KHM,all,total,2022,0.22,0.18,0.27
+Kiribati,KIR,all,total,2022,0.12,0.05,0.18
+South Korea,KOR,all,total,2022,0.02,0.0,0.04
+Kuwait,KWT,all,total,2022,0.25,0.23,0.28
+Laos,LAO,all,total,2022,0.25,0.22,0.29
+Lebanon,LBN,all,total,2022,0.36,0.34,0.39
+Liberia,LBR,all,total,2022,0.3,0.24,0.36
+Saint Lucia,LCA,all,total,2022,0.03,0.01,0.05
+Liechtenstein,LIE,all,total,2022,0.02,0.01,0.03
+Sri Lanka,LKA,all,total,2022,0.03,0.01,0.05
+Lesotho,LSO,all,total,2022,0.06,0.02,0.11
+Lithuania,LTU,all,total,2022,0.0,0.0,0.0
+Luxembourg,LUX,all,total,2022,0.05,0.04,0.06
+Latvia,LVA,all,total,2022,0.01,0.0,0.02
+"Macao, China",MAC,all,total,2022,0.08,0.05,0.1
+Morocco,MAR,all,total,2022,0.08,0.06,0.1
+Rep. Moldova,MDA,all,total,2022,0.02,0.02,0.03
+Madagascar,MDG,all,total,2022,0.35,0.31,0.38
+Maldives,MDV,all,total,2022,0.09,0.05,0.13
+Mexico,MEX,all,total,2022,0.07,0.05,0.08
+Macedonia,MKD,all,total,2022,0.12,0.09,0.15
+Mali,MLI,all,total,2022,0.48,0.4,0.55
+Malta,MLT,all,total,2022,0.04,0.02,0.06
+Myanmar,MMR,all,total,2022,0.12,0.06,0.17
+Montenegro,MNE,all,total,2022,0.0,0.0,0.01
+Mongolia,MNG,all,total,2022,0.09,0.05,0.12
+Mozambique,MOZ,all,total,2022,0.18,0.14,0.22
+Mauritania,MRT,all,total,2022,0.36,0.32,0.4
+Mauritius,MUS,all,total,2022,0.05,0.03,0.07
+Malawi,MWI,all,total,2022,0.24,0.19,0.29
+Malaysia,MYS,all,total,2022,0.15,0.12,0.17
+Namibia,NAM,all,total,2022,0.02,0.0,0.05
+Niger,NER,all,total,2022,0.59,0.55,0.64
+Nigeria,NGA,all,total,2022,0.32,0.17,0.46
+Nicaragua,NIC,all,total,2022,0.02,0.0,0.09
+Netherlands,NLD,all,total,2022,0.0,0.0,0.01
+Norway,NOR,all,total,2022,0.01,0.0,0.03
+Nepal,NPL,all,total,2022,0.14,0.11,0.18
+New Zealand,NZL,all,total,2022,0.0,0.0,0.02
+Oman,OMN,all,total,2022,0.08,0.06,0.1
+Pakistan,PAK,all,total,2022,0.34,0.28,0.4
+Panama,PAN,all,total,2022,0.16,0.14,0.19
+Peru,PER,all,total,2022,0.03,0.01,0.04
+Philippines,PHL,all,total,2022,0.07,0.05,0.1
+Papua New Guinea,PNG,all,total,2022,0.23,0.15,0.31
+Poland,POL,all,total,2022,0.03,0.02,0.04
+Portugal,PRT,all,total,2022,0.0,0.0,0.01
+Paraguay,PRY,all,total,2022,0.27,0.25,0.3
+Palestine,PSE,all,total,2022,0.09,0.07,0.11
+Qatar,QAT,all,total,2022,0.09,0.08,0.11
+Romania,ROU,all,total,2022,0.14,0.12,0.16
+Rwanda,RWA,all,total,2022,0.12,0.09,0.16
+Saudi Arabia,SAU,all,total,2022,0.02,0.01,0.04
+Sudan,SDN,all,total,2022,0.41,0.34,0.48
+Senegal,SEN,all,total,2022,0.36,0.32,0.4
+Singapore,SGP,all,total,2022,0.03,0.0,0.06
+Solomon Is.,SLB,all,total,2022,0.09,0.06,0.13
+Sierra Leone,SLE,all,total,2022,0.24,0.19,0.29
+El Salvador,SLV,all,total,2022,0.27,0.24,0.3
+Serbia,SRB,all,total,2022,0.06,0.05,0.07
+S. Sudan,SSD,all,total,2022,0.6,0.46,0.75
+S. Tome/Principe,STP,all,total,2022,0.09,0.04,0.14
+Suriname,SUR,all,total,2022,0.27,0.24,0.3
+Slovakia,SVK,all,total,2022,0.06,0.05,0.08
+Slovenia,SVN,all,total,2022,0.01,0.0,0.02
+Sweden,SWE,all,total,2022,0.0,0.0,0.01
+eSwatini,SWZ,all,total,2022,0.08,0.02,0.14
+Seychelles,SYC,all,total,2022,0.03,0.01,0.05
+Syria,SYR,all,total,2022,0.22,0.2,0.23
+Chad,TCD,all,total,2022,0.51,0.47,0.55
+Togo,TGO,all,total,2022,0.22,0.19,0.25
+Thailand,THA,all,total,2022,0.05,0.03,0.08
+Tajikistan,TJK,all,total,2022,0.09,0.01,0.17
+Timor-Leste,TLS,all,total,2022,0.09,0.06,0.13
+Tonga,TON,all,total,2022,0.04,0.02,0.07
+Trinidad/Tobago,TTO,all,total,2022,0.22,0.19,0.25
+Tunisia,TUN,all,total,2022,0.05,0.04,0.06
+Turkey,TUR,all,total,2022,0.01,0.0,0.02
+Tanzania,TZA,all,total,2022,0.35,0.31,0.39
+Uganda,UGA,all,total,2022,0.25,0.18,0.33
+Ukraine,UKR,all,total,2022,0.03,0.0,0.08
+Uruguay,URY,all,total,2022,0.03,0.01,0.05
+United States of America,USA,all,total,2022,0.02,0.01,0.03
+Uzbekistan,UZB,all,total,2022,0.07,0.05,0.09
+St Vincent/Grenad.,VCT,all,total,2022,0.04,0.0,0.08
+Venezuela,VEN,all,total,2022,0.11,0.05,0.18
+Vietnam,VNM,all,total,2022,0.06,0.05,0.08
+Vanuatu,VUT,all,total,2022,0.19,0.17,0.22
+Samoa,WSM,all,total,2022,0.06,0.04,0.08
+Yemen,YEM,all,total,2022,0.24,0.14,0.34
+South Africa,ZAF,all,total,2022,0.11,0.07,0.16
+Zambia,ZMB,all,total,2022,0.2,0.14,0.26
+Zimbabwe,ZWE,all,total,2022,0.17,0.13,0.2
+Aruba,ABW,all,total,2023,0.0,0.0,0.02
+Afghanistan,AFG,all,total,2023,0.65,0.61,0.69
+Angola,AGO,all,total,2023,0.26,0.12,0.4
+Albania,ALB,all,total,2023,0.06,0.04,0.08
+Andorra,AND,all,total,2023,0.07,0.05,0.1
+United Arab Emirates,ARE,all,total,2023,0.01,0.0,0.03
+Argentina,ARG,all,total,2023,0.02,0.0,0.03
+Armenia,ARM,all,total,2023,0.11,0.08,0.14
+Antigua/Barbuda,ATG,all,total,2023,0.03,0.0,0.06
+Australia,AUS,all,total,2023,0.01,0.0,0.02
+Austria,AUT,all,total,2023,0.02,0.01,0.04
+Azerbaijan,AZE,all,total,2023,0.06,0.03,0.08
+Burundi,BDI,all,total,2023,0.25,0.19,0.31
+Belgium,BEL,all,total,2023,0.01,0.0,0.03
+Benin,BEN,all,total,2023,0.29,0.25,0.33
+Burkina Faso,BFA,all,total,2023,0.38,0.33,0.44
+Bangladesh,BGD,all,total,2023,0.12,0.09,0.16
+Bulgaria,BGR,all,total,2023,0.18,0.15,0.22
+Bahrain,BHR,all,total,2023,0.05,0.01,0.09
+Bahamas,BHS,all,total,2023,0.24,0.19,0.3
+Bosnia and Herz.,BIH,all,total,2023,0.19,0.16,0.21
+Belarus,BLR,all,total,2023,0.02,0.0,0.05
+Belize,BLZ,all,total,2023,0.09,0.06,0.12
+Bolivia,BOL,all,total,2023,0.09,0.07,0.11
+Brazil,BRA,all,total,2023,0.06,0.02,0.09
+Barbados,BRB,all,total,2023,0.04,0.01,0.07
+Brunei Daruss.,BRN,all,total,2023,0.06,0.03,0.09
+Bhutan,BTN,all,total,2023,0.08,0.04,0.11
+Botswana,BWA,all,total,2023,0.14,0.08,0.21
+Central African Rep.,CAF,all,total,2023,0.51,0.44,0.59
+Canada,CAN,all,total,2023,0.01,0.0,0.02
+Switzerland,CHE,all,total,2023,0.04,0.02,0.06
+Chile,CHL,all,total,2023,0.01,0.0,0.02
+China,CHN,all,total,2023,0.06,0.0,0.15
+Côte d'Ivoire,CIV,all,total,2023,0.21,0.17,0.25
+Cameroon,CMR,all,total,2023,0.31,0.26,0.36
+Dem. Rep. Congo,COD,all,total,2023,0.19,0.05,0.34
+Congo,COG,all,total,2023,0.23,0.13,0.33
+Colombia,COL,all,total,2023,0.03,0.02,0.05
+Comoros,COM,all,total,2023,0.29,0.24,0.34
+Cabo Verde,CPV,all,total,2023,0.12,0.04,0.19
+Costa Rica,CRI,all,total,2023,0.01,0.0,0.02
+Cuba,CUB,all,total,2023,0.08,0.06,0.1
+Cyprus,CYP,all,total,2023,0.01,0.0,0.02
+Czechia,CZE,all,total,2023,0.03,0.0,0.05
+Germany,DEU,all,total,2023,0.03,0.01,0.05
+Djibouti,DJI,all,total,2023,0.41,0.37,0.45
+Denmark,DNK,all,total,2023,0.01,0.0,0.03
+Dominican Rep.,DOM,all,total,2023,0.17,0.13,0.21
+Algeria,DZA,all,total,2023,0.06,0.04,0.08
+Ecuador,ECU,all,total,2023,0.07,0.05,0.1
+Egypt,EGY,all,total,2023,0.02,0.0,0.04
+Eritrea,ERI,all,total,2023,0.62,0.52,0.72
+Spain,ESP,all,total,2023,0.04,0.02,0.06
+Estonia,EST,all,total,2023,0.03,0.02,0.05
+Ethiopia,ETH,all,total,2023,0.33,0.27,0.38
+Finland,FIN,all,total,2023,0.02,0.0,0.03
+Fiji,FJI,all,total,2023,0.04,0.01,0.07
+France,FRA,all,total,2023,0.0,0.0,0.01
+"Micronesia, F. S.",FSM,all,total,2023,0.2,0.14,0.27
+United Kingdom,GBR,all,total,2023,0.03,0.01,0.06
+Georgia,GEO,all,total,2023,0.0,0.0,0.01
+Ghana,GHA,all,total,2023,0.17,0.12,0.23
+Guinea,GIN,all,total,2023,0.38,0.32,0.44
+Gambia,GMB,all,total,2023,0.2,0.15,0.24
+Guinea-Bissau,GNB,all,total,2023,0.37,0.28,0.46
+Equat. Guinea,GNQ,all,total,2023,0.6,0.43,0.77
+Greece,GRC,all,total,2023,0.05,0.02,0.07
+Grenada,GRD,all,total,2023,0.01,0.0,0.06
+Guatemala,GTM,all,total,2023,0.24,0.21,0.28
+Guyana,GUY,all,total,2023,0.19,0.12,0.26
+"Hong Kong, China",HKG,all,total,2023,0.0,0.0,0.0
+Honduras,HND,all,total,2023,0.31,0.28,0.35
+Croatia,HRV,all,total,2023,0.02,0.0,0.03
+Haiti,HTI,all,total,2023,0.09,0.02,0.15
+Hungary,HUN,all,total,2023,0.09,0.05,0.13
+Indonesia,IDN,all,total,2023,0.21,0.14,0.28
+India,IND,all,total,2023,0.18,0.16,0.21
+Ireland,IRL,all,total,2023,0.0,0.0,0.0
+Iran,IRN,all,total,2023,0.03,0.0,0.06
+Iraq,IRQ,all,total,2023,0.15,0.12,0.18
+Iceland,ISL,all,total,2023,0.04,0.02,0.06
+Israel,ISR,all,total,2023,0.0,0.0,0.0
+Italy,ITA,all,total,2023,0.04,0.02,0.07
+Jamaica,JAM,all,total,2023,0.3,0.28,0.33
+Jordan,JOR,all,total,2023,0.23,0.2,0.26
+Japan,JPN,all,total,2023,0.0,0.0,0.01
+Kazakhstan,KAZ,all,total,2023,0.0,0.0,0.06
+Kenya,KEN,all,total,2023,0.11,0.0,0.27
+Kyrgyzstan,KGZ,all,total,2023,0.05,0.02,0.07
+Cambodia,KHM,all,total,2023,0.22,0.17,0.28
+Kiribati,KIR,all,total,2023,0.12,0.04,0.2
+South Korea,KOR,all,total,2023,0.02,0.0,0.04
+Kuwait,KWT,all,total,2023,0.29,0.25,0.33
+Laos,LAO,all,total,2023,0.26,0.22,0.3
+Lebanon,LBN,all,total,2023,0.35,0.31,0.38
+Liberia,LBR,all,total,2023,0.31,0.24,0.39
+Saint Lucia,LCA,all,total,2023,0.02,0.0,0.05
+Liechtenstein,LIE,all,total,2023,0.01,0.01,0.03
+Sri Lanka,LKA,all,total,2023,0.02,0.0,0.04
+Lesotho,LSO,all,total,2023,0.05,0.01,0.1
+Lithuania,LTU,all,total,2023,0.0,0.0,0.0
+Luxembourg,LUX,all,total,2023,0.04,0.03,0.06
+Latvia,LVA,all,total,2023,0.01,0.0,0.02
+"Macao, China",MAC,all,total,2023,0.07,0.04,0.1
+Morocco,MAR,all,total,2023,0.07,0.05,0.09
+Rep. Moldova,MDA,all,total,2023,0.01,0.01,0.02
+Madagascar,MDG,all,total,2023,0.37,0.32,0.42
+Maldives,MDV,all,total,2023,0.09,0.04,0.14
+Mexico,MEX,all,total,2023,0.06,0.04,0.08
+Macedonia,MKD,all,total,2023,0.12,0.09,0.16
+Mali,MLI,all,total,2023,0.47,0.38,0.57
+Malta,MLT,all,total,2023,0.04,0.02,0.07
+Myanmar,MMR,all,total,2023,0.11,0.04,0.18
+Montenegro,MNE,all,total,2023,0.0,0.0,0.01
+Mongolia,MNG,all,total,2023,0.08,0.04,0.12
+Mozambique,MOZ,all,total,2023,0.16,0.11,0.21
+Mauritania,MRT,all,total,2023,0.36,0.3,0.41
+Mauritius,MUS,all,total,2023,0.05,0.02,0.07
+Malawi,MWI,all,total,2023,0.24,0.18,0.31
+Malaysia,MYS,all,total,2023,0.13,0.1,0.16
+Namibia,NAM,all,total,2023,0.02,0.0,0.05
+Niger,NER,all,total,2023,0.6,0.54,0.65
+Nigeria,NGA,all,total,2023,0.32,0.16,0.47
+Nicaragua,NIC,all,total,2023,0.02,0.0,0.1
+Netherlands,NLD,all,total,2023,0.0,0.0,0.01
+Norway,NOR,all,total,2023,0.01,0.0,0.03
+Nepal,NPL,all,total,2023,0.13,0.09,0.17
+New Zealand,NZL,all,total,2023,0.0,0.0,0.02
+Oman,OMN,all,total,2023,0.08,0.06,0.1
+Pakistan,PAK,all,total,2023,0.33,0.25,0.41
+Panama,PAN,all,total,2023,0.16,0.12,0.2
+Peru,PER,all,total,2023,0.02,0.01,0.04
+Philippines,PHL,all,total,2023,0.07,0.03,0.1
+Papua New Guinea,PNG,all,total,2023,0.23,0.13,0.33
+Poland,POL,all,total,2023,0.03,0.02,0.04
+Portugal,PRT,all,total,2023,0.0,0.0,0.01
+Paraguay,PRY,all,total,2023,0.29,0.25,0.32
+Palestine,PSE,all,total,2023,0.09,0.06,0.12
+Qatar,QAT,all,total,2023,0.09,0.07,0.11
+Romania,ROU,all,total,2023,0.13,0.11,0.16
+Rwanda,RWA,all,total,2023,0.11,0.07,0.16
+Saudi Arabia,SAU,all,total,2023,0.02,0.01,0.04
+Sudan,SDN,all,total,2023,0.41,0.31,0.51
+Senegal,SEN,all,total,2023,0.36,0.31,0.41
+Singapore,SGP,all,total,2023,0.03,0.0,0.07
+Solomon Is.,SLB,all,total,2023,0.09,0.05,0.12
+Sierra Leone,SLE,all,total,2023,0.22,0.16,0.29
+El Salvador,SLV,all,total,2023,0.28,0.24,0.32
+Serbia,SRB,all,total,2023,0.06,0.04,0.08
+S. Sudan,SSD,all,total,2023,0.6,0.45,0.76
+S. Tome/Principe,STP,all,total,2023,0.08,0.02,0.14
+Suriname,SUR,all,total,2023,0.28,0.24,0.32
+Slovakia,SVK,all,total,2023,0.06,0.04,0.08
+Slovenia,SVN,all,total,2023,0.01,0.0,0.02
+Sweden,SWE,all,total,2023,0.0,0.0,0.01
+eSwatini,SWZ,all,total,2023,0.08,0.01,0.15
+Seychelles,SYC,all,total,2023,0.03,0.0,0.05
+Syria,SYR,all,total,2023,0.22,0.19,0.24
+Chad,TCD,all,total,2023,0.5,0.45,0.56
+Togo,TGO,all,total,2023,0.2,0.16,0.23
+Thailand,THA,all,total,2023,0.05,0.02,0.08
+Tajikistan,TJK,all,total,2023,0.1,0.0,0.19
+Timor-Leste,TLS,all,total,2023,0.08,0.04,0.13
+Tonga,TON,all,total,2023,0.04,0.01,0.06
+Trinidad/Tobago,TTO,all,total,2023,0.24,0.2,0.28
+Tunisia,TUN,all,total,2023,0.05,0.03,0.06
+Turkey,TUR,all,total,2023,0.01,0.0,0.02
+Tanzania,TZA,all,total,2023,0.35,0.3,0.4
+Uganda,UGA,all,total,2023,0.25,0.15,0.34
+Ukraine,UKR,all,total,2023,0.03,0.0,0.09
+Uruguay,URY,all,total,2023,0.03,0.0,0.05
+United States of America,USA,all,total,2023,0.02,0.0,0.03
+Uzbekistan,UZB,all,total,2023,0.06,0.04,0.09
+St Vincent/Grenad.,VCT,all,total,2023,0.03,0.0,0.08
+Venezuela,VEN,all,total,2023,0.12,0.04,0.2
+Vietnam,VNM,all,total,2023,0.05,0.03,0.07
+Vanuatu,VUT,all,total,2023,0.2,0.16,0.23
+Samoa,WSM,all,total,2023,0.06,0.03,0.09
+Yemen,YEM,all,total,2023,0.24,0.12,0.35
+South Africa,ZAF,all,total,2023,0.12,0.06,0.17
+Zambia,ZMB,all,total,2023,0.19,0.12,0.27
+Zimbabwe,ZWE,all,total,2023,0.16,0.12,0.2
